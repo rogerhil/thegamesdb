@@ -3,7 +3,7 @@ python:
   - 3.3
   - 3.4
   - 3.5
-script: make
+script: nosetests
 install:
     - pip install -r development.txt
     - python setup.py build
