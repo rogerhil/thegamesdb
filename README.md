@@ -4,11 +4,18 @@
 [![Build Status](https://travis-ci.org/rogerhil/thegamesdb.svg?branch=master)](https://travis-ci.org/rogerhil/thegamesdb)
 
 
-
 Based on the The Games DB API: http://wiki.thegamesdb.net/index.php/Main_Page
+
+## Installation
+
+    $ python setup.py install
+
+
+## Usage examples
 
     >>> from thegamesdb import TheGamesDb
     >>> api = TheGamesDb()
+
 
 ## Platform Resource
 
