@@ -46,12 +46,12 @@ class TestGame(BaseTest):
         self._test_individual_game(game)
 
     def _test_individual_game(self, game):
-        self.assertTrue(isinstance(game, Game))
-        self.assertFalse(getattr(game, 'id', None) is None)
-        self.assertFalse(getattr(game, 'name', None) is None)
+        self.assertIsInstance(game, Game)
+        self.assertIsNotNone(getattr(game, 'id', None))
+        self.assertIsNotNone(getattr(game, 'name', None))
         if getattr(game, 'releasedate') is None:
             print("Game (%s): the attribute releasedate is None" % game)
-        #self.assertFalse(getattr(game, 'releasedate', None) is None,
+        #self.assertIsNotNone(getattr(game, 'releasedate', None),
         #                 "%s - %s" % (game, 'releasedate'))
         self.assertFalse(getattr(game, 'platform', None) is None)
         for attr in Game.extra_attributes:
@@ -75,18 +75,18 @@ class TestPlatform(BaseTest):
         self._test_individual_platform(platform)
 
     def _test_individual_platform(self, platform):
-        self.assertTrue(isinstance(platform, Platform))
-        self.assertFalse(getattr(platform, 'id', None) is None)
-        self.assertFalse(getattr(platform, 'name', None) is None)
-        self.assertFalse(getattr(platform, 'alias', None) is None)
+        self.assertIsInstance(platform, Platform)
+        self.assertIsNotNone(getattr(platform, 'id', None))
+        self.assertIsNotNone(getattr(platform, 'name', None))
+        self.assertIsNotNone(getattr(platform, 'alias', None))
         for attr in Platform.extra_attributes:
             self.assertTrue(hasattr(platform, attr),
                             "%s - %s" % (platform, attr))
             if getattr(platform, attr) is None:
                 print("Platform (%s): the attribute %s is None"
                       % (platform, attr))
-            #self.assertFalse(getattr(platform, attr) is None,
-            #                 "%s - %s" % (platform, attr))
+            #self.assertIsNotNone(getattr(platform, attr),
+            #                     "%s - %s" % (platform, attr))
 
     def test_aliases(self):
         platforms = self.api.platform.list()

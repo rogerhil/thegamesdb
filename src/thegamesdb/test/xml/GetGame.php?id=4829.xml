@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4829</id>
+<GameTitle>Battle Chess</GameTitle>
+<PlatformId>25</PlatformId>
+<Platform>3DO</Platform>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<Overview>Battle Chess is a quite typical chess game, but it comes with a twist: all pieces are represented by small, realistic figures that walk around on the chessboard, and when one piece takes another, they both take part in an animated battle. There is a different animation for each permutation, depending on which pieces are capturing or being captured. You can also play in 2D without animation.
+
+The game's opening library includes 30,000 different moves, ensuring a variety of games will unfold across the 10 skill levels.
+
+Multi-player support can be extended to modem and/or serial port play.</Overview>
+<Genres><genre>Strategy</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Interplay</Publisher>
+<Developer>Interplay</Developer>
+<Rating>10</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>10167</id><PlatformId>4911</PlatformId></Game><Game><id>1637</id><PlatformId>7</PlatformId></Game><Game><id>14020</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1530" height="2156" thumb="boxart/thumb/original/back/4829-1.jpg">boxart/original/back/4829-1.jpg</boxart>
+<boxart side="front" width="1518" height="2156" thumb="boxart/thumb/original/front/4829-1.jpg">boxart/original/front/4829-1.jpg</boxart>
+<banner width="760" height="140">graphical/4829-g.jpg</banner><screenshot>
+<original width="638" height="476">screenshots/4829-1.jpg</original>
+<thumb>screenshots/thumb/4829-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="86">clearlogo/4829.png</clearlogo></Images>
+</Game>
+</Data>

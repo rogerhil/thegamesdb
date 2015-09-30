@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3143</id>
+<GameTitle>AD&amp;D: Slayer</GameTitle>
+<AlternateTitles><title>Slayer</title></AlternateTitles><PlatformId>25</PlatformId>
+<Platform>3DO</Platform>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Overview>Slayer features a customizable dungeon generator so each time the player starts the game, they will be faced with a new dungeon.</Overview>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Strategic Designs</Publisher>
+<Developer>Lion Entertainment</Developer>
+<Images>
+<boxart side="back" width="1530" height="2156" thumb="boxart/thumb/original/back/3143-1.jpg">boxart/original/back/3143-1.jpg</boxart>
+<boxart side="front" width="1518" height="2156" thumb="boxart/thumb/original/front/3143-1.jpg">boxart/original/front/3143-1.jpg</boxart>
+<screenshot>
+<original width="640" height="480">screenshots/3143-1.jpg</original>
+<thumb>screenshots/thumb/3143-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="680" height="452">screenshots/3143-2.jpg</original>
+<thumb>screenshots/thumb/3143-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>
