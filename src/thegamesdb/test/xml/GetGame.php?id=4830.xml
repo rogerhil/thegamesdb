@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4830</id>
+<GameTitle>Brain Dead 13</GameTitle>
+<PlatformId>25</PlatformId>
+<Platform>3DO</Platform>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<Overview>In Braindead 13, the player takes on the role of a young computer expert who one day is called to fix a computer at some scary castle and in no time flat, finds himself in trouble.
+
+It is up to the player to use the complex moves of an interactive movie to escape from the castle. This animated adventure is basically based on the player's judgment on which direction you think the character might go, and if the player guesses wrong, death.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>ReadySoft Incorporated</Publisher>
+<Developer>ReadySoft Incorporated</Developer>
+<Rating>10</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>22983</id><PlatformId>4917</PlatformId></Game><Game><id>14420</id><PlatformId>17</PlatformId></Game><Game><id>11698</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1530" height="2156" thumb="boxart/thumb/original/back/4830-1.jpg">boxart/original/back/4830-1.jpg</boxart>
+<boxart side="front" width="1518" height="2156" thumb="boxart/thumb/original/front/4830-1.jpg">boxart/original/front/4830-1.jpg</boxart>
+<screenshot>
+<original width="480" height="360">screenshots/4830-1.jpg</original>
+<thumb>screenshots/thumb/4830-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="480" height="360">screenshots/4830-2.jpg</original>
+<thumb>screenshots/thumb/4830-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="480" height="320">screenshots/4830-3.jpg</original>
+<thumb>screenshots/thumb/4830-3.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="63">clearlogo/4830.png</clearlogo></Images>
+</Game>
+</Data>

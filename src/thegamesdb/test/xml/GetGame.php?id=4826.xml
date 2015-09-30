@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4826</id>
+<GameTitle>Blade Force</GameTitle>
+<PlatformId>25</PlatformId>
+<Platform>3DO</Platform>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Overview>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family. He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city. With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>The 3DO Company</Publisher>
+<Developer>Studio 3DO</Developer>
+<Images>
+<boxart side="back" width="1530" height="2156" thumb="boxart/thumb/original/back/4826-1.jpg">boxart/original/back/4826-1.jpg</boxart>
+<boxart side="front" width="1518" height="2156" thumb="boxart/thumb/original/front/4826-1.jpg">boxart/original/front/4826-1.jpg</boxart>
+<screenshot>
+<original width="720" height="480">screenshots/4826-1.jpg</original>
+<thumb>screenshots/thumb/4826-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="720" height="480">screenshots/4826-2.jpg</original>
+<thumb>screenshots/thumb/4826-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="50">clearlogo/4826.png</clearlogo></Images>
+</Game>
+</Data>

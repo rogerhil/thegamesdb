@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>6429</id>
+<GameTitle>Mad Dog McCree</GameTitle>
+<PlatformId>25</PlatformId>
+<Platform>3DO</Platform>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Overview>
+Mag Dog McCree and his gang have kidnapped the Mayor and his daughter, and its up to you to rescue them. You must blast through bars and bank robberies to take the gang out and save everything you regard as good and true. Where the game differed from other Operation Wolf-influenced shoot 'em ups was in the use of live video, with real people appearing on the screen before you shoot them down. You have unlimited continues with which to reach the end, so the actors will have their screen deaths seen by as many people as they would had they starred in a film.
+</Overview>
+<Genres>
+<genre>Shooter</genre>
+</Genres>
+<Co-op>No</Co-op>
+<Publisher>Crystal Dynamics</Publisher>
+<Developer>American Laser Games</Developer>
+<Similar>
+<SimilarCount>3</SimilarCount>
+<Game>
+<id>28615</id>
+<PlatformId>23</PlatformId>
+</Game>
+<Game>
+<id>23043</id>
+<PlatformId>4917</PlatformId>
+</Game>
+<Game>
+<id>5056</id>
+<PlatformId>21</PlatformId>
+</Game>
+</Similar>
+<Images>
+<boxart side="back" width="1530" height="2156" thumb="boxart/thumb/original/back/6429-1.jpg">boxart/original/back/6429-1.jpg</boxart>
+<boxart side="front" width="1518" height="2156" thumb="boxart/thumb/original/front/6429-1.jpg">boxart/original/front/6429-1.jpg</boxart>
+<banner width="760" height="140">graphical/6429-g.jpg</banner>
+<clearlogo width="400" height="150">clearlogo/6429.png</clearlogo>
+</Images>
+</Game>
+</Data>
