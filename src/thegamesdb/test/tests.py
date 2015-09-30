@@ -49,19 +49,26 @@ class TestGame(BaseTest):
         self.assertTrue(isinstance(game, Game))
         self.assertFalse(getattr(game, 'id', None) is None)
         self.assertFalse(getattr(game, 'name', None) is None)
-        self.assertFalse(getattr(game, 'releasedate', None) is None)
+        if getattr(game, 'releasedate') is None:
+            print("Game (%s): the attribute releasedate is None" % game)
+        #self.assertFalse(getattr(game, 'releasedate', None) is None,
+        #                 "%s - %s" % (game, 'releasedate'))
         self.assertFalse(getattr(game, 'platform', None) is None)
         for attr in Game.extra_attributes:
-            self.assertTrue(hasattr(game, attr))
-            self.assertFalse(getattr(game, attr) is None)
+            self.assertTrue(hasattr(game, attr),
+                            "%s - %s" % (game, attr))
+            if getattr(game, attr) is None:
+                print("Game (%s): the attribute %s is None" % (game, attr))
+            #self.assertFalse(getattr(game, attr) is None,
+            #                 "%s - %s" % (game, attr))
 
 
 class TestPlatform(BaseTest):
 
     def test_list(self):
-        platforms = self.api.platfomr.list()
+        platforms = self.api.platform.list()
         for platform in platforms:
-            self._test_individual_game(platform)
+            self._test_individual_platform(platform)
 
     def test_get(self):
         platform = self.api.platform.get(15)
@@ -73,11 +80,17 @@ class TestPlatform(BaseTest):
         self.assertFalse(getattr(platform, 'name', None) is None)
         self.assertFalse(getattr(platform, 'alias', None) is None)
         for attr in Platform.extra_attributes:
-            self.assertTrue(hasattr(platform, attr))
-            self.assertFalse(getattr(platform, attr) is None)
+            self.assertTrue(hasattr(platform, attr),
+                            "%s - %s" % (platform, attr))
+            if getattr(platform, attr) is None:
+                print("Platform (%s): the attribute %s is None"
+                      % (platform, attr))
+            #self.assertFalse(getattr(platform, attr) is None,
+            #                 "%s - %s" % (platform, attr))
 
     def test_aliases(self):
-        platforms = self.api.platfomr.list()
+        platforms = self.api.platform.list()
         for platform in platforms:
             platform_from_get = self.api.platform.get(platform.id)
-            self.assertEquals(platform.alias, platform_from_get.alias)
+            self.assertEquals(platform.alias, platform_from_get.alias,
+                              "The platform id is: %s" % platform.id)

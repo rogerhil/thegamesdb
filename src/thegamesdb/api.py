@@ -27,7 +27,7 @@ __maintainer__ = "Rogerio Hilbert Lima"
 __email__ = "rogerhil@gmail.com"
 
 from urllib.parse import urlencode
-from urllib.request import HTTPHandler, Request, urlopen
+from urllib.request import Request, urlopen
 from random import randint
 from xmltodict import parse
 
@@ -74,22 +74,27 @@ class TheGamesDb(object):
         the response object.
         """
         url = "%s%s" % (self.base_url, path)
-        data = urlencode(params).encode('utf-8')
-        print(data)
-        request = Request(url, data)
-        request.add_header('User-Agent', self.get_random_agent())
-        request.get_method = lambda: 'GET'
+        data = urlencode(params)
+        url = "%s?%s" % (url, data)
+        headers = {'User-Agent': self.get_random_agent()}
+        request = Request(url, headers=headers, method='GET')
         with urlopen(request) as response:
-            response = response.read()
-            self.last_response = response
-        return response
+            response_str = response.read()
+            self.last_response = response_str
+        return response_str
 
     def get_data(self, path, **params):
         """ Giving a service path and optional specific arguments, returns
         the XML data from the API parsed as a dict structure.
         """
         xml = self.get_response(path, **params)
-        return parse(xml)
+        try:
+            return parse(xml)
+        except Exception as err:
+            print(path)
+            print(params)
+            print(err)
+            raise err
 
     def get_random_agent(self):
         """ Randomly returns one of the items in the the user_agents list

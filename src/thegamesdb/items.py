@@ -42,12 +42,17 @@ class Platform(BaseItem):
     extra_attributes = [
         'console', 'controller', 'overview', 'developer', 'manufacturer',
         'cpu', 'memory', 'graphics', 'sound', 'display', 'media',
-        'maxcontrollers', 'rating', 'Images'
+        'maxcontrollers', 'rating', 'images'
     ]
     translate = {'platform': 'name'}
+    aliases_fix = {
+        'Nintendo Game Boy': 'nintendo-gameboy',
+        'Nintendo Game Boy Advance': 'nintendo-gameboy-advance',
+        'Nintendo Game Boy Color': 'nintendo-gameboy-color',
+    }
 
     def games(self):
         """ This resource provides this extra method to retrieve all the games
         for this platform.
         """
-        return self.resource.games(self.alias)
+        return self.resource.games(self.name)

@@ -22,7 +22,6 @@ __copyright__ = "Copyright (C) 2015 Rogerio Hilbert Lima <rogerhil@gmail.com>"
 __license__ = "GPL"
 
 import os
-from io import StringIO
 from urllib.parse import urlencode
 
 from ..api import TheGamesDb
@@ -38,8 +37,6 @@ class TheGamesDbMock(TheGamesDb):
     method to read XML files saved locally instead of using the network.
     """
 
-    xml_path = os.path.join(BASE_DIR, 'test/xml')
-
     def get_response(self, path, **params):
         """ Each XML file save has the exact service path name with the
         parameters, so it's easy to get the proper by checking the file names.
@@ -48,10 +45,10 @@ class TheGamesDbMock(TheGamesDb):
         """
         service = XmlsDb.get_service_path_by_path_params(path, **params)
         response = None
-        for filename in os.listdir(self.xml_path):
+        for filename in os.listdir(XmlsDb.xml_path):
             if service == os.path.splitext(filename)[0]:
-                with open(os.path.join(self.xml_path, filename)) as xml:
-                    response = StringIO(xml.read())
+                with open(os.path.join(XmlsDb.xml_path, filename)) as xml:
+                    response = xml.read()
         if response is None:
             raise MockException('No mock xml file for "%s"' % service)
         return response
@@ -59,11 +56,14 @@ class TheGamesDbMock(TheGamesDb):
 
 class XmlsDb(object):
 
+    xml_path = os.path.join(BASE_DIR, 'test/xml')
+
     def __init__(self):
         self.api = TheGamesDb()
 
     @staticmethod
     def get_service_path_by_path_params(path, **params):
+        params = dict([(k, v) for k, v in params.items() if v])
         qs = ("?%s" % urlencode(params) if params else "")
         service = "%s%s" % (path, qs)
         return service
@@ -71,26 +71,34 @@ class XmlsDb(object):
     @classmethod
     def save_xml(cls, data, path, **params):
         service = cls.get_service_path_by_path_params(path, **params)
-        with open("%s.xml" % service, 'w') as xml:
-            xml.write(str(data))
+        with open(os.path.join(cls.xml_path, "%s.xml" % service), 'w') as xml:
+            xml.write(data.decode('utf-8'))
 
     def update_platforms_xmls(self):
         platforms = self.api.platform.list()
         self.save_xml(self.api.last_response, self.api.platform.list_path)
         for platform in platforms:
             self.api.platform.get(platform.id)
-            platform_alias_plus = platform.alias.replace('-', '+')
+            platform_name_plus = platform.name.lower()
             self.save_xml(self.api.last_response, self.api.platform.get_path,
-                          platform=platform_alias_plus)
+                          id=platform.id)
             platform.games()
             self.save_xml(self.api.last_response, self.api.platform.games_path,
-                          platform=platform_alias_plus)
+                          platform=platform_name_plus)
 
     def update_games_xmls(self):
         games = self.api.game.list(name='x-men')
-        self.save_xml(self.api.last_response, self.api.platform.list_path,
+        self.save_xml(self.api.last_response, self.api.game.list_path,
                       name='x-men')
         for game in games:
             self.api.game.get(game.id)
-            self.save_xml(self.api.last_response, self.api.platform.get_path,
+            self.save_xml(self.api.last_response, self.api.game.get_path,
                           id=game.id)
+        games = self.api.game.list(name='Origins')
+        self.save_xml(self.api.last_response, self.api.game.list_path,
+                      name='Origins')
+        for game in games:
+            self.api.game.get(game.id)
+            self.save_xml(self.api.last_response, self.api.game.get_path,
+                          id=game.id)
+

@@ -41,6 +41,7 @@ class BaseItem(object):
     """
     extra_attributes = []
     translate = {}
+    aliases_fix = {}
 
     def __init__(self, resource, **kwargs):
         """ It requires the correspond resource instance and generic kwargs
@@ -100,5 +101,11 @@ class BaseItem(object):
         name.
         """
         if self._alias is None:
-            self._alias = self.name.lower().replace(' ', '-')
+            if self.name in self.aliases_fix:
+                self._alias = self.aliases_fix[self.name]
+            else:
+                self._alias = self.name.lower()\
+                                  .replace(' ', '-')\
+                                  .replace('(', '')\
+                                  .replace(')', '')
         return self._alias
