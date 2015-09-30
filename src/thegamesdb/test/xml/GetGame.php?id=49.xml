@@ -1,0 +1,34 @@
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>49</id>
+<GameTitle>Ninja Gaiden II</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>06/03/2008</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Genres>
+<genre>Action</genre>
+</Genres>
+<Co-op>No</Co-op>
+<Publisher>Tecmo</Publisher>
+<Developer>Team Ninja</Developer>
+<Rating>7</Rating>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/49-1.jpg</original>
+<thumb>fanart/thumb/49-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/49-2.jpg</original>
+<thumb>fanart/thumb/49-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/49-3.jpg</original>
+<thumb>fanart/thumb/49-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="1518" height="2148" thumb="boxart/thumb/original/back/49-1.jpg">boxart/original/back/49-1.jpg</boxart>
+<boxart side="front" width="1530" height="2148" thumb="boxart/thumb/original/front/49-1.jpg">boxart/original/front/49-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

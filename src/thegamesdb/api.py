@@ -1,5 +1,33 @@
+# TheGamesDb API, Python Wrapper
+# http://wiki.thegamesdb.net/index.php/Main_Page
+# Copyright (C) 2015 Rogerio Hilbert Lima <rogerhil@gmail.com>
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+""" This is the main module containing the main class TheGamesDb that provides
+the resources and its methods to retrieve games related data through the
+Games DB API (http://wiki.thegamesdb.net/index.php/Main_Page).
+"""
+__author__ = "Rogerio Hilbert Lima"
+__copyright__ = "Copyright (C) 2015 Rogerio Hilbert Lima <rogerhil@gmail.com>"
+__license__ = "GPL"
+__version__ = "0.1"
+__maintainer__ = "Rogerio Hilbert Lima"
+__email__ = "rogerhil@gmail.com"
+
 from urllib.parse import urlencode
-from urllib.request import build_opener, HTTPHandler, Request
+from urllib.request import HTTPHandler, Request, urlopen
 from random import randint
 from xmltodict import parse
 
@@ -20,33 +48,51 @@ USER_AGENTS = [
 
 
 class TheGamesDb(object):
+    """ The main class for The Games Db API. It provides the following
+    resources at the momment:
+
+    >>> api = TheGamesDb()
+    >>> api.game
+    <GameResource get,list>
+    >>> api.platform
+    <PlatformResource get,list,games>
+    """
 
     base_url = 'http://thegamesdb.net/api/'
 
     def __init__(self):
+        """ This constructor just sets the resources instances and the user
+        agents to avoid to being banned by the API server.
+        """
         self.game = GameResource(self)
         self.platform = PlatformResource(self)
         self.user_agents = USER_AGENTS
+        self.last_response = None
 
     def get_response(self, path, **params):
-        """
+        """ Giving a service path and optional specific arguments, returns
+        the response object.
         """
         url = "%s%s" % (self.base_url, path)
-        opener = build_opener(HTTPHandler)
-        request = Request(url)
+        data = urlencode(params).encode('utf-8')
+        print(data)
+        request = Request(url, data)
         request.add_header('User-Agent', self.get_random_agent())
         request.get_method = lambda: 'GET'
-        if params:
-            request.add_data(urlencode(**params))
-        response = opener.open(request)
+        with urlopen(request) as response:
+            response = response.read()
+            self.last_response = response
         return response
 
     def get_data(self, path, **params):
+        """ Giving a service path and optional specific arguments, returns
+        the XML data from the API parsed as a dict structure.
         """
-        """
-        response = self.get_response(path, **params)
-        xml = response.read()
+        xml = self.get_response(path, **params)
         return parse(xml)
 
     def get_random_agent(self):
-        return self.user_agents[randint(0, len(self.user_agents))]
+        """ Randomly returns one of the items in the the user_agents list
+        defined.
+        """
+        return self.user_agents[randint(0, len(self.user_agents) - 1)]
