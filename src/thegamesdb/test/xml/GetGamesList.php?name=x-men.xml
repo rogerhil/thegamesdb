@@ -1,0 +1,602 @@
+<Data>
+<Game>
+<id>20520</id>
+<GameTitle>X-Men</GameTitle>
+<ReleaseDate/>
+<Platform>Sega 32X</Platform>
+</Game>
+<Game>
+<id>10681</id>
+<GameTitle>X-Men</GameTitle>
+<ReleaseDate>02/12/1992</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>665</id>
+<GameTitle>X-Men</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>8104</id>
+<GameTitle>X-Men</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>14795</id>
+<GameTitle>X-Men</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>4146</id>
+<GameTitle>X-Men: Reign of Apocalypse</GameTitle>
+<ReleaseDate>09/25/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>4209</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>24798</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>3291</id>
+<GameTitle>X-Men: Mutant Apocalypse</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>5374</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>4763</id>
+<GameTitle>X-Men Legends</GameTitle>
+<ReleaseDate>09/21/2004</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>8311</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>11634</id>
+<GameTitle>X-Men: Children Of The Atom</GameTitle>
+<ReleaseDate>02/02/1998</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>25344</id>
+<GameTitle>X-Men: Mojo World</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>21931</id>
+<GameTitle>X-Men: Mutant Academy</GameTitle>
+<ReleaseDate>07/01/2000</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>29442</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Platform>Sony PSP</Platform>
+</Game>
+<Game>
+<id>5444</id>
+<GameTitle>X-Men Legends</GameTitle>
+<ReleaseDate>09/24/2004</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>4978</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>8898</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>11337</id>
+<GameTitle>X-Men: Children Of The Atom</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<Platform>Sega Saturn</Platform>
+</Game>
+<Game>
+<id>19766</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<ReleaseDate/>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>21932</id>
+<GameTitle>X-Men: Wolverine's Rage</GameTitle>
+<ReleaseDate>05/15/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>25395</id>
+<GameTitle>X-Men: Madness In Murderworld</GameTitle>
+<ReleaseDate>01/01/1989</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>30940</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>1386</id>
+<GameTitle>The Uncanny X-Men</GameTitle>
+<ReleaseDate>12/01/1989</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>3123</id>
+<GameTitle>X-Men: Mojo World</GameTitle>
+<ReleaseDate>09/14/1996</ReleaseDate>
+<Platform>Sega Master System</Platform>
+</Game>
+<Game>
+<id>6646</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>4765</id>
+<GameTitle>X-Men: Next Dimension</GameTitle>
+<ReleaseDate>10/15/2002</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>14096</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>11631</id>
+<GameTitle>X-Men: Mutant Academy</GameTitle>
+<ReleaseDate>07/11/2000</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>2468</id>
+<GameTitle>X-Men: Children Of The Atom</GameTitle>
+<ReleaseDate>12/19/1994</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>7709</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>21389</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>21839</id>
+<GameTitle>X-Men: Mutant Wars</GameTitle>
+<ReleaseDate>11/01/2000</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>4034</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>11467</id>
+<GameTitle>X-Men: Next Dimension</GameTitle>
+<ReleaseDate>10/15/2002</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>972</id>
+<GameTitle>X-Men 2: Clone Wars</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>11632</id>
+<GameTitle>X-Men: Mutant Academy 2</GameTitle>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>30470</id>
+<GameTitle>X-Men vs. Street Fighter</GameTitle>
+<ReleaseDate>11/21/1997</ReleaseDate>
+<Platform>Sega Saturn</Platform>
+</Game>
+<Game>
+<id>28522</id>
+<GameTitle>X-Men 2: Wolverine's Revenge</GameTitle>
+<ReleaseDate/>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>628</id>
+<GameTitle>X-Men vs. Street Fighter</GameTitle>
+<ReleaseDate>06/30/1998</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>5763</id>
+<GameTitle>X-Men: Games Master's Legacy</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>25396</id>
+<GameTitle>X-Men II: The Fall of the Mutants</GameTitle>
+<ReleaseDate>01/01/1991</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>7867</id>
+<GameTitle>X-Men vs. Street Fighter</GameTitle>
+<ReleaseDate>09/09/1996</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>24035</id>
+<GameTitle>X-Men 2: Clone Wars</GameTitle>
+<ReleaseDate/>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>26682</id>
+<GameTitle>X-Men Vs. Street Fighter</GameTitle>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>22374</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>5445</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>5515</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>4764</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>25218</id>
+<GameTitle>Spider-Man and the X-Men: Arcade's Revenge</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>29171</id>
+<GameTitle>Spider-Man and X-Men - Arcade's Revenge</GameTitle>
+<ReleaseDate>08/19/1993</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>5871</id>
+<GameTitle>Spider-Man & X-Men: Arcade's Revenge</GameTitle>
+<ReleaseDate>11/01/1992</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>699</id>
+<GameTitle>Spider-Man & X-Men: Arcade's Revenge</GameTitle>
+<ReleaseDate>08/19/1993</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>21738</id>
+<GameTitle>Spider-Man / X-Men: Arcade's Revenge</GameTitle>
+<ReleaseDate>12/01/1993</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>26221</id>
+<GameTitle>X-Men Legends II - Rise of Apocolypse</GameTitle>
+<ReleaseDate/>
+<Platform>Sony PSP</Platform>
+</Game>
+<Game>
+<id>20689</id>
+<GameTitle>X-It</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>7715</id>
+<GameTitle>Mushroom Men</GameTitle>
+<ReleaseDate>12/02/2008</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>13981</id>
+<GameTitle>Of Orcs and Men</GameTitle>
+<ReleaseDate>10/11/2012</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>17642</id>
+<GameTitle>Army Men</GameTitle>
+<ReleaseDate>12/07/1999</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>5292</id>
+<GameTitle>Men of Valor</GameTitle>
+<ReleaseDate>10/26/2004</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>13983</id>
+<GameTitle>Of Orcs and Men</GameTitle>
+<ReleaseDate>10/11/2012</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>2550</id>
+<GameTitle>Men of War</GameTitle>
+<ReleaseDate>07/12/2007</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>8014</id>
+<GameTitle>Men of Valor</GameTitle>
+<ReleaseDate>10/19/2004</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>13984</id>
+<GameTitle>Of Orcs and Men</GameTitle>
+<ReleaseDate>10/11/2012</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>8184</id>
+<GameTitle>X Zone</GameTitle>
+<ReleaseDate>11/01/1992</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>4074</id>
+<GameTitle>Mission-X</GameTitle>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<Platform>Intellivision</Platform>
+</Game>
+<Game>
+<id>18078</id>
+<GameTitle>Pokemon X</GameTitle>
+<ReleaseDate>10/12/2013</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>30553</id>
+<GameTitle>X-note</GameTitle>
+<ReleaseDate/>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>30887</id>
+<GameTitle>Project-X</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>3989</id>
+<GameTitle>White Men Can't Jump</GameTitle>
+<ReleaseDate>06/01/1995</ReleaseDate>
+<Platform>Atari Jaguar</Platform>
+</Game>
+<Game>
+<id>3319</id>
+<GameTitle>Army Men Advance</GameTitle>
+<ReleaseDate>06/11/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>11567</id>
+<GameTitle>Army Men: World War</GameTitle>
+<ReleaseDate>04/29/2000</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>30485</id>
+<GameTitle>Mushroom Men: Rise of the Fungi</GameTitle>
+<ReleaseDate>12/02/2008</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>811</id>
+<GameTitle>Kane & Lynch: Dead Men</GameTitle>
+<ReleaseDate>11/14/2007</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>4410</id>
+<GameTitle>Army Men: RTS</GameTitle>
+<ReleaseDate>03/29/2002</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>11696</id>
+<GameTitle>Army Men 3D</GameTitle>
+<ReleaseDate>02/28/1999</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>11773</id>
+<GameTitle>Kane & Lynch: Dead Men</GameTitle>
+<ReleaseDate>11/13/2007</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>22340</id>
+<GameTitle>Men in Black: The Series</GameTitle>
+<ReleaseDate>01/01/2002</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>681</id>
+<GameTitle>Ranger X</GameTitle>
+<ReleaseDate>1993</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>6224</id>
+<GameTitle>X-Blades</GameTitle>
+<ReleaseDate>02/13/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>5562</id>
+<GameTitle>Maken X</GameTitle>
+<ReleaseDate>10/31/1999</ReleaseDate>
+<Platform>Sega Dreamcast</Platform>
+</Game>
+<Game>
+<id>4937</id>
+<GameTitle>A/X-101</GameTitle>
+<ReleaseDate>11/30/1994</ReleaseDate>
+<Platform>Sega CD</Platform>
+</Game>
+<Game>
+<id>7708</id>
+<GameTitle>X-Blades</GameTitle>
+<ReleaseDate>02/06/2009</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>7912</id>
+<GameTitle>X³: Reunion</GameTitle>
+<ReleaseDate>11/04/2005</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>20690</id>
+<GameTitle>X-Out</GameTitle>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>22292</id>
+<GameTitle>X-Tension</GameTitle>
+<ReleaseDate>08/10/2010</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>25405</id>
+<GameTitle>Insector X</GameTitle>
+<ReleaseDate>09/20/1990</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>3713</id>
+<GameTitle>Star X</GameTitle>
+<ReleaseDate>04/17/2002</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>25258</id>
+<GameTitle>Boson X</GameTitle>
+<ReleaseDate>09/15/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>2938</id>
+<GameTitle>Revolution X</GameTitle>
+<ReleaseDate>12/01/1995</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>8099</id>
+<GameTitle>Ranger X</GameTitle>
+<ReleaseDate>05/27/1993</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>11677</id>
+<GameTitle>The X-Files</GameTitle>
+<ReleaseDate>09/30/1999</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>11805</id>
+<GameTitle>Robotron X</GameTitle>
+<ReleaseDate>11/30/1996</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>24581</id>
+<GameTitle>Project-X</GameTitle>
+<ReleaseDate>12/01/1992</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>29120</id>
+<GameTitle>Insector X</GameTitle>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>29517</id>
+<GameTitle>GoldenEye X</GameTitle>
+<ReleaseDate>01/29/2015</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>490</id>
+<GameTitle>Insector X</GameTitle>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>6379</id>
+<GameTitle>X Rebirth</GameTitle>
+<ReleaseDate>01/01/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>13764</id>
+<GameTitle>Revolution X</GameTitle>
+<ReleaseDate/>
+<Platform>Sony Playstation</Platform>
+</Game>
+</Data>
