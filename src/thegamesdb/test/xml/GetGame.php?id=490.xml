@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>490</id>
+<GameTitle>Insector X</GameTitle>
+<PlatformId>18</PlatformId>
+<Platform>Sega Genesis</Platform>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Overview>They're gonna bug ya... to DEATH! Compared to these guys, killer bees are about as scary as a butterfly. In this awesome insect Empire you've got to be a fast gun! No can of bug spray will help you here. These giant mechanized insects mean business. Become too enthralled with the beautiful landscape and your daydreams could become a nightmare! Become... Insector X! A moment's delay could be your last!!</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Taito</Publisher>
+<Developer>Sage's Creation</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>25405</id><PlatformId>7</PlatformId></Game><Game><id>29120</id><PlatformId>36</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1416" height="2024" thumb="boxart/thumb/original/back/490-1.jpg">boxart/original/back/490-1.jpg</boxart>
+<boxart side="front" width="1464" height="2022" thumb="boxart/thumb/original/front/490-1.jpg">boxart/original/front/490-1.jpg</boxart>
+<screenshot>
+<original width="636" height="479">screenshots/490-1.jpg</original>
+<thumb>screenshots/thumb/490-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="131">clearlogo/490.png</clearlogo></Images>
+</Game>
+</Data>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>33</id>
+	<Platform>Sega 32X</Platform>
+	<overview>The Sega 32X, codenamed Project Mars, is an add-on for the Mega Drive/Genesis video game console by Sega. Its aim was to increase the lifespan of the aging Mega Drive/Genesis system, which was facing stiff competition from the SNES. While connecting it to Mega Drive did increase its capabilities, reluctance to adapt due to the previous failure of the Mega-CD and the upcoming Sega Saturn system led to low sales and a short lifespan.
+
+It was distributed under the name Sega Super 32X in Japan, Sega Genesis 32X in North America, Sega Mega Drive 32X in the PAL region, and Sega Mega 32X in Brazil.</overview>
+	<developer>Sega</developer>
+	<manufacturer>Sega</manufacturer>
+	<cpu>2 × SH-2 32-bit RISC</cpu>
+	<memory>256 kB program RAM</memory>
+	<sound>Stereo 10-bit PWM (Pulse Width Modulation)</sound>
+	<display>320 × 240</display>
+	<media>Cartridge</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=vbYkgDWAYAE</Youtube>
+	<Rating>3</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/33-1.jpg</original>
+			<thumb>platform/fanart/thumb/33-1.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="765" height="1080">platform/boxart/33-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/33-1.jpg</banner>	</Images>
+</Platform>
+</Data>

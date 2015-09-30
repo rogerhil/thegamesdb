@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21931</id>
+<GameTitle>X-Men: Mutant Academy</GameTitle>
+<PlatformId>41</PlatformId>
+<Platform>Nintendo Game Boy Color</Platform>
+<ReleaseDate>07/01/2000</ReleaseDate>
+<Overview>The X-Men are looking for new recruits. Do you have what it takes to join them in their fight against evil? Find out by playing X-MEN: Mutant Academy. Choose from 10 different X-Men including Wolverine, Cyclops, Gambit, Storm, Beast, Phoenix, Magneto, and Sabretooth. All of them have special moves based on each character's unique mutant abilities. Once you have the perfect fighter, use the Training mode and let Professor X help hone your powers. When you are ready, fight a single match in the Versus mode, or fight a series of progressively harder matches in the Arcade mode. You can also challenge your friends to a round or two with the link cable option. Play X-MEN: Mutant Academy and find out if you're tough enough to join the X-Men.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Crawfish Interactive</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>11631</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="640" thumb="boxart/thumb/original/front/21931-1.jpg">boxart/original/front/21931-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

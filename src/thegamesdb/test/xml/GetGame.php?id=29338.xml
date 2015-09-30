@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>29338</id>
+<GameTitle>Batman: Arkham Origins Collector's Edition</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Overview>Developed by WB Games Montreal, Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline set several years before the events of Batman: Arkham Asylum and Batman: Arkham City, the first two critically acclaimed games of the franchise. Taking place before the rise of Gotham City's most dangerous criminals, the game showcases a young and unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, players will meet many important characters for the first time and forge key relationships.
+The Batman: Arkham Origins Collector's Edition will include the following extensive bonus content: 1, Exclusive Arkham Origins premium statue featuring LED effects produced by TriForce. 2.Beautifully rendered and highly detailed statue measuring approx. 9" x 13" x 11.5" 3. 80-page, full-color hardcover art book measuring approx. 7.5" x 10.75" x .5". 4.Two key pieces of evidence taken directly from the Gotham City Police Department crime lab, Batman Wanted Poster, Batwing Prototype Schematic , Anarchy logo stencil, Glow-In-The-Dark map of Gotham City, Wayne Family Photo, Assassin's Intel Dossier, which includes files on the 8 assassins as well as Black Mask's contract, 1st Appearance Batman Skin: Look just like Batman did during his first appearance in Detective Comics #27, released in 1939.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Players>1</Players><Co-op>No</Co-op>
+<Publisher>Warner,wb</Publisher>
+<Developer>Warner,wb</Developer>
+<Images>
+<boxart side="front" width="1000" height="1000" thumb="boxart/thumb/original/front/29338-1.jpg">boxart/original/front/29338-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

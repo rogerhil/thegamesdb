@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
 <Data>
 <baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
 <Game>
@@ -6,41 +8,12 @@
 <PlatformId>1</PlatformId>
 <Platform>PC</Platform>
 <ReleaseDate>05/01/2009</ReleaseDate>
-<Overview>
-A prologue shows Wolverine hunting/being hunted by a group of soldiers in a bleak urban environment. He is wearing a shredded uniform reminiscent of the costume seen in the X-Men films, indicating that this may take place in a later time. His thoughts drift to a forgotten past.
-</Overview>
+<Overview>A prologue shows Wolverine hunting/being hunted by a group of soldiers in a bleak urban environment. He is wearing a shredded uniform reminiscent of the costume seen in the X-Men films, indicating that this may take place in a later time. His thoughts drift to a forgotten past.</Overview>
 <ESRB>M - Mature</ESRB>
-<Genres>
-<genre>Action</genre>
-<genre>Adventure</genre>
-</Genres>
-<Co-op>No</Co-op>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Co-op>No</Co-op>
 <Publisher>Activision</Publisher>
 <Developer>Raven</Developer>
-<Similar>
-<SimilarCount>5</SimilarCount>
-<Game>
-<id>7709</id>
-<PlatformId>15</PlatformId>
-</Game>
-<Game>
-<id>4978</id>
-<PlatformId>9</PlatformId>
-</Game>
-<Game>
-<id>19766</id>
-<PlatformId>11</PlatformId>
-</Game>
-<Game>
-<id>6646</id>
-<PlatformId>12</PlatformId>
-</Game>
-<Game>
-<id>29442</id>
-<PlatformId>13</PlatformId>
-</Game>
-</Similar>
-<Images>
+<Similar><SimilarCount>5</SimilarCount><Game><id>7709</id><PlatformId>15</PlatformId></Game><Game><id>4978</id><PlatformId>9</PlatformId></Game><Game><id>19766</id><PlatformId>11</PlatformId></Game><Game><id>6646</id><PlatformId>12</PlatformId></Game><Game><id>29442</id><PlatformId>13</PlatformId></Game></Similar><Images>
 <fanart>
 <original width="1280" height="720">fanart/original/4209-1.jpg</original>
 <thumb>fanart/thumb/4209-1.jpg</thumb>
@@ -63,7 +36,6 @@ A prologue shows Wolverine hunting/being hunted by a group of soldiers in a blea
 </fanart>
 <boxart side="back" width="1704" height="2165" thumb="boxart/thumb/original/back/4209-1.jpg">boxart/original/back/4209-1.jpg</boxart>
 <boxart side="front" width="1538" height="2165" thumb="boxart/thumb/original/front/4209-1.jpg">boxart/original/front/4209-1.jpg</boxart>
-<banner width="760" height="140">graphical/4209-g.jpg</banner>
-</Images>
+<banner width="760" height="140">graphical/4209-g.jpg</banner></Images>
 </Game>
 </Data>

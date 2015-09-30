@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>12</id>
+	<Platform>Sony Playstation 3</Platform>
+	<console>http://www.youtube.com/watch?v=12.png</console>
+	<controller>http://www.youtube.com/watch?v=12.png</controller>
+	<overview>The PlayStation 3, (officially abbreviated as PS3) is the third home video game console produced by Sony Computer Entertainment and the successor to the PlayStation 2 as part of the PlayStation series.
+
+The PlayStation 3 competes with Microsoft&amp;#039;s Xbox 360 and Nintendo&amp;#039;s Wii as part of the seventh generation of video game consoles. It was first released on November 11, 2006, in Japan, with international markets following shortly thereafter.</overview>
+	<developer>Sony</developer>
+	<manufacturer>Sony</manufacturer>
+	<cpu>3.2 GHz Cell Broadband Engine</cpu>
+	<memory>256 MB system and 256 MB video</memory>
+	<graphics>550 MHz NVIDIA/SCEI RSX &amp;#039;Reality Synthesizer&amp;#039;</graphics>
+	<sound>Dolby Digital 5.1, DTS</sound>
+	<display>1080p</display>
+	<media>Disc</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=K5JAg6mezlA</Youtube>
+	<Rating>7.1</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/12-1.jpg</original>
+			<thumb>platform/fanart/thumb/12-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/12-2.jpg</original>
+			<thumb>platform/fanart/thumb/12-2.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="763" height="1078">platform/boxart/12-1.jpg</boxart>
+		<boxart side="back" width="763" height="1078">platform/boxart/12-2.jpg</boxart>
+		<banner width="760" height="140">platform/banners/12-1.jpg</banner>		<consoleart>platform/consoleart/12.png</consoleart>
+		<controllerart>platform/controllerart/12.png</controllerart>
+	</Images>
+</Platform>
+</Data>

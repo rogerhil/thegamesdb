@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3123</id>
+<GameTitle>X-Men: Mojo World</GameTitle>
+<PlatformId>35</PlatformId>
+<Platform>Sega Master System</Platform>
+<ReleaseDate>09/14/1996</ReleaseDate>
+<Overview>The X-Men face their most brutal adventure ever. Spiral a beautiful 6-armed television producer and denizen of Mojo World pits the X-Men against their all-time toughest foes in the ultimate televised slugfest, "The Greatest Battles of the X-Men"! If her scheme works the citizens of Mojo World will tune-in and she will become their new ruler.</Overview>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Tec Toy</Publisher>
+<Developer>Sega</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>25344</id><PlatformId>20</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/3123-1.jpg</original>
+<thumb>fanart/thumb/3123-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="725" height="1014" thumb="boxart/thumb/original/back/3123-1.jpg">boxart/original/back/3123-1.jpg</boxart>
+<boxart side="front" width="734" height="1014" thumb="boxart/thumb/original/front/3123-2.jpg">boxart/original/front/3123-2.jpg</boxart>
+<banner width="760" height="140">graphical/3123-g.jpg</banner></Images>
+</Game>
+</Data>

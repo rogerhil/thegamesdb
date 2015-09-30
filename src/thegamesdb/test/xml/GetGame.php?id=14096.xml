@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14096</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<PlatformId>9</PlatformId>
+<Platform>Nintendo Wii</Platform>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Overview>Gamers play and develop their own comic-book mutant heroes and villains in X-Men: Destiny. Set in the Marvel universe and featuring familiar friends and foes from Professor Xavier's School for Gifted Youngsters, the game focuses on three original characters -- teenagers whose mutant superpowers are just beginning to manifest. Each playable character has a basic mutant special ability, which players gradually custom-enhance as they earn upgrades throughout the adventure.</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Silicon Knights</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>8898</id><PlatformId>15</PlatformId></Game><Game><id>21389</id><PlatformId>8</PlatformId></Game><Game><id>8311</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1000" height="1411" thumb="boxart/thumb/original/front/14096-1.jpg">boxart/original/front/14096-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

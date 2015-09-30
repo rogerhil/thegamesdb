@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>9220</id>
+<GameTitle>Spectrobes: Origins</GameTitle>
+<PlatformId>9</PlatformId>
+<Platform>Nintendo Wii</Platform>
+<ReleaseDate>09/18/2009</ReleaseDate>
+<Overview>Spectrobes mixes monster battling with a real-time action RPG experience, so you'll not only be managing which critter is out on the field and attacking, but also running your main character around and participating in combat the feels like a mix between classic action battle mechanics and something like Monster Hunter lite. Different weapons allow the human leads to change up styles and elemental attacks, so you can have a leaf-based blade, an electric gauntlet, ranged cannon weapons and heavier bashing melee attacks. As you progress through the game not only will your Spectrobes gain levels, but your humans will as well. It's a constant balance of progressing not only your main character, but also all of your monsters too. Tie in a search and excavate system for finding new fossils with new Spectrobes and you've got a mechanic that is addicting enough to keep the experience moving; even if the levels themselves aren't always the most inspired areas to trek through.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Adventure</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Rating>4.5</Rating><Images>
+<boxart side="front" width="765" height="1074" thumb="boxart/thumb/original/front/9220-1.jpg">boxart/original/front/9220-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7912</id>
+<GameTitle>X³: Reunion</GameTitle>
+<AlternateTitles><title>X3: Reunion</title></AlternateTitles><PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>11/04/2005</ReleaseDate>
+<Overview>X³: Reunion is a single-player space trading and combat game developed by Egosoft and published by Deep Silver. It is the third installment in the X universe adventure video game series.
+X³: Reunion incorporates open-ended "sandbox" gameplay. The main quest can be postponed or ignored as the player explores the expansive universe and spends the most time in control of a ship, doing tasks of their own choosing. Different ships are available for various tasks: small, fast scouting ships; freighters; powerful battleships; and massive carriers for moving a fleet. Most ships seen in the game can be bought or captured, and flown by the player. The player is free to go anywhere in the X-Universe at any time and explore, complete plot-related goals or to fulfill their own personal goals.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Construction and Management Simulation</genre><genre>Role-Playing</genre><genre>Sandbox</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Q5FJ4BY-NCw</Youtube>
+<Publisher>Deep Silver</Publisher>
+<Developer>Egosoft</Developer>
+<Images>
+<boxart side="front" width="252" height="350" thumb="boxart/thumb/original/front/7912-1.png">boxart/original/front/7912-1.png</boxart>
+<screenshot>
+<original width="300" height="225">screenshots/7912-1.jpg</original>
+<thumb>screenshots/thumb/7912-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

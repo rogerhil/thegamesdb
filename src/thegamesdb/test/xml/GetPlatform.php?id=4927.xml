@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4927</id>
+	<Platform>Magnavox Odyssey 2</Platform>
+	<console>http://www.youtube.com/watch?v=4927.png</console>
+	<controller>http://www.youtube.com/watch?v=4927.png</controller>
+	<overview>The Magnavox Odyssey², known in Europe as the Videopac, in Brazil as the Philips Odyssey, in the United States as the Magnavox Odyssey² and the Philips Odyssey², and also by many other names, is a video game console released in 1978.
+
+In the early 1970s, Magnavox was an innovator in the home video game industry. They succeeded in bringing the first home video game system to market, the Odyssey, which was quickly followed by a number of later models, each with a few technological improvements (Magnavox Odyssey Series). In 1978, Magnavox, now a subsidiary of North American Philips, released the Odyssey², its new second-generation video game console.
+
+In 2009, the video game website IGN named the Odyssey² the 21st greatest video game console, out of its list of 25.</overview>
+	<developer>Magnavox / Philips</developer>
+	<manufacturer>Magnavox / Philips</manufacturer>
+	<cpu>Intel 8048</cpu>
+	<memory>64 bytes</memory>
+	<graphics>Intel 8244 (NTSC) or 8245 (PAL) custom IC</graphics>
+	<sound>Mono</sound>
+	<display>16-color fixed palette; sprites may only use 8 of these colors</display>
+	<media>ROM Cartridge</media>
+	<maxcontrollers>Two; hard-wired</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=yXsDlDFO-SE</Youtube>
+	<Rating>7</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4927-1.jpg</original>
+			<thumb>platform/fanart/thumb/4927-1.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="820" height="1080">platform/boxart/4927-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/4927-1.jpg</banner>		<consoleart>platform/consoleart/4927.png</consoleart>
+		<controllerart>platform/controllerart/4927.png</controllerart>
+	</Images>
+</Platform>
+</Data>

@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>129</id>
+<GameTitle>Sonic CD</GameTitle>
+<ReleaseDate>09/23/1993</ReleaseDate>
+<thumb>boxart/original/front/129-1.jpg</thumb></Game>
+<Game>
+<id>132</id>
+<GameTitle>Ecco the Dolphin</GameTitle>
+<ReleaseDate>07/29/1992</ReleaseDate>
+<thumb>boxart/original/front/132-2.jpg</thumb></Game>
+<Game>
+<id>439</id>
+<GameTitle>Mighty Morphin Power Rangers</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/439-1.jpg</thumb></Game>
+<Game>
+<id>440</id>
+<GameTitle>Ecco: The Tides of Time</GameTitle>
+<ReleaseDate>08/25/1994</ReleaseDate>
+<thumb>boxart/original/front/440-1.jpg</thumb></Game>
+<Game>
+<id>441</id>
+<GameTitle>Hook</GameTitle>
+<ReleaseDate>04/01/1992</ReleaseDate>
+<thumb>boxart/original/front/441-1.jpg</thumb></Game>
+<Game>
+<id>442</id>
+<GameTitle>Dungeon Explorer</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/442-1.jpg</thumb></Game>
+<Game>
+<id>443</id>
+<GameTitle>Flashback: The Quest for Identity</GameTitle>
+<ReleaseDate>1992</ReleaseDate>
+<thumb>boxart/original/front/443-1.jpg</thumb></Game>
+<Game>
+<id>444</id>
+<GameTitle>Racing Angels</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/444-1.jpg</thumb></Game>
+<Game>
+<id>445</id>
+<GameTitle>Robo Aleste</GameTitle>
+<ReleaseDate>11/27/1992</ReleaseDate>
+<thumb>boxart/original/front/445-1.jpg</thumb></Game>
+<Game>
+<id>737</id>
+<GameTitle>After Burner III</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/737-1.jpg</thumb></Game>
+<Game>
+<id>738</id>
+<GameTitle>Dragon's Lair</GameTitle>
+<ReleaseDate>06/19/1989</ReleaseDate>
+<thumb>boxart/original/front/738-1.jpg</thumb></Game>
+<Game>
+<id>739</id>
+<GameTitle>Sewer Shark</GameTitle>
+<ReleaseDate>10/15/1992</ReleaseDate>
+<thumb>boxart/original/front/739-1.jpg</thumb></Game>
+<Game>
+<id>740</id>
+<GameTitle>Star Wars: Rebel Assault</GameTitle>
+<ReleaseDate>1993</ReleaseDate>
+<thumb>boxart/original/front/740-1.jpg</thumb></Game>
+<Game>
+<id>741</id>
+<GameTitle>Surgical Strike</GameTitle>
+<ReleaseDate>11/16/1993</ReleaseDate>
+<thumb>boxart/original/front/741-1.jpg</thumb></Game>
+<Game>
+<id>965</id>
+<GameTitle>Shadow of the Beast II</GameTitle>
+<ReleaseDate>06/07/1994</ReleaseDate>
+<thumb>boxart/original/front/965-1.jpg</thumb></Game>
+<Game>
+<id>1916</id>
+<GameTitle>Genghis Khan II: Clan of the Gray Wolf</GameTitle>
+<ReleaseDate>1993</ReleaseDate>
+<thumb>boxart/original/front/1916-1.jpg</thumb></Game>
+<Game>
+<id>2577</id>
+<GameTitle>Jaguar XJ220</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/2577-1.jpg</thumb></Game>
+<Game>
+<id>2578</id>
+<GameTitle>Keio Flying Squadron</GameTitle>
+<ReleaseDate>08/06/1993</ReleaseDate>
+<thumb>boxart/original/front/2578-1.jpg</thumb></Game>
+<Game>
+<id>2579</id>
+<GameTitle>Vay</GameTitle>
+<ReleaseDate>04/14/1994</ReleaseDate>
+<thumb>boxart/original/front/2579-1.jpg</thumb></Game>
+<Game>
+<id>2646</id>
+<GameTitle>Popful Mail</GameTitle>
+<ReleaseDate>02/23/1995</ReleaseDate>
+<thumb>boxart/original/front/2646-1.jpg</thumb></Game>
+<Game>
+<id>5087</id>
+<GameTitle>Road Rash</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5087-1.jpg</thumb></Game>
+<Game>
+<id>3893</id>
+<GameTitle>Chuck Rock II: Son of Chuck</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/3893-1.jpg</thumb></Game>
+<Game>
+<id>5046</id>
+<GameTitle>Kids on Site</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5046-1.jpg</thumb></Game>
+<Game>
+<id>5047</id>
+<GameTitle>The Lawnmower Man</GameTitle>
+<ReleaseDate>04/03/1994</ReleaseDate>
+<thumb>boxart/original/front/5047-1.jpg</thumb></Game>
+<Game>
+<id>5048</id>
+<GameTitle>Lethal Enforcers</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5048-1.jpg</thumb></Game>
+<Game>
+<id>5049</id>
+<GameTitle>Lethal Enforcers II: Gunfighters</GameTitle>
+<ReleaseDate>11/24/1994</ReleaseDate>
+<thumb>boxart/original/front/5049-1.jpg</thumb></Game>
+<Game>
+<id>5050</id>
+<GameTitle>Links: The Challenge of Golf</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5050-1.jpg</thumb></Game>
+<Game>
+<id>5051</id>
+<GameTitle>Loadstar: The Legend of Tully Bodine</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5051-1.jpg</thumb></Game>
+<Game>
+<id>5052</id>
+<GameTitle>Lords of Thunder</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/5052-1.jpg</thumb></Game>
+<Game>
+<id>5053</id>
+<GameTitle>Lunar: Eternal Blue</GameTitle>
+<ReleaseDate>09/15/1995</ReleaseDate>
+<thumb>boxart/original/front/5053-1.jpg</thumb></Game>
+<Game>
+<id>5054</id>
+<GameTitle>Lunar: The Silver Star</GameTitle>
+<ReleaseDate>12/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5054-1.jpg</thumb></Game>
+<Game>
+<id>4933</id>
+<GameTitle>3 Ninjas Kick Back</GameTitle>
+<ReleaseDate>06/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4933-1.jpg</thumb></Game>
+<Game>
+<id>4934</id>
+<GameTitle>The Adventures of Batman &amp; Robin</GameTitle>
+<ReleaseDate>07/01/1995</ReleaseDate>
+<thumb>boxart/original/front/4934-1.jpg</thumb></Game>
+<Game>
+<id>4935</id>
+<GameTitle>AH-3 Thunderstrike</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4935-1.jpg</thumb></Game>
+<Game>
+<id>4936</id>
+<GameTitle>Android Assault: The Revenge of Bari-Arm</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4936-1.jpg</thumb></Game>
+<Game>
+<id>4937</id>
+<GameTitle>A/X-101</GameTitle>
+<ReleaseDate>11/30/1994</ReleaseDate>
+<thumb>boxart/original/front/4937-1.jpg</thumb></Game>
+<Game>
+<id>4938</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>05/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4938-1.jpg</thumb></Game>
+<Game>
+<id>4940</id>
+<GameTitle>BattleCorps</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4940-1.jpg</thumb></Game>
+<Game>
+<id>4941</id>
+<GameTitle>BC Racers</GameTitle>
+<ReleaseDate>12/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4941-1.jpg</thumb></Game>
+<Game>
+<id>4942</id>
+<GameTitle>Bill Walsh College Football</GameTitle>
+<ReleaseDate>06/02/1993</ReleaseDate>
+<thumb>boxart/original/front/4942-1.jpg</thumb></Game>
+<Game>
+<id>4943</id>
+<GameTitle>Bouncers</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4943-1.jpg</thumb></Game>
+<Game>
+<id>4944</id>
+<GameTitle>Bram Stoker's Dracula</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4944-1.jpg</thumb></Game>
+<Game>
+<id>4945</id>
+<GameTitle>Brutal: Paws of Fury</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4945-1.jpg</thumb></Game>
+<Game>
+<id>4946</id>
+<GameTitle>Cadillacs and Dinosaurs: The Second Cataclysm</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4946-1.jpg</thumb></Game>
+<Game>
+<id>4947</id>
+<GameTitle>Championship Soccer '94</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4947-1.jpg</thumb></Game>
+<Game>
+<id>4948</id>
+<GameTitle>Chuck Rock</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/4948-1.jpg</thumb></Game>
+<Game>
+<id>4949</id>
+<GameTitle>Cliffhanger</GameTitle>
+<ReleaseDate>12/04/1993</ReleaseDate>
+<thumb>boxart/original/front/4949-1.jpg</thumb></Game>
+<Game>
+<id>4950</id>
+<GameTitle>Cobra Command</GameTitle>
+<ReleaseDate>11/01/1992</ReleaseDate>
+<thumb>boxart/original/front/4950-1.jpg</thumb></Game>
+<Game>
+<id>4951</id>
+<GameTitle>The Colors of Modern Rock</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4951-1.jpg</thumb></Game>
+<Game>
+<id>4952</id>
+<GameTitle>Corpse Killer</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4952-1.jpg</thumb></Game>
+<Game>
+<id>4953</id>
+<GameTitle>Crime Patrol</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4953-1.jpg</thumb></Game>
+<Game>
+<id>4954</id>
+<GameTitle>Dark Wizard</GameTitle>
+<ReleaseDate>11/12/1993</ReleaseDate>
+<thumb>boxart/original/front/4954-1.jpg</thumb></Game>
+<Game>
+<id>4955</id>
+<GameTitle>Demolition Man</GameTitle>
+<ReleaseDate>11/15/1995</ReleaseDate>
+<thumb>boxart/original/front/4955-1.jpg</thumb></Game>
+<Game>
+<id>4956</id>
+<GameTitle>Double Switch</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4956-1.jpg</thumb></Game>
+<Game>
+<id>4957</id>
+<GameTitle>Dracula Unleashed</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4957-1.jpg</thumb></Game>
+<Game>
+<id>4958</id>
+<GameTitle>Dune</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/4958-1.jpg</thumb></Game>
+<Game>
+<id>4959</id>
+<GameTitle>Dungeon Master II: Skullkeep</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/4959-1.jpg</thumb></Game>
+<Game>
+<id>5006</id>
+<GameTitle>Earthworm Jim Special Edition</GameTitle>
+<ReleaseDate>03/15/1995</ReleaseDate>
+<thumb>boxart/original/front/5006-1.jpg</thumb></Game>
+<Game>
+<id>5007</id>
+<GameTitle>ESPN Baseball Tonight</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5007-1.jpg</thumb></Game>
+<Game>
+<id>5008</id>
+<GameTitle>ESPN National Hockey Night</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5008-1.jpg</thumb></Game>
+<Game>
+<id>5009</id>
+<GameTitle>ESPN Sunday Night NFL</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5009-1.jpg</thumb></Game>
+<Game>
+<id>5010</id>
+<GameTitle>Eternal Champions: Challenge from the Dark Side</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5010-1.jpg</thumb></Game>
+<Game>
+<id>5011</id>
+<GameTitle>Eye of the Beholder</GameTitle>
+<ReleaseDate>06/29/1994</ReleaseDate>
+<thumb>boxart/original/front/5011-1.jpg</thumb></Game>
+<Game>
+<id>5012</id>
+<GameTitle>Formula One World Championship: Beyond the Limit</GameTitle>
+<ReleaseDate>04/24/1994</ReleaseDate>
+<thumb>boxart/original/front/5012-1.jpg</thumb></Game>
+<Game>
+<id>5013</id>
+<GameTitle>Fahrenheit</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/5013-1.jpg</thumb></Game>
+<Game>
+<id>5014</id>
+<GameTitle>Fatal Fury Special</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5014-1.jpg</thumb></Game>
+<Game>
+<id>5015</id>
+<GameTitle>FIFA International Soccer</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5015-1.jpg</thumb></Game>
+<Game>
+<id>5016</id>
+<GameTitle>Final Fight</GameTitle>
+<ReleaseDate>07/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5016-1.jpg</thumb></Game>
+<Game>
+<id>5017</id>
+<GameTitle>Flink</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5017-1.jpg</thumb></Game>
+<Game>
+<id>5018</id>
+<GameTitle>Ground Zero: Texas</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5018-1.jpg</thumb></Game>
+<Game>
+<id>5019</id>
+<GameTitle>Heart of the Alien:Out of this World Parts I And II</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5019-1.jpg</thumb></Game>
+<Game>
+<id>5020</id>
+<GameTitle>Heimdall</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5020-1.jpg</thumb></Game>
+<Game>
+<id>5021</id>
+<GameTitle>Iron Helix</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5021-1.jpg</thumb></Game>
+<Game>
+<id>5022</id>
+<GameTitle>Jeopardy!</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5022-1.jpg</thumb></Game>
+<Game>
+<id>5023</id>
+<GameTitle>Joe Montana's NFL Football</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5023-1.jpg</thumb></Game>
+<Game>
+<id>5024</id>
+<GameTitle>Jurassic Park</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5024-1.jpg</thumb></Game>
+<Game>
+<id>5055</id>
+<GameTitle>Mad Dog II: The Lost Gold</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5055-1.jpg</thumb></Game>
+<Game>
+<id>5056</id>
+<GameTitle>Mad Dog McCree</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5056-1.jpg</thumb></Game>
+<Game>
+<id>5057</id>
+<GameTitle>INXS: Make My Video</GameTitle>
+<ReleaseDate>10/15/1992</ReleaseDate>
+<thumb>boxart/original/front/5057-1.jpg</thumb></Game>
+<Game>
+<id>5058</id>
+<GameTitle>Kris Kross: Make My Video</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5058-1.jpg</thumb></Game>
+<Game>
+<id>5059</id>
+<GameTitle>Marky Mark and the Funky Bunch: Make My Video</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5059-1.jpg</thumb></Game>
+<Game>
+<id>5060</id>
+<GameTitle>Mansion of Hidden Souls</GameTitle>
+<ReleaseDate>12/09/1993</ReleaseDate>
+<thumb>boxart/original/front/5060-1.jpg</thumb></Game>
+<Game>
+<id>5061</id>
+<GameTitle>MegaRace</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5061-1.jpg</thumb></Game>
+<Game>
+<id>5062</id>
+<GameTitle>Mickey Mania: The Timeless Adventures of Mickey Mouse</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5062-1.jpg</thumb></Game>
+<Game>
+<id>5063</id>
+<GameTitle>Microcosm</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5063-1.jpg</thumb></Game>
+<Game>
+<id>5064</id>
+<GameTitle>Midnight Raiders</GameTitle>
+<ReleaseDate>04/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5064-1.jpg</thumb></Game>
+<Game>
+<id>5065</id>
+<GameTitle>Mortal Kombat</GameTitle>
+<ReleaseDate>05/26/1994</ReleaseDate>
+<thumb>boxart/original/front/5065-1.jpg</thumb></Game>
+<Game>
+<id>5066</id>
+<GameTitle>My Paint: The Animated Paint Program</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5066-1.jpg</thumb></Game>
+<Game>
+<id>5067</id>
+<GameTitle>NBA Jam</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5067-1.jpg</thumb></Game>
+<Game>
+<id>5068</id>
+<GameTitle>NFL Football Trivia Challenge</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5068-1.jpg</thumb></Game>
+<Game>
+<id>5069</id>
+<GameTitle>NFL's Greatest: San Francisco vs. Dallas 1978-1993</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5069-1.jpg</thumb></Game>
+<Game>
+<id>5070</id>
+<GameTitle>NHL '94</GameTitle>
+<ReleaseDate>08/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5070-1.jpg</thumb></Game>
+<Game>
+<id>5071</id>
+<GameTitle>Night Trap</GameTitle>
+<ReleaseDate>07/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5071-1.jpg</thumb></Game>
+<Game>
+<id>5072</id>
+<GameTitle>Novastorm</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5072-1.jpg</thumb></Game>
+<Game>
+<id>5073</id>
+<GameTitle>Panic!</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5073-1.jpg</thumb></Game>
+<Game>
+<id>5074</id>
+<GameTitle>Penn &amp; Teller's Smoke and Mirrors</GameTitle>
+<ReleaseDate>04/01/1995</ReleaseDate>
+<thumb>boxart/original/front/5074-1.jpg</thumb></Game>
+<Game>
+<id>5075</id>
+<GameTitle>Pitfall: The Mayan Adventure</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5075-1.jpg</thumb></Game>
+<Game>
+<id>5076</id>
+<GameTitle>Power Factory Featuring C+C Music Factory</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5076-1.jpg</thumb></Game>
+<Game>
+<id>5077</id>
+<GameTitle>Power Monger</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5077-1.jpg</thumb></Game>
+<Game>
+<id>5078</id>
+<GameTitle>Prince of Persia</GameTitle>
+<ReleaseDate>04/28/1992</ReleaseDate>
+<thumb>boxart/original/front/5078-1.jpg</thumb></Game>
+<Game>
+<id>5079</id>
+<GameTitle>Prize Fighter</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5079-1.jpg</thumb></Game>
+<Game>
+<id>5080</id>
+<GameTitle>Puggsy</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5080-1.jpg</thumb></Game>
+<Game>
+<id>5081</id>
+<GameTitle>Radical Rex</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5081-1.jpg</thumb></Game>
+<Game>
+<id>5082</id>
+<GameTitle>RDF Global Conflict</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5082-1.jpg</thumb></Game>
+<Game>
+<id>5083</id>
+<GameTitle>Revenge of the Ninja</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5083-1.jpg</thumb></Game>
+<Game>
+<id>5084</id>
+<GameTitle>Revengers of Vengeance</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5084-1.jpg</thumb></Game>
+<Game>
+<id>5085</id>
+<GameTitle>Rise of the Dragon</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5085-1.jpg</thumb></Game>
+<Game>
+<id>5086</id>
+<GameTitle>Road Avenger</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5086-1.jpg</thumb></Game>
+<Game>
+<id>5088</id>
+<GameTitle>Samurai Shodown</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5088-1.jpg</thumb></Game>
+<Game>
+<id>5089</id>
+<GameTitle>The Secret of Monkey Island</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5089-1.jpg</thumb></Game>
+<Game>
+<id>5090</id>
+<GameTitle>Sherlock Holmes: Consulting Detective</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5090-1.jpg</thumb></Game>
+<Game>
+<id>5091</id>
+<GameTitle>Sherlock Holmes: Consulting Detective Vol. II</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5091-1.jpg</thumb></Game>
+<Game>
+<id>5092</id>
+<GameTitle>Shining Force CD</GameTitle>
+<ReleaseDate>07/21/1994</ReleaseDate>
+<thumb>boxart/original/front/5092-1.jpg</thumb></Game>
+<Game>
+<id>5093</id>
+<GameTitle>Silpheed</GameTitle>
+<ReleaseDate>07/07/1993</ReleaseDate>
+<thumb>boxart/original/front/5093-1.jpg</thumb></Game>
+<Game>
+<id>5094</id>
+<GameTitle>Slam City with Scottie Pippen</GameTitle>
+<ReleaseDate>08/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5094-1.jpg</thumb></Game>
+<Game>
+<id>5095</id>
+<GameTitle>Snatcher</GameTitle>
+<ReleaseDate>11/30/1994</ReleaseDate>
+<thumb>boxart/original/front/5095-1.jpg</thumb></Game>
+<Game>
+<id>5096</id>
+<GameTitle>Sol-Feace</GameTitle>
+<ReleaseDate>12/12/1991</ReleaseDate>
+<thumb>boxart/original/front/5096-1.jpg</thumb></Game>
+<Game>
+<id>5097</id>
+<GameTitle>SoulStar</GameTitle>
+<ReleaseDate>12/21/1994</ReleaseDate>
+<thumb>boxart/original/front/5097-1.jpg</thumb></Game>
+<Game>
+<id>5098</id>
+<GameTitle>Space Ace</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5098-1.jpg</thumb></Game>
+<Game>
+<id>5099</id>
+<GameTitle>The Space Adventure</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5099-1.jpg</thumb></Game>
+<Game>
+<id>5100</id>
+<GameTitle>The Amazing Spider-Man vs. The Kingpin</GameTitle>
+<ReleaseDate>11/03/1993</ReleaseDate>
+<thumb>boxart/original/front/5100-1.jpg</thumb></Game>
+<Game>
+<id>5101</id>
+<GameTitle>StarBlade</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5101-1.jpg</thumb></Game>
+<Game>
+<id>5102</id>
+<GameTitle>Star Wars Chess</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5102-1.jpg</thumb></Game>
+<Game>
+<id>5103</id>
+<GameTitle>Stellar-Fire</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5103-1.jpg</thumb></Game>
+<Game>
+<id>5104</id>
+<GameTitle>Supreme Warrior</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5104-1.jpg</thumb></Game>
+<Game>
+<id>5105</id>
+<GameTitle>The Animals!</GameTitle>
+<ReleaseDate>08/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5105-1.jpg</thumb></Game>
+<Game>
+<id>5106</id>
+<GameTitle>The Masked Rider: Kamen Rider ZO</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5106-1.jpg</thumb></Game>
+<Game>
+<id>5107</id>
+<GameTitle>The Smurfs</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/5107-1.jpg</thumb></Game>
+<Game>
+<id>5108</id>
+<GameTitle>The Terminator</GameTitle>
+<ReleaseDate>03/08/1993</ReleaseDate>
+<thumb>boxart/original/front/5108-1.jpg</thumb></Game>
+<Game>
+<id>5109</id>
+<GameTitle>Third World War</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5109-1.jpg</thumb></Game>
+<Game>
+<id>5110</id>
+<GameTitle>Time Gal</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5110-1.jpg</thumb></Game>
+<Game>
+<id>5111</id>
+<GameTitle>Tomcat Alley</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5111-1.jpg</thumb></Game>
+<Game>
+<id>5112</id>
+<GameTitle>Trivial Pursuit</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5112-1.jpg</thumb></Game>
+<Game>
+<id>5113</id>
+<GameTitle>Ultraverse Prime</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5113-1.jpg</thumb></Game>
+<Game>
+<id>5114</id>
+<GameTitle>Wheel of Fortune</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5114-1.jpg</thumb></Game>
+<Game>
+<id>5115</id>
+<GameTitle>Who Shot Johnny Rock?</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5115-1.jpg</thumb></Game>
+<Game>
+<id>5116</id>
+<GameTitle>Wild Woody</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/5116-1.jpg</thumb></Game>
+<Game>
+<id>5117</id>
+<GameTitle>The Adventures of Willy Beamish</GameTitle>
+<ReleaseDate>02/02/1993</ReleaseDate>
+<thumb>boxart/original/front/5117-1.jpg</thumb></Game>
+<Game>
+<id>5118</id>
+<GameTitle>Wing Commander</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/5118-1.jpg</thumb></Game>
+<Game>
+<id>5119</id>
+<GameTitle>Wirehead</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/5119-1.jpg</thumb></Game>
+<Game>
+<id>5120</id>
+<GameTitle>Wolfchild</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5120-1.jpg</thumb></Game>
+<Game>
+<id>5121</id>
+<GameTitle>Wonder Dog</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/5121-1.jpg</thumb></Game>
+<Game>
+<id>5122</id>
+<GameTitle>World Cup USA 94</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/5122-1.jpg</thumb></Game>
+<Game>
+<id>5123</id>
+<GameTitle>WWF Rage in the Cage</GameTitle>
+<ReleaseDate>12/21/1993</ReleaseDate>
+<thumb>boxart/original/front/5123-1.jpg</thumb></Game>
+<Game>
+<id>7507</id>
+<GameTitle>Final Fight CD</GameTitle>
+<ReleaseDate>07/01/1993</ReleaseDate>
+<thumb>boxart/original/front/7507-1.jpg</thumb></Game>
+<Game>
+<id>14048</id>
+<GameTitle>Sega Classics Arcade Collection 5-in-1</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/14048-1.jpg</thumb></Game>
+<Game>
+<id>15798</id>
+<GameTitle>Mary Shelley's Frankenstein</GameTitle>
+<ReleaseDate>12/31/1994</ReleaseDate>
+<thumb>boxart/original/front/15798-1.jpg</thumb></Game>
+<Game>
+<id>19298</id>
+<GameTitle>BlackHole Assault</GameTitle>
+<ReleaseDate>10/23/1992</ReleaseDate>
+<thumb>boxart/original/front/19298-1.jpg</thumb></Game>
+<Game>
+<id>23755</id>
+<GameTitle>Shadowrun</GameTitle>
+<ReleaseDate>02/23/1996</ReleaseDate>
+<thumb>boxart/original/front/23755-1.jpg</thumb></Game>
+<Game>
+<id>25432</id>
+<GameTitle>Annet Futatabi</GameTitle>
+<ReleaseDate>03/30/1993</ReleaseDate>
+<thumb>boxart/original/front/25432-1.jpg</thumb></Game>
+<Game>
+<id>25461</id>
+<GameTitle>Earnest Evans</GameTitle>
+<ReleaseDate>12/20/1991</ReleaseDate>
+<thumb>boxart/original/front/25461-1.jpg</thumb></Game>
+<Game>
+<id>26758</id>
+<GameTitle>TimeCop (Prototype)</GameTitle>
+<ReleaseDate>02/28/2011</ReleaseDate>
+<thumb>boxart/original/front/26758-1.jpg</thumb></Game>
+<Game>
+<id>27249</id>
+<GameTitle>Burning Fists: Force Striker</GameTitle>
+<ReleaseDate>07/26/2006</ReleaseDate>
+<thumb>boxart/original/front/27249-1.jpg</thumb></Game>
+<Game>
+<id>27806</id>
+<GameTitle>Ranma ½: Byakuran Aika</GameTitle>
+<ReleaseDate>04/23/1993</ReleaseDate>
+<thumb>boxart/original/front/27806-1.jpg</thumb></Game>
+<Game>
+<id>27807</id>
+<GameTitle>Urusei Yatsura: Dear My Friends</GameTitle>
+<ReleaseDate>04/15/1994</ReleaseDate>
+<thumb>boxart/original/front/27807-1.jpg</thumb></Game>
+<Game>
+<id>27808</id>
+<GameTitle>Warau Salesman</GameTitle>
+<ReleaseDate>09/17/1993</ReleaseDate>
+<thumb>boxart/original/front/27808-1.jpg</thumb></Game>
+<Game>
+<id>29399</id>
+<GameTitle>Sega Classics 4-in-1</GameTitle>
+<ReleaseDate>10/15/1992</ReleaseDate>
+<thumb>boxart/original/front/29399-1.png</thumb></Game>
+<Game>
+<id>29757</id>
+<GameTitle>Sonic the Hedgehog Megamix</GameTitle>
+<thumb>boxart/original/front/29757-1.jpg</thumb></Game>
+<Game>
+<id>30282</id>
+<GameTitle>Ninja Hayate</GameTitle>
+</Game>
+</Data>

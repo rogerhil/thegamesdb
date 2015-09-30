@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>16</id>
+	<Platform>Sega Dreamcast</Platform>
+	<console>http://www.youtube.com/watch?v=16.png</console>
+	<controller>http://www.youtube.com/watch?v=16.png</controller>
+	<overview>The Dreamcast is a 128-bit video game console which was released by Sega in late 1998 in Japan and from September 1999 in other territories. It was the first entry in the sixth generation of video game consoles, preceding Sony&amp;#039;s PlayStation 2, Microsoft&amp;#039;s Xbox and the Nintendo GameCube.
+
+Dreamcast sales were positive during launch, but because of the strong pressure from rival PlayStation 2, Dreamcast sales decreased, and Sega finally discontinued the Dreamcast in March 2001 and withdrew entirely from the console hardware business, making it the company&amp;#039;s final console.</overview>
+	<developer>Sega</developer>
+	<manufacturer>Sega</manufacturer>
+	<cpu>200 MHz Hitachi SH4 RISC</cpu>
+	<memory>RAM 16 MB, GPU 8 MB</memory>
+	<graphics>100 MHz PowerVR2 CLX2</graphics>
+	<sound>Yamaha AICA Sound Processor with a 32-Bit ARM7 RISC CPU</sound>
+	<display>640 × 480</display>
+	<media>Disc</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=G3k0yJB6IVE</Youtube>
+	<Rating>9.0769</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/16-1.jpg</original>
+			<thumb>platform/fanart/thumb/16-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/16-2.jpg</original>
+			<thumb>platform/fanart/thumb/16-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/16-3.jpg</original>
+			<thumb>platform/fanart/thumb/16-3.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="800" height="800">platform/boxart/16-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/16-1.jpg</banner>		<consoleart>platform/consoleart/16.png</consoleart>
+		<controllerart>platform/controllerart/16.png</controllerart>
+	</Images>
+</Platform>
+</Data>

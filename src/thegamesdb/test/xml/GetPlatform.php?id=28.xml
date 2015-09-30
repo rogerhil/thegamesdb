@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>28</id>
+	<Platform>Atari Jaguar</Platform>
+	<overview>The Atari Jaguar is a video game console that was released by Atari Corporation in 1993. It was the last to be marketed under the Atari brand until the release of the Atari Flashback in 2004. It was designed to surpass the Mega Drive/Genesis, Super Nintendo Entertainment System, and the Panasonic 3DO in processing power. Although launched one year earlier, it was eventually in competition with the Sega Saturn, the Sony PlayStation, and other consoles that made up the fifth generation of video game consoles. The console was first released in New York City and San Francisco on November 23, 1993, and the rest of the country in early 1994.  Although it was promoted as the first 64-bit gaming system, the Jaguar proved to be a commercial failure and prompted Atari to leave the home video game console market. Despite its commercial failure, the Jaguar has a dedicated fan base that produces homebrew games for it.</overview>
+	<developer>Atari</developer>
+	<manufacturer>Atari</manufacturer>
+	<cpu>&amp;quot;Jerry&amp;quot; Chip, 26.59 MHz</cpu>
+	<graphics>&amp;quot;Tom&amp;quot; Chip, 26.59 MHz</graphics>
+	<sound>CD-quality sound (16-bit stereo)</sound>
+	<media>Cartridge</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Rating>6.75</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/28-1.jpg</original>
+			<thumb>platform/fanart/thumb/28-1.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="820" height="1080">platform/boxart/28-2.jpg</boxart>
+		<banner width="760" height="140">platform/banners/28-1.jpg</banner>	</Images>
+</Platform>
+</Data>

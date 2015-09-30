@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>1</id>
+	<Platform>PC</Platform>
+	<overview>PC stands for Personal Computer. Mass-market consumer computers use highly standardized components and so are simple for an end user to assemble into a working system. A typical desktop computer consists of a computer case which holds the power supply, motherboard, hard disk and often an optical disc drive. External devices such as a computer monitor or visual display unit, keyboard, and a pointing device are usually found in a personal computer.</overview>
+	<developer>IBM</developer>
+	<cpu>x86 Based</cpu>
+	<Rating>7.15</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/1-1.jpg</original>
+			<thumb>platform/fanart/thumb/1-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/1-2.jpg</original>
+			<thumb>platform/fanart/thumb/1-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/1-3.jpg</original>
+			<thumb>platform/fanart/thumb/1-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/1-4.jpg</original>
+			<thumb>platform/fanart/thumb/1-4.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/1-5.jpg</original>
+			<thumb>platform/fanart/thumb/1-5.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="763" height="1080">platform/boxart/1-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/1-1.png</banner>		<banner width="760" height="140">platform/banners/1-2.jpg</banner>	</Images>
+</Platform>
+</Data>

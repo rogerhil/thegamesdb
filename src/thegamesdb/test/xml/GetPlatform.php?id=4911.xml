@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4911</id>
+	<Platform>Amiga</Platform>
+	<overview>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe. In North America success was more modest. The Amiga went on to sell approximately six million units.
+
+Second generation Amiga systems (A1200 and A4000) were released in 1992. However, poor marketing and failure to repeat the technological advances of the first systems meant that the Amiga quickly lost its market share to competing platforms, such as the fourth generation game consoles, Apple Macintosh and IBM PC compatibles.</overview>
+	<developer>Commodore</developer>
+	<manufacturer>Commodore</manufacturer>
+	<cpu>Motorola 68000</cpu>
+	<memory>16MB</memory>
+	<graphics>AGA chipset</graphics>
+	<sound>The sound chip, named Paula, supports four sound channels (two for the left speaker and two for the right) with 8-bit resolution for each channel and a 6-bit volume control per channel.</sound>
+	<display>1024×800 for NTSC and 1024×1024 for PAL</display>
+	<media>Disk</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=iUKKLzD4Pto</Youtube>
+	<Rating>8.875</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4911-1.jpg</original>
+			<thumb>platform/fanart/thumb/4911-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4911-2.jpg</original>
+			<thumb>platform/fanart/thumb/4911-2.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="820" height="1080">platform/boxart/4911-2.jpg</boxart>
+		<banner width="760" height="140">platform/banners/4911-1.jpg</banner>	</Images>
+</Platform>
+</Data>

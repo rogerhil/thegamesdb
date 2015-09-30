@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>2938</id>
+<GameTitle>Revolution X</GameTitle>
+<PlatformId>6</PlatformId>
+<Platform>Super Nintendo (SNES)</Platform>
+<ReleaseDate>12/01/1995</ReleaseDate>
+<Overview>Revolution X is about the ol' Rock &amp; Roll.
+
+There is an evil nation putting the youth down and banning our beloved rock music. Who you gonna call? Aerosmith! With the help of Aerosmith, the player must shoot his/her way through enemy infested levels, (light) guns blazing, collecting power-ups and releasing hostages.
+
+Almost all of the graphics are digitized and Aerosmith themselves are too! There are also lots of fmv videos.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Acclaim</Publisher>
+<Developer>Midway</Developer>
+<Rating>5.5</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>668</id><PlatformId>18</PlatformId></Game><Game><id>15267</id><PlatformId>17</PlatformId></Game><Game><id>13764</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<boxart side="front" width="620" height="425" thumb="boxart/thumb/original/front/2938-1.jpg">boxart/original/front/2938-1.jpg</boxart>
+<clearlogo width="400" height="275">clearlogo/2938.png</clearlogo></Images>
+</Game>
+</Data>

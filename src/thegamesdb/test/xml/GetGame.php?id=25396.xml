@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25396</id>
+<GameTitle>X-Men II: The Fall of the Mutants</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>01/01/1991</ReleaseDate>
+<Overview>In X-Men 2: The Fall of the Mutants the player must assemble a team of five X-Men from a selection of fifteen, and eliminate the evil mutants while playing in a top-down RPG-style environment. When battles commence the player has two choices for how the combat takes place: either side-scrolling action, or turn-based RPG-style combat. In the side-scrolling action fights, the player can use each of the team members' powers to kill the foes.</Overview>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Paragon</Publisher>
+<Developer>Paragon</Developer>
+<Images>
+<boxart side="back" width="1000" height="1161" thumb="boxart/thumb/original/back/25396-1.jpg">boxart/original/back/25396-1.jpg</boxart>
+<boxart side="front" width="1000" height="1167" thumb="boxart/thumb/original/front/25396-1.jpg">boxart/original/front/25396-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

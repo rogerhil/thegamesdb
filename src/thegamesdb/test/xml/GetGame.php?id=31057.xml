@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>31057</id>
+<GameTitle>Shattered Origins: Guardians of Unity</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>04/01/2011</ReleaseDate>
+<Overview>Shattered Origins is a unique tactical shooter game with elements of strategy, RPG and arcade games.
+
+The Earth was suffering. Humankind destroyed it almost entirely during the pointless wars and the endless hunt for resources. Life was not possible to sustain anymore. Not on that planet, at least.
+
+Anarchy, struggle and fighting against each other... instead of doing the right thing. That was always the nature of humankind.
+
+The humans were lucky. They had a savior. A company called 'Guardians' emerged with enough resources to help evacuate most of the population of Earth. They were heroes. A group of the highest military rank joined the Guardian, and formed the 'military council', to supervise all human activities of outer space.
+
+But humankind had much to learn.
+
+The first curse was radiation. While humanity was sitting comfortably on Earth, waiting to be saved, they could not even imagine that most of outer space is lethal to human life. They can't survive certain radiation types, and in the end, they did not dare to explore. They did not go anywhere. They were imprisoned in the few gigantic Star Cruisers of the Guardians.
+
+Then the Guardians claimed that humankind can only survive if they are united, and form the future together. Together, they can be safe. It was a principle that was accepted for a short while, but fanaticism started to slowly take over the Guardian leaders. When they began to see the enemy in everyone, even executing people without much reason, the humans finally started to see what kind of people were controlling them.
+
+This was the time when more than two million people stole ships from the hangars, and left the Guardian Cruisers far behind. A few million followed in the coming years.
+
+The Guardians declared these people the 'Pirate horde', and finally, they had a reason to unite. Everyone who remained on the Cruisers became a Guardian, and from then on, the Guardian and Pirate became factions.
+
+Historians tend to call this separation of human factions 'The Shattering'.
+
+Two hundred years later the Pirate Wars are still devastating, and even on the brink of extinction, humankind keeps on fighting.
+
+Anarchy, struggle and fighting against each other... instead of doing the right thing. That was always the nature of humankind.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Flight Simulator</genre><genre>Role-Playing</genre><genre>Sandbox</genre><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=mQqm6aoGjnQ</Youtube>
+<Publisher>Rawen Group</Publisher>
+<Developer>Elder Games</Developer>
+<Images>
+<boxart side="front" width="425" height="600" thumb="boxart/thumb/original/front/31057-1.jpg">boxart/original/front/31057-1.jpg</boxart>
+<screenshot>
+<original width="940" height="588">screenshots/31057-1.jpg</original>
+<thumb>screenshots/thumb/31057-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="940" height="588">screenshots/31057-2.jpg</original>
+<thumb>screenshots/thumb/31057-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="940" height="705">screenshots/31057-3.jpg</original>
+<thumb>screenshots/thumb/31057-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="940" height="704">screenshots/31057-4.jpg</original>
+<thumb>screenshots/thumb/31057-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="940" height="752">screenshots/31057-5.jpg</original>
+<thumb>screenshots/thumb/31057-5.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="940" height="752">screenshots/31057-6.jpg</original>
+<thumb>screenshots/thumb/31057-6.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="940" height="752">screenshots/31057-7.jpg</original>
+<thumb>screenshots/thumb/31057-7.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

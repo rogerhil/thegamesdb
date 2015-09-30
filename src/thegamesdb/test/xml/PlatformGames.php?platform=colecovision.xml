@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>3998</id>
+<GameTitle>Carnival</GameTitle>
+<thumb>boxart/original/front/3998-1.jpg</thumb></Game>
+<Game>
+<id>3999</id>
+<GameTitle>Cosmic Avenger</GameTitle>
+<thumb>boxart/original/front/3999-1.jpg</thumb></Game>
+<Game>
+<id>4000</id>
+<GameTitle>Donkey Kong</GameTitle>
+<thumb>boxart/original/front/4000-1.jpg</thumb></Game>
+<Game>
+<id>4001</id>
+<GameTitle>Donkey Kong Jr.</GameTitle>
+<thumb>boxart/original/front/4001-1.jpg</thumb></Game>
+<Game>
+<id>4002</id>
+<GameTitle>Frenzy</GameTitle>
+<thumb>boxart/original/front/4002-1.jpg</thumb></Game>
+<Game>
+<id>4003</id>
+<GameTitle>Front Line</GameTitle>
+<thumb>boxart/original/front/4003-1.jpg</thumb></Game>
+<Game>
+<id>4004</id>
+<GameTitle>Gorf</GameTitle>
+<thumb>boxart/original/front/4004-1.jpg</thumb></Game>
+<Game>
+<id>4005</id>
+<GameTitle>Lady Bug</GameTitle>
+<thumb>boxart/original/front/4005-1.jpg</thumb></Game>
+<Game>
+<id>4006</id>
+<GameTitle>Looping</GameTitle>
+<thumb>boxart/original/front/4006-1.jpg</thumb></Game>
+<Game>
+<id>4008</id>
+<GameTitle>Mouse Trap</GameTitle>
+<thumb>boxart/original/front/4008-1.jpg</thumb></Game>
+<Game>
+<id>4009</id>
+<GameTitle>Mr. Do!</GameTitle>
+<thumb>boxart/original/front/4009-1.jpg</thumb></Game>
+<Game>
+<id>4010</id>
+<GameTitle>Nova Blast</GameTitle>
+<thumb>boxart/original/front/4010-1.jpg</thumb></Game>
+<Game>
+<id>4011</id>
+<GameTitle>Omega Race</GameTitle>
+<thumb>boxart/original/front/4011-1.jpg</thumb></Game>
+<Game>
+<id>4012</id>
+<GameTitle>Pepper II</GameTitle>
+<thumb>boxart/original/front/4012-1.jpg</thumb></Game>
+<Game>
+<id>4013</id>
+<GameTitle>Pitfall!</GameTitle>
+<thumb>boxart/original/front/4013-1.jpg</thumb></Game>
+<Game>
+<id>4014</id>
+<GameTitle>Q*bert</GameTitle>
+<thumb>boxart/original/front/4014-1.jpg</thumb></Game>
+<Game>
+<id>4015</id>
+<GameTitle>River Raid</GameTitle>
+<ReleaseDate>06/06/1984</ReleaseDate>
+<thumb>boxart/original/front/4015-1.jpg</thumb></Game>
+<Game>
+<id>4016</id>
+<GameTitle>Rocky</GameTitle>
+<ReleaseDate>12/31/1983</ReleaseDate>
+<thumb>boxart/original/front/4016-1.jpg</thumb></Game>
+<Game>
+<id>4017</id>
+<GameTitle>Roc 'N Rope</GameTitle>
+<thumb>boxart/original/front/4017-1.jpg</thumb></Game>
+<Game>
+<id>4018</id>
+<GameTitle>Slither</GameTitle>
+<thumb>boxart/original/front/4018-1.jpg</thumb></Game>
+<Game>
+<id>4019</id>
+<GameTitle>Smurf</GameTitle>
+<thumb>boxart/original/front/4019-1.jpg</thumb></Game>
+<Game>
+<id>4020</id>
+<GameTitle>Space Fury</GameTitle>
+<thumb>boxart/original/front/4020-1.jpg</thumb></Game>
+<Game>
+<id>4021</id>
+<GameTitle>SubRoc</GameTitle>
+<thumb>boxart/original/front/4021-1.jpg</thumb></Game>
+<Game>
+<id>4022</id>
+<GameTitle>Time Pilot</GameTitle>
+<thumb>boxart/original/front/4022-1.jpg</thumb></Game>
+<Game>
+<id>4023</id>
+<GameTitle>Turbo</GameTitle>
+<ReleaseDate>01/01/1982</ReleaseDate>
+<thumb>boxart/original/front/4023-1.jpg</thumb></Game>
+<Game>
+<id>4024</id>
+<GameTitle>Zaxxon</GameTitle>
+<thumb>boxart/original/front/4024-1.jpg</thumb></Game>
+<Game>
+<id>8257</id>
+<GameTitle>Zenji</GameTitle>
+<thumb>boxart/original/front/8257-1.jpg</thumb></Game>
+<Game>
+<id>10114</id>
+<GameTitle>James Bond 007</GameTitle>
+<thumb>boxart/original/front/10114-1.jpg</thumb></Game>
+<Game>
+<id>10116</id>
+<GameTitle>Joust</GameTitle>
+<thumb>boxart/original/front/10116-1.jpg</thumb></Game>
+<Game>
+<id>10117</id>
+<GameTitle>Gyruss</GameTitle>
+<thumb>boxart/original/front/10117-1.jpg</thumb></Game>
+<Game>
+<id>10118</id>
+<GameTitle>Frogger</GameTitle>
+<thumb>boxart/original/front/10118-1.jpg</thumb></Game>
+<Game>
+<id>10119</id>
+<GameTitle>Frogger II: Threeedeep!</GameTitle>
+<thumb>boxart/original/front/10119-1.jpg</thumb></Game>
+<Game>
+<id>10121</id>
+<GameTitle>Fraction Fever</GameTitle>
+<thumb>boxart/original/front/10121-1.jpg</thumb></Game>
+<Game>
+<id>10123</id>
+<GameTitle>Dig Dug</GameTitle>
+<thumb>boxart/original/front/10123-1.jpg</thumb></Game>
+<Game>
+<id>10253</id>
+<GameTitle>Alcazar: The Forgotten Fortress</GameTitle>
+<thumb>boxart/original/front/10253-1.jpg</thumb></Game>
+<Game>
+<id>10254</id>
+<GameTitle>Amazing Bumpman</GameTitle>
+<ReleaseDate>01/01/1984</ReleaseDate>
+<thumb>boxart/original/front/10254-1.jpg</thumb></Game>
+<Game>
+<id>10255</id>
+<GameTitle>Antarctic Adventure</GameTitle>
+<ReleaseDate>01/01/1984</ReleaseDate>
+<thumb>boxart/original/front/10255-1.jpg</thumb></Game>
+<Game>
+<id>10256</id>
+<GameTitle>Aquattack</GameTitle>
+<thumb>boxart/original/front/10256-1.png</thumb></Game>
+<Game>
+<id>10257</id>
+<GameTitle>Artillery Duel</GameTitle>
+<ReleaseDate>03/16/1983</ReleaseDate>
+<thumb>boxart/original/front/10257-1.jpg</thumb></Game>
+<Game>
+<id>10258</id>
+<GameTitle>2010: The Graphic Action Game</GameTitle>
+<thumb>boxart/original/front/10258-1.jpg</thumb></Game>
+<Game>
+<id>10259</id>
+<GameTitle>B.C. II: Grog's Revenge</GameTitle>
+<thumb>boxart/original/front/10259-1.jpg</thumb></Game>
+<Game>
+<id>10260</id>
+<GameTitle>Beamrider</GameTitle>
+<thumb>boxart/original/front/10260-1.jpg</thumb></Game>
+<Game>
+<id>10261</id>
+<GameTitle>Blockade Runner</GameTitle>
+<thumb>boxart/original/front/10261-1.jpg</thumb></Game>
+<Game>
+<id>10262</id>
+<GameTitle>Boulder Dash</GameTitle>
+<thumb>boxart/original/front/10262-1.jpg</thumb></Game>
+<Game>
+<id>10263</id>
+<GameTitle>Brain Strainers</GameTitle>
+<thumb>boxart/original/front/10263-1.jpg</thumb></Game>
+<Game>
+<id>10264</id>
+<GameTitle>Buck Rogers: Planet of Zoom</GameTitle>
+<thumb>boxart/original/front/10264-1.jpg</thumb></Game>
+<Game>
+<id>10265</id>
+<GameTitle>Bump 'n' Jump</GameTitle>
+<thumb>boxart/original/front/10265-1.jpg</thumb></Game>
+<Game>
+<id>10266</id>
+<GameTitle>BurgerTime</GameTitle>
+<thumb>boxart/original/front/10266-1.jpg</thumb></Game>
+<Game>
+<id>10267</id>
+<GameTitle>Campaign '84</GameTitle>
+<thumb>boxart/original/front/10267-1.jpg</thumb></Game>
+<Game>
+<id>10268</id>
+<GameTitle>Centipede</GameTitle>
+<thumb>boxart/original/front/10268-1.jpg</thumb></Game>
+<Game>
+<id>10269</id>
+<GameTitle>Choplifter</GameTitle>
+<thumb>boxart/original/front/10269-1.jpg</thumb></Game>
+<Game>
+<id>10270</id>
+<GameTitle>Chuck Norris Superkicks</GameTitle>
+<thumb>boxart/original/front/10270-1.jpg</thumb></Game>
+<Game>
+<id>10278</id>
+<GameTitle>WarGames</GameTitle>
+<thumb>boxart/original/front/10278-1.jpg</thumb></Game>
+<Game>
+<id>10280</id>
+<GameTitle>Galaxian</GameTitle>
+<thumb>boxart/original/front/10280-1.jpg</thumb></Game>
+<Game>
+<id>10281</id>
+<GameTitle>Congo Bongo</GameTitle>
+<thumb>boxart/original/front/10281-1.jpg</thumb></Game>
+<Game>
+<id>10282</id>
+<GameTitle>Death Race</GameTitle>
+<thumb>boxart/original/front/10282-1.jpg</thumb></Game>
+<Game>
+<id>10283</id>
+<GameTitle>Defender</GameTitle>
+<thumb>boxart/original/front/10283-1.jpg</thumb></Game>
+<Game>
+<id>10318</id>
+<GameTitle>Cosmic Crisis</GameTitle>
+<thumb>boxart/original/front/10318-1.jpg</thumb></Game>
+<Game>
+<id>10319</id>
+<GameTitle>The Dam Busters</GameTitle>
+<thumb>boxart/original/front/10319-1.jpg</thumb></Game>
+<Game>
+<id>10320</id>
+<GameTitle>Dance Fantasy</GameTitle>
+<thumb>boxart/original/front/10320-1.jpg</thumb></Game>
+<Game>
+<id>10321</id>
+<GameTitle>Decathlon</GameTitle>
+<thumb>boxart/original/front/10321-1.jpg</thumb></Game>
+<Game>
+<id>10322</id>
+<GameTitle>Destructor</GameTitle>
+<thumb>boxart/original/front/10322-1.jpg</thumb></Game>
+<Game>
+<id>10323</id>
+<GameTitle>Dr. Seuss' Fix-Up the Mix-Up Puzzler</GameTitle>
+<thumb>boxart/original/front/10323-1.jpg</thumb></Game>
+<Game>
+<id>10324</id>
+<GameTitle>Dragonfire</GameTitle>
+<thumb>boxart/original/front/10324-1.jpg</thumb></Game>
+<Game>
+<id>10325</id>
+<GameTitle>The Dukes of Hazzard</GameTitle>
+<thumb>boxart/original/front/10325-1.jpg</thumb></Game>
+<Game>
+<id>10326</id>
+<GameTitle>Escape from the Mindmaster</GameTitle>
+<thumb>boxart/original/front/10326-1.jpg</thumb></Game>
+<Game>
+<id>10327</id>
+<GameTitle>Evolution</GameTitle>
+<thumb>boxart/original/front/10327-1.jpg</thumb></Game>
+<Game>
+<id>10328</id>
+<GameTitle>Facemaker</GameTitle>
+<thumb>boxart/original/front/10328-1.jpg</thumb></Game>
+<Game>
+<id>10329</id>
+<GameTitle>Fathom</GameTitle>
+<thumb>boxart/original/front/10329-1.jpg</thumb></Game>
+<Game>
+<id>10330</id>
+<GameTitle>Flipper Slipper</GameTitle>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<thumb>boxart/original/front/10330-1.jpg</thumb></Game>
+<Game>
+<id>10331</id>
+<GameTitle>Fortune Builder</GameTitle>
+<thumb>boxart/original/front/10331-1.jpg</thumb></Game>
+<Game>
+<id>10332</id>
+<GameTitle>Frantic Freddy</GameTitle>
+<thumb>boxart/original/front/10332-1.jpg</thumb></Game>
+<Game>
+<id>10333</id>
+<GameTitle>Tarzan</GameTitle>
+<ReleaseDate>05/09/1984</ReleaseDate>
+<thumb>boxart/original/front/10333-1.jpg</thumb></Game>
+<Game>
+<id>10336</id>
+<GameTitle>Gateway to Apshai</GameTitle>
+<thumb>boxart/original/front/10336-1.jpg</thumb></Game>
+<Game>
+<id>10337</id>
+<GameTitle>Gulkave</GameTitle>
+<thumb>boxart/original/front/10337-1.jpg</thumb></Game>
+<Game>
+<id>10338</id>
+<GameTitle>Gust Buster</GameTitle>
+<thumb>boxart/original/front/10338-1.jpg</thumb></Game>
+<Game>
+<id>10339</id>
+<GameTitle>H.E.R.O.</GameTitle>
+<thumb>boxart/original/front/10339-1.jpg</thumb></Game>
+<Game>
+<id>10340</id>
+<GameTitle>The Heist</GameTitle>
+<thumb>boxart/original/front/10340-1.jpg</thumb></Game>
+<Game>
+<id>10341</id>
+<GameTitle>Illusions</GameTitle>
+<ReleaseDate>01/01/1984</ReleaseDate>
+<thumb>boxart/original/front/10341-1.jpg</thumb></Game>
+<Game>
+<id>10342</id>
+<GameTitle>It's Only Rock 'N Roll</GameTitle>
+<thumb>boxart/original/front/10342-1.jpg</thumb></Game>
+<Game>
+<id>10343</id>
+<GameTitle>Jukebox</GameTitle>
+<thumb>boxart/original/front/10343-1.jpg</thumb></Game>
+<Game>
+<id>10344</id>
+<GameTitle>Jumpman Jr.</GameTitle>
+<ReleaseDate>12/01/1984</ReleaseDate>
+<thumb>boxart/original/front/10344-1.jpg</thumb></Game>
+<Game>
+<id>10345</id>
+<GameTitle>Jungle Hunt</GameTitle>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<thumb>boxart/original/front/10345-1.jpg</thumb></Game>
+<Game>
+<id>10346</id>
+<GameTitle>Ken Uston's Blackjack/Poker</GameTitle>
+<ReleaseDate>12/01/1982</ReleaseDate>
+<thumb>boxart/original/front/10346-1.jpg</thumb></Game>
+<Game>
+<id>10348</id>
+<GameTitle>Keystone Kapers</GameTitle>
+<thumb>boxart/original/front/10348-1.jpg</thumb></Game>
+<Game>
+<id>10349</id>
+<GameTitle>Learning with Leeper</GameTitle>
+<ReleaseDate>12/08/1984</ReleaseDate>
+<thumb>boxart/original/front/10349-1.jpg</thumb></Game>
+<Game>
+<id>10350</id>
+<GameTitle>Linking Logic</GameTitle>
+<thumb>boxart/original/front/10350-1.jpg</thumb></Game>
+<Game>
+<id>10351</id>
+<GameTitle>Logic Levels</GameTitle>
+<thumb>boxart/original/front/10351-1.jpg</thumb></Game>
+<Game>
+<id>10402</id>
+<GameTitle>Memory Manor</GameTitle>
+<thumb>boxart/original/front/10402-1.jpg</thumb></Game>
+<Game>
+<id>10403</id>
+<GameTitle>Meteoric Shower</GameTitle>
+<thumb>boxart/original/front/10403-1.png</thumb></Game>
+<Game>
+<id>10404</id>
+<GameTitle>Miner 2049er</GameTitle>
+<thumb>boxart/original/front/10404-1.jpg</thumb></Game>
+<Game>
+<id>10405</id>
+<GameTitle>Monkey Academy</GameTitle>
+<thumb>boxart/original/front/10405-1.jpg</thumb></Game>
+<Game>
+<id>10406</id>
+<GameTitle>Montezuma's Revenge</GameTitle>
+<thumb>boxart/original/front/10406-1.jpg</thumb></Game>
+<Game>
+<id>10407</id>
+<GameTitle>Moonsweeper</GameTitle>
+<thumb>boxart/original/front/10407-1.jpg</thumb></Game>
+<Game>
+<id>10408</id>
+<GameTitle>Motocross Racer</GameTitle>
+<thumb>boxart/original/front/10408-1.jpg</thumb></Game>
+<Game>
+<id>10409</id>
+<GameTitle>Mountain King</GameTitle>
+<thumb>boxart/original/front/10409-1.jpg</thumb></Game>
+<Game>
+<id>10410</id>
+<GameTitle>Mr. Do's Castle</GameTitle>
+<thumb>boxart/original/front/10410-1.jpg</thumb></Game>
+<Game>
+<id>10411</id>
+<GameTitle>Pitfall II: Lost Caverns</GameTitle>
+<ReleaseDate>12/01/1984</ReleaseDate>
+<thumb>boxart/original/front/10411-1.jpg</thumb></Game>
+<Game>
+<id>10412</id>
+<GameTitle>Pitstop</GameTitle>
+<thumb>boxart/original/front/10412-1.jpg</thumb></Game>
+<Game>
+<id>10413</id>
+<GameTitle>Popeye</GameTitle>
+<thumb>boxart/original/front/10413-1.jpg</thumb></Game>
+<Game>
+<id>10414</id>
+<GameTitle>Q*bert's Qubes</GameTitle>
+<thumb>boxart/original/front/10414-1.jpg</thumb></Game>
+<Game>
+<id>10415</id>
+<GameTitle>Quest for Quintana Roo</GameTitle>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<thumb>boxart/original/front/10415-1.jpg</thumb></Game>
+<Game>
+<id>10416</id>
+<GameTitle>Robin Hood</GameTitle>
+<thumb>boxart/original/front/10416-1.jpg</thumb></Game>
+<Game>
+<id>10417</id>
+<GameTitle>Rock 'N Bolt</GameTitle>
+<thumb>boxart/original/front/10417-1.jpg</thumb></Game>
+<Game>
+<id>10418</id>
+<GameTitle>Rocky Super Action Boxing</GameTitle>
+<thumb>boxart/original/front/10418-1.jpg</thumb></Game>
+<Game>
+<id>10419</id>
+<GameTitle>Rolloverture</GameTitle>
+<thumb>boxart/original/front/10419-1.jpg</thumb></Game>
+<Game>
+<id>10420</id>
+<GameTitle>Sammy Lightfoot</GameTitle>
+<thumb>boxart/original/front/10420-1.jpg</thumb></Game>
+<Game>
+<id>10421</id>
+<GameTitle>Sector Alpha</GameTitle>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<thumb>boxart/original/front/10421-1.jpg</thumb></Game>
+<Game>
+<id>10422</id>
+<GameTitle>Sewer Sam</GameTitle>
+<thumb>boxart/original/front/10422-1.jpg</thumb></Game>
+<Game>
+<id>10423</id>
+<GameTitle>Sir Lancelot</GameTitle>
+<thumb>boxart/original/front/10423-1.jpg</thumb></Game>
+<Game>
+<id>10424</id>
+<GameTitle>Slurpy</GameTitle>
+<ReleaseDate>09/20/1984</ReleaseDate>
+<thumb>boxart/original/front/10424-1.jpg</thumb></Game>
+<Game>
+<id>10425</id>
+<GameTitle>Smurf Paint 'n' Play Workshop</GameTitle>
+<thumb>boxart/original/front/10425-1.jpg</thumb></Game>
+<Game>
+<id>10426</id>
+<GameTitle>Smurf: Rescue in Gargamel's Castle</GameTitle>
+<thumb>boxart/original/front/10426-1.jpg</thumb></Game>
+<Game>
+<id>10427</id>
+<GameTitle>Space Panic</GameTitle>
+<thumb>boxart/original/front/10427-1.jpg</thumb></Game>
+<Game>
+<id>10428</id>
+<GameTitle>Spectron</GameTitle>
+<thumb>boxart/original/front/10428-1.jpg</thumb></Game>
+<Game>
+<id>10429</id>
+<GameTitle>Star Trek: Strategic Operations Simulator</GameTitle>
+<ReleaseDate>12/01/1984</ReleaseDate>
+<thumb>boxart/original/front/10429-1.jpg</thumb></Game>
+<Game>
+<id>10430</id>
+<GameTitle>Star Wars: The Arcade Game</GameTitle>
+<thumb>boxart/original/front/10430-1.jpg</thumb></Game>
+<Game>
+<id>10431</id>
+<GameTitle>Steamroller</GameTitle>
+<thumb>boxart/original/front/10431-1.jpg</thumb></Game>
+<Game>
+<id>10432</id>
+<GameTitle>Strike It!</GameTitle>
+<thumb>boxart/original/front/10432-1.jpg</thumb></Game>
+<Game>
+<id>10433</id>
+<GameTitle>Super Action Baseball</GameTitle>
+<thumb>boxart/original/front/10433-1.png</thumb></Game>
+<Game>
+<id>10434</id>
+<GameTitle>Super Action Football</GameTitle>
+<thumb>boxart/original/front/10434-1.jpg</thumb></Game>
+<Game>
+<id>10435</id>
+<GameTitle>Super Action Soccer</GameTitle>
+<thumb>boxart/original/front/10435-1.jpg</thumb></Game>
+<Game>
+<id>10436</id>
+<GameTitle>Super Cross Force</GameTitle>
+<ReleaseDate>12/01/1983</ReleaseDate>
+<thumb>boxart/original/front/10436-1.jpg</thumb></Game>
+<Game>
+<id>10437</id>
+<GameTitle>Tank Wars</GameTitle>
+<thumb>boxart/original/front/10437-1.jpg</thumb></Game>
+<Game>
+<id>10438</id>
+<GameTitle>Telly Turtle</GameTitle>
+<thumb>boxart/original/front/10438-1.jpg</thumb></Game>
+<Game>
+<id>10439</id>
+<GameTitle>Threshold</GameTitle>
+<thumb>boxart/original/front/10439-1.jpg</thumb></Game>
+<Game>
+<id>10440</id>
+<GameTitle>Tomarc the Barbarian</GameTitle>
+<thumb>boxart/original/front/10440-1.jpg</thumb></Game>
+<Game>
+<id>10441</id>
+<GameTitle>Tournament Tennis</GameTitle>
+<thumb>boxart/original/front/10441-1.jpg</thumb></Game>
+<Game>
+<id>10443</id>
+<GameTitle>Tutankham</GameTitle>
+<thumb>boxart/original/front/10443-1.jpg</thumb></Game>
+<Game>
+<id>10444</id>
+<GameTitle>Up'n Down</GameTitle>
+<thumb>boxart/original/front/10444-1.jpg</thumb></Game>
+<Game>
+<id>10445</id>
+<GameTitle>Victory</GameTitle>
+<thumb>boxart/original/front/10445-1.jpg</thumb></Game>
+<Game>
+<id>10446</id>
+<GameTitle>War Room</GameTitle>
+<thumb>boxart/original/front/10446-1.jpg</thumb></Game>
+<Game>
+<id>10447</id>
+<GameTitle>Wing War</GameTitle>
+<thumb>boxart/original/front/10447-1.jpg</thumb></Game>
+<Game>
+<id>10448</id>
+<GameTitle>The Wizard of Id's Wiz Math</GameTitle>
+<thumb>boxart/original/front/10448-1.jpg</thumb></Game>
+<Game>
+<id>10449</id>
+<GameTitle>Word Feud</GameTitle>
+<thumb>boxart/original/front/10449-1.jpg</thumb></Game>
+<Game>
+<id>12962</id>
+<GameTitle>Cabbage Patch Kids: Adventures in the Park</GameTitle>
+<ReleaseDate>12/01/1984</ReleaseDate>
+<thumb>boxart/original/front/12962-1.jpg</thumb></Game>
+<Game>
+<id>12963</id>
+<GameTitle>Cabbage Patch Kids: Picture Show</GameTitle>
+<thumb>boxart/original/front/12963-1.jpg</thumb></Game>
+<Game>
+<id>12964</id>
+<GameTitle>Oil's Well</GameTitle>
+<thumb>boxart/original/front/12964-1.jpg</thumb></Game>
+<Game>
+<id>18663</id>
+<GameTitle>Squish 'Em Featuring Sam</GameTitle>
+<ReleaseDate>05/01/1984</ReleaseDate>
+<thumb>boxart/original/front/18663-1.jpg</thumb></Game>
+<Game>
+<id>18664</id>
+<GameTitle>B.C.'s Quest for Tires</GameTitle>
+<ReleaseDate>04/02/2013</ReleaseDate>
+<thumb>boxart/original/front/18664-1.jpg</thumb></Game>
+<Game>
+<id>18665</id>
+<GameTitle>Venture</GameTitle>
+<ReleaseDate>04/06/1982</ReleaseDate>
+<thumb>boxart/original/front/18665-1.jpg</thumb></Game>
+<Game>
+<id>28146</id>
+<GameTitle>Root Beer Tapper</GameTitle>
+<thumb>boxart/original/front/28146-1.jpg</thumb></Game>
+</Data>

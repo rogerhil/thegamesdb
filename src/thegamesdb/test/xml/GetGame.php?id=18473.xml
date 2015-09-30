@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>18473</id>
+<GameTitle>Batman Arkham Origins: Blackgate</GameTitle>
+<PlatformId>4912</PlatformId>
+<Platform>Nintendo 3DS</Platform>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Overview>Taking place before the rise of Gotham City's most dangerous criminals, villains and assassins, players will meet many important characters for the first time. The game showcases a young, raw, unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, witness identities being formed and key relationships being forged.
+Features:
+
+    Become the Batman - Uncover the sinister plots inside Blackgate Prison. Use stealth, Bat gadgets or brute force to take down your rivals.
+    Investigate the Scene - Employ Batman's unprecedented detective skills to scrub a crime scene clean with an all-new environment analysis system.
+    Continue the Story - See what happens after the events of the Arkham Origins console game, told in an innovative 2D presentation and comic-style cut scenes.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Co-op>No</Co-op>
+<Publisher>Warner Bros. Interactive Entertainment</Publisher>
+<Developer>Armature Studio</Developer>
+<Rating>7.5</Rating><Images>
+<boxart side="front" width="190" height="175" thumb="boxart/thumb/original/front/18473-1.jpg">boxart/original/front/18473-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

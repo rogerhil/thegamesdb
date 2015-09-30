@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4915</id>
+	<Platform>iOS</Platform>
+	<overview>iOS (previously iPhone OS) is a mobile operating system developed and distributed by Apple Inc. Originally released in 2007 for the iPhone and iPod Touch platforms, it has been extended to support other Apple devices such as the iPad and Apple TV.
+
+The user interface of iOS is based on the concept of direct manipulation, using multi-touch gestures. Interface control elements consist of sliders, switches, and buttons. Interaction with the OS includes gestures such as swipe, tap, pinch, and reverse pinch, all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal accelerometers are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it in three dimensions (one common result is switching from portrait to landscape mode).</overview>
+	<developer>Apple</developer>
+	<Rating>6</Rating>
+	<Images>
+		<boxart side="back" width="820" height="1080">platform/boxart/4915-1.jpg</boxart>
+	</Images>
+</Platform>
+</Data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12553</id>
+<GameTitle>God of War Origins Collection</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>09/13/2011</ReleaseDate>
+<Overview>Now, discover the origins of Kratos with the definitive compilation of God of War: Chains of Olympus and God of War: Ghost of Sparta on a single Blu-ray disc for the first time! Fully remastered in 1080p and stereoscopic 3-D, players will discover the dark past that continues to haunt the Spartan Warrior, and why he is forced to choose between his own personal redemption and saving the ancient world from destruction.</Overview>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="1000" height="1169" thumb="boxart/thumb/original/front/12553-1.jpg">boxart/original/front/12553-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

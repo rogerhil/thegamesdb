@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11773</id>
+<GameTitle>Kane &amp; Lynch: Dead Men</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>11/13/2007</ReleaseDate>
+<Overview>Kane &amp; Lynch: Dead Men is a violent and chaotic journey of two men - a flawed mercenary and a medicated psychopath – and their brutal attitude towards right and wrong. Now, they must partner up as a mess of cash makes for hell on Earth in this co-op action game.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=7cNNehOmvTI</Youtube>
+<Publisher>Eidos Interactive</Publisher>
+<Developer>Io Interactive</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>7497</id><PlatformId>15</PlatformId></Game><Game><id>811</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="601" height="710" thumb="boxart/thumb/original/front/11773-1.jpg">boxart/original/front/11773-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

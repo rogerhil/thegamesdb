@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14795</id>
+<GameTitle>X-Men</GameTitle>
+<PlatformId>20</PlatformId>
+<Platform>Sega Game Gear</Platform>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Overview>The evil mutant Magneto has devised the world's deadliest computer virus. Its sole purpose: To destroy the Uncanny X-Men. Now Wolverine, Gambit, Cyclops and Nightcrawler join Storm, Iceman, Archangel, Jean Grey and Rogue to stop Magneto from carrying out his diabolical plan. Their target is Magneto's secret base on Asteroid M. But lying in ambush are the murderous arch villains Juggernaut, Sabretooth, Mojo and Deathbird. Will Wolverine's adamantium claws and Gambit's energy-charged playing cards be enough to defeat the forces of Magneto? That's up to you.</Overview>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Sega</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>10681</id><PlatformId>23</PlatformId></Game><Game><id>20520</id><PlatformId>33</PlatformId></Game><Game><id>665</id><PlatformId>18</PlatformId></Game><Game><id>8104</id><PlatformId>36</PlatformId></Game></Similar><Images>
+<boxart side="front" width="229" height="319" thumb="boxart/thumb/original/front/14795-1.jpg">boxart/original/front/14795-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

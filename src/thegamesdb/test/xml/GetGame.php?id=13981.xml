@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13981</id>
+<GameTitle>Of Orcs and Men</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>10/11/2012</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Focus Home Interactive</Publisher>
+<Developer>Cyanide</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>13984</id><PlatformId>1</PlatformId></Game><Game><id>13983</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="174" height="240" thumb="boxart/thumb/original/front/13981-1.jpg">boxart/original/front/13981-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

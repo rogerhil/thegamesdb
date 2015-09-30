@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13983</id>
+<GameTitle>Of Orcs and Men</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>10/11/2012</ReleaseDate>
+<Overview>Of Orcs and Men first puts the player into the role of an elite Orc soldier, Arkail, from the legendary legion of Bloodjaws. The legion is a league of warriors deeply involved in the war between the Orcs and the Goblins on one side and their persecutors, Humankind, on the other. As a veteran warrior who has seen the most brutal of battles, the player is appointed by the Orc commander to complete a mission that could change the course of the war, to kill the Emperor himself, the man responsible for the bloodshed. A Goblin, Styx, soon joins the player, an unlikely but indispensable ally.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=EgwpeQjQ7a8</Youtube>
+<Publisher>Focus Home Interactive</Publisher>
+<Developer>Cyanide</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>13981</id><PlatformId>15</PlatformId></Game><Game><id>13984</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1112" height="1280" thumb="boxart/thumb/original/front/13983-1.jpg">boxart/original/front/13983-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11677</id>
+<GameTitle>The X-Files</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>09/30/1999</ReleaseDate>
+<Overview>Enter the world of the X-Files as field agent Craig Willmore, assigned to assist Special Agents Fox Mulder and Dana Scully in Their latest investigation into paranormal activity. Follow a tail of elusive clues, sift through evidence at crime scenes, use a wide range of standard issue FBI equipment and special tools, conduct interviews with witness and suspects, and make critical decisions to solve an all new X-Files case.</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Fox Interactive</Publisher>
+<Developer>HyperBole Studios</Developer>
+<Images>
+<boxart side="back" width="640" height="539" thumb="boxart/thumb/original/back/11677-1.jpg">boxart/original/back/11677-1.jpg</boxart>
+<boxart side="front" width="1414" height="1384" thumb="boxart/thumb/original/front/11677-1.jpg">boxart/original/front/11677-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

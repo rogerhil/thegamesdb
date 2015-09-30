@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17642</id>
+<GameTitle>Army Men</GameTitle>
+<PlatformId>41</PlatformId>
+<Platform>Nintendo Game Boy Color</Platform>
+<ReleaseDate>12/07/1999</ReleaseDate>
+<Overview>Army Men is a mission-based combat game that has you guiding a green plastic commando named Sarge in warfare against a tan-colored toy army. Soldiers use bazookas, grenades, flamethrowers, mortars, automatic rifles, and land mines to trash each other. You can also drive jeeps and tanks across the varied terrain. To help you learn the controls, a boot camp option offers a series of eight training missions. 
+
+Once you are ready, choose from two campaigns: desert and alpine. Review your objectives before each mission on the briefing screen, and prepare for battle against an onslaught of plastic troops. A mission will fail if you exceed the time limit, allow your rivals to win, or let Sarge die. The options screen lets you view current objectives, consult a strategic map, exit vehicles, and abort your mission. You can also adjust the control scheme, select a difficulty level, and toggle music.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>The 3DO Company</Publisher>
+<Developer>Digital Eclipse Software, Inc.</Developer>
+<Images>
+<boxart side="front" width="450" height="448" thumb="boxart/thumb/original/front/17642-1.jpg">boxart/original/front/17642-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>29442</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<PlatformId>13</PlatformId>
+<Platform>Sony PSP</Platform>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Overview>X-Men Origins: Wolverine will give you new insight into how much damage indestructible, razor-sharp claws can do to a human body. This is a game that revels in gore, with decapitations, eviscerations, and mutilations drenching the screen in blood. It may be derivative, a cakewalk, and at times buggy, but the sheer visceral impact of the over-the-top violence in X-Men Origins is enough to make it a fun action game, as well as one of the better movie tie-ins released recently.</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=uAk8AYk8aaM</Youtube>
+<Publisher>Activision</Publisher>
+<Developer>Griptonite Games</Developer>
+<Rating>3</Rating><Similar><SimilarCount>5</SimilarCount><Game><id>7709</id><PlatformId>15</PlatformId></Game><Game><id>4978</id><PlatformId>9</PlatformId></Game><Game><id>4209</id><PlatformId>1</PlatformId></Game><Game><id>19766</id><PlatformId>11</PlatformId></Game><Game><id>6646</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="171" height="295" thumb="boxart/thumb/original/front/29442-1.jpg">boxart/original/front/29442-1.jpg</boxart>
+<screenshot>
+<original width="870" height="450">screenshots/29442-1.jpg</original>
+<thumb>screenshots/thumb/29442-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

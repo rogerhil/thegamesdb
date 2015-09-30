@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>867</id>
+<GameTitle>Dragon Age: Origins</GameTitle>
+<AlternateTitles><title>Dragon Age Origins</title><title>Dragon Age</title></AlternateTitles><PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>11/03/2009</ReleaseDate>
+<Overview>Dragon Age: Origins is an epic story of magic, danger and a fight for survival told by a legendary games company. BioWare, creators of Mass Effect, Baldur's Gate and Star Wars: Knights Of The Old Republic, bring you their best adventure yet. As a Grey Warden, you protect the land of Ferelden from the Darkspawn. When the demons attack the land again, you must embark on an epic quest to save Ferelden. Create your hero with detailed customisation options, make real choices that affect your path and the future of Ferelden itself, and decide how to battle the forces against you. Dragon Age: Origins is a bigger, more beautiful and deeper adventure than any you'll have ever taken before.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Electronic Arts</Publisher>
+<Developer>BioWare</Developer>
+<Actors>Tim Russ, Steve Valentine, Kate Mulgrew and Claudia Black</Actors>
+<Rating>7.3636</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>7467</id><PlatformId>15</PlatformId></Game><Game><id>6597</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-1.jpg</original>
+<thumb>fanart/thumb/867-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-2.jpg</original>
+<thumb>fanart/thumb/867-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-3.jpg</original>
+<thumb>fanart/thumb/867-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-4.jpg</original>
+<thumb>fanart/thumb/867-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-5.jpg</original>
+<thumb>fanart/thumb/867-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-6.jpg</original>
+<thumb>fanart/thumb/867-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/867-7.jpg</original>
+<thumb>fanart/thumb/867-7.jpg</thumb>
+</fanart>
+<boxart side="back" width="1517" height="2136" thumb="boxart/thumb/original/back/867-1.jpg">boxart/original/back/867-1.jpg</boxart>
+<boxart side="front" width="1534" height="2136" thumb="boxart/thumb/original/front/867-2.jpg">boxart/original/front/867-2.jpg</boxart>
+</Images>
+</Game>
+</Data>

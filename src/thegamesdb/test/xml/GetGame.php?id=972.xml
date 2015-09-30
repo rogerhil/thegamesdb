@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>972</id>
+<GameTitle>X-Men 2: Clone Wars</GameTitle>
+<PlatformId>18</PlatformId>
+<Platform>Sega Genesis</Platform>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Overview>The technorganic alien race known as the Phalanx return and are seeking to take control of Earth by assimlating all of its inhabitants. They've also captured and cloned several mutants for experimentation. Only a select group of X-Men (Beast, Psylocke, Gambit, Nightcrawler, Wolverine, Cyclops) have avoided capture and, temporarily united with their oldest foe, Magneto, they must defeat the Phalanx before all of humanity is assimilated. Along the way, they will travel through familiar landscapes including the Savage Land and Avalon, and battle powerful adversaries such as Apocalypse, the Sentinels, Exodus, Deathbird and more.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Headgames</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>24035</id><PlatformId>36</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/972-1.jpg</original>
+<thumb>fanart/thumb/972-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1527" height="2100" thumb="boxart/thumb/original/back/972-1.jpg">boxart/original/back/972-1.jpg</boxart>
+<boxart side="front" width="1539" height="2100" thumb="boxart/thumb/original/front/972-1.jpg">boxart/original/front/972-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

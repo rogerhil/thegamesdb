@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13764</id>
+<GameTitle>Revolution X</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<Overview>Revolution X is a 1994 arcade rail shooter game developed and published by Midway, featuring the rock band Aerosmith. The game features gameplay similar to Midway's earlier Terminator 2: Judgment Day. Although it is often referred to as a light gun game, the original arcade version uses a positional gun that works like an analog stick to control a visible on-screen cursor.
+
+The plot concerns a dystopian version of 1996 where an alliance of corrupt government and corporate military forces have taken control of the world in the guise of the "New Order Nation" (NON). The NON, with their vampish commander Mistress Helga (portrayed by Kerri Hoskins), have declared war on youth culture (anyone aged from 13 to 30) and have banned music, television and video games as well as magazines and are stricly forbidden. At a gig in Los Angeles at 'Club X', complete with neon sign, Aerosmith are captured by NON troops once the player reached inside the theater. When the players reach the restroom, the first Aerosmith member appears on one of the sides of the entrance and the second one is on top of the ladder.</Overview>
+<ESRB>M - Mature</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Acclaim</Publisher>
+<Developer>Software Creations Limited</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>668</id><PlatformId>18</PlatformId></Game><Game><id>15267</id><PlatformId>17</PlatformId></Game><Game><id>2938</id><PlatformId>6</PlatformId></Game></Similar><Images>
+<boxart side="back" width="620" height="903" thumb="boxart/thumb/original/back/13764-1.jpg">boxart/original/back/13764-1.jpg</boxart>
+<boxart side="front" width="620" height="894" thumb="boxart/thumb/original/front/13764-1.jpg">boxart/original/front/13764-1.jpg</boxart>
+<clearlogo width="400" height="275">clearlogo/13764.png</clearlogo></Images>
+</Game>
+</Data>

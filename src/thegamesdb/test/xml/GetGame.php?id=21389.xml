@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21389</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<PlatformId>8</PlatformId>
+<Platform>Nintendo DS</Platform>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Overview>In X-Men Destiny, players control the fate of one of three brand-new mutant characters forced to choose between saving humanity or ensuring its destruction.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Other Ocean Interactive</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>8898</id><PlatformId>15</PlatformId></Game><Game><id>14096</id><PlatformId>9</PlatformId></Game><Game><id>8311</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="back" width="300" height="300" thumb="boxart/thumb/original/back/21389-1.jpg">boxart/original/back/21389-1.jpg</boxart>
+<boxart side="front" width="1024" height="1024" thumb="boxart/thumb/original/front/21389-1.jpg">boxart/original/front/21389-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

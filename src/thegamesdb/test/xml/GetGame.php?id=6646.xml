@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>6646</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Co-op>No</Co-op>
+<Rating>8</Rating><Similar><SimilarCount>5</SimilarCount><Game><id>7709</id><PlatformId>15</PlatformId></Game><Game><id>4978</id><PlatformId>9</PlatformId></Game><Game><id>4209</id><PlatformId>1</PlatformId></Game><Game><id>19766</id><PlatformId>11</PlatformId></Game><Game><id>29442</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/6646-1.jpg</original>
+<thumb>fanart/thumb/6646-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1524" height="1758" thumb="boxart/thumb/original/back/6646-1.jpg">boxart/original/back/6646-1.jpg</boxart>
+<boxart side="front" width="1516" height="1758" thumb="boxart/thumb/original/front/6646-1.jpg">boxart/original/front/6646-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

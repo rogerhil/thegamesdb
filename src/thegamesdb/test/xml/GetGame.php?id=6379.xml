@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>6379</id>
+<GameTitle>X Rebirth</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>01/01/2014</ReleaseDate>
+<Co-op>No</Co-op>
+<Publisher>Deep Silver</Publisher>
+<Developer>Egosoft</Developer>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/6379-1.jpg</original>
+<thumb>fanart/thumb/6379-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="817" height="1125" thumb="boxart/thumb/original/front/6379-1.jpg">boxart/original/front/6379-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

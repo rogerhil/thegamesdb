@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8886</id>
+<GameTitle>Rayman Origins</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>11/15/2011</ReleaseDate>
+<Overview>Rayman Origins is a comic adventure set in a lush 2D world brimming with unexpected secrets and outlandish enemies. The Glade of Dreams is overrun by the "nefurrious" Darktoons. The Fairy Council seeks Rayman's help to save the day. Rayman receives the aid of his best friend Globox as well as two crafty wizards, the Teensies. Together the world's most hilarious team of heroes sets out to restore peace to the Glade before their beloved home is destroyed. Rayman Origins supports four-player jump-in-and-jump-out co-op gameplay. The game offers a massive universe to explore, with more than 100 characters, 12 unique worlds, and more than 60 levels of platforming gameplay designed for all ages and play styles. Unlock new abilities and moves as you progress through the game. All members of your team will discover new unique abilities, including swimming, diving, slapping, and the sensational "HarilyCopter."</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>12715</id><PlatformId>4912</PlatformId></Game><Game><id>8300</id><PlatformId>9</PlatformId></Game><Game><id>9459</id><PlatformId>1</PlatformId></Game><Game><id>10866</id><PlatformId>12</PlatformId></Game><Game><id>9240</id><PlatformId>39</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/8886-1.jpg</original>
+<thumb>fanart/thumb/8886-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="708" height="1007" thumb="boxart/thumb/original/back/8886-1.jpg">boxart/original/back/8886-1.jpg</boxart>
+<boxart side="front" width="710" height="1007" thumb="boxart/thumb/original/front/8886-1.jpg">boxart/original/front/8886-1.jpg</boxart>
+<clearlogo width="400" height="213">clearlogo/8886.png</clearlogo></Images>
+</Game>
+</Data>

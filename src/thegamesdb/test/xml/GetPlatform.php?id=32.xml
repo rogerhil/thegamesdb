@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>32</id>
+	<Platform>Intellivision</Platform>
+	<overview>The Intellivision is a video game console released by Mattel in 1979. Development of the console began in 1978, less than a year after the introduction of its main competitor, the Atari 2600. The word intellivision is a portmanteau of &amp;quot;intelligent television&amp;quot;. Over 3 million Intellivision units were sold and a total of 125 games were released for the console.</overview>
+	<developer>Mattel</developer>
+	<manufacturer>Mattel</manufacturer>
+	<cpu>GI CP1610</cpu>
+	<memory>1456 bytes of RAM</memory>
+	<graphics>General Instrument CP1610</graphics>
+	<sound>General Instrument AY-3-8910</sound>
+	<display>159x96</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>6</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/32-1.jpg</original>
+			<thumb>platform/fanart/thumb/32-1.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="640" height="902">platform/boxart/32-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/32-1.png</banner>		<banner width="760" height="140">platform/banners/32-2.jpg</banner>	</Images>
+</Platform>
+</Data>

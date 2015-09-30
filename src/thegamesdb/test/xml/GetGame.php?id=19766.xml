@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19766</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>5</SimilarCount><Game><id>7709</id><PlatformId>15</PlatformId></Game><Game><id>4978</id><PlatformId>9</PlatformId></Game><Game><id>4209</id><PlatformId>1</PlatformId></Game><Game><id>6646</id><PlatformId>12</PlatformId></Game><Game><id>29442</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="565" height="800" thumb="boxart/thumb/original/front/19766-1.jpg">boxart/original/front/19766-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

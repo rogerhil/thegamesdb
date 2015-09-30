@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>41</id>
+	<Platform>Nintendo Game Boy Color</Platform>
+	<overview>The Game Boy Color is Nintendo&amp;#039;s successor to the 8-bit Game Boy handheld game console, and was released on October 21, 1998 in Japan, November 19, 1998 in North America, November 23, 1998 in Europe and November 27, 1998 in the United Kingdom. It features a color screen and is slightly thicker and taller than the Game Boy Pocket. As with the original Game Boy, it has an 8-bit processor.   The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>Zilog Z80</cpu>
+	<memory>32 KB</memory>
+	<sound>2 square wave channels, 1 wave channel, 1 noise channel, mono speaker, stereo headphone jack</sound>
+	<display>160 x 144</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>6.75</Rating>
+	<Images>
+		<boxart side="back" width="320" height="320">platform/boxart/41-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/41-1.jpg</banner>	</Images>
+</Platform>
+</Data>

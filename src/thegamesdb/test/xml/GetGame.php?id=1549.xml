@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>1549</id>
+<GameTitle>Final Fantasy Origins</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>04/08/2003</ReleaseDate>
+<Overview>Final Fantasy Origins delivers the first two games in the Final Fantasy series. Originally released in 1998 in Japan, Final Fantasy II never came to North America, but now RPG fans will be able to experience the emotion-packed sequel and its predecessor with all-new event scenes, enhanced graphics, and improved sound. Whether you're on a quest to recover a magical Crystal or on a journey to stop a merciless ruler, both games provide grand stories complemented with deep characterization and touching music.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Publisher>Square Enix</Publisher>
+<Developer>Square</Developer>
+<Rating>6</Rating><Images>
+<boxart side="back" width="1749" height="1560" thumb="boxart/thumb/original/back/1549-1.jpg">boxart/original/back/1549-1.jpg</boxart>
+<boxart side="front" width="1723" height="1560" thumb="boxart/thumb/original/front/1549-1.jpg">boxart/original/front/1549-1.jpg</boxart>
+<screenshot>
+<original width="640" height="480">screenshots/1549-1.jpg</original>
+<thumb>screenshots/thumb/1549-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="640" height="480">screenshots/1549-2.jpg</original>
+<thumb>screenshots/thumb/1549-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="640" height="480">screenshots/1549-3.jpg</original>
+<thumb>screenshots/thumb/1549-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="640" height="480">screenshots/1549-4.jpg</original>
+<thumb>screenshots/thumb/1549-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="640" height="480">screenshots/1549-5.jpg</original>
+<thumb>screenshots/thumb/1549-5.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="133">clearlogo/1549.png</clearlogo></Images>
+</Game>
+</Data>

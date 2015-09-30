@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12609</id>
+<GameTitle>Dragon Age: Origins - Awakening</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>03/16/2010</ReleaseDate>
+<Overview>Dragon Age: Origins - Awakening is the first full retail expansion pack for Dragon Age: Origins.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Role-Playing</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Electronic Arts</Publisher>
+<Developer>BioWare</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>12608</id><PlatformId>15</PlatformId></Game><Game><id>25532</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="300" height="360" thumb="boxart/thumb/original/front/12609-1.png">boxart/original/front/12609-1.png</boxart>
+</Images>
+</Game>
+</Data>

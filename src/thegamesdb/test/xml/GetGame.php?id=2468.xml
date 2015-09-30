@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>2468</id>
+<GameTitle>X-Men: Children Of The Atom</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>12/19/1994</ReleaseDate>
+<Overview>X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!</Overview>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Rating>5</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>11337</id><PlatformId>17</PlatformId></Game><Game><id>11634</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/2468-1.jpg</original>
+<thumb>fanart/thumb/2468-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="850" height="1210" thumb="boxart/thumb/original/back/2468-1.jpg">boxart/original/back/2468-1.jpg</boxart>
+<boxart side="front" width="850" height="1205" thumb="boxart/thumb/original/front/2468-1.jpg">boxart/original/front/2468-1.jpg</boxart>
+<clearlogo width="400" height="138">clearlogo/2468.png</clearlogo></Images>
+</Game>
+</Data>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>3</id>
+	<Platform>Nintendo 64</Platform>
+	<console>http://www.youtube.com/watch?v=3.png</console>
+	<controller>http://www.youtube.com/watch?v=3.png</controller>
+	<overview>Often referred to as N64, was Nintendo′s third home video game console for the international market. Named for its 64-bit CPU, it was released in June 1996 in Japan, September 1996 in North America, March 1997 in Europe and Australia, September 1997 in France and December 1997 in Brazil. It is Nintendo′s last home console to use ROM cartridges to store games (Nintendo switched to a MiniDVD-based format for the successor GameCube); handhelds in the Game Boy line, however, continued to use Game Paks. It was discontinued in 2001 in Japan, North America and PAL regions by the launch of Nintendo′s GameCube.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>93.75 MHz NEC VR4300</cpu>
+	<memory>4MB RDRAM</memory>
+	<graphics>62.5 MHz SGI RCP</graphics>
+	<sound>48 kHz with 16-bit audio</sound>
+	<display>480i</display>
+	<media>Cartridge</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Rating>7.3333</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/3-1.jpg</original>
+			<thumb>platform/fanart/thumb/3-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/3-2.jpg</original>
+			<thumb>platform/fanart/thumb/3-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/3-3.jpg</original>
+			<thumb>platform/fanart/thumb/3-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/3-4.jpg</original>
+			<thumb>platform/fanart/thumb/3-4.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="640" height="900">platform/boxart/3-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/3-1.png</banner>		<banner width="760" height="140">platform/banners/3-2.jpg</banner>		<consoleart>platform/consoleart/3.png</consoleart>
+		<controllerart>platform/controllerart/3.png</controllerart>
+	</Images>
+</Platform>
+</Data>

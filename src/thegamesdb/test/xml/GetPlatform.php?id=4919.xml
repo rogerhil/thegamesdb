@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4919</id>
+	<Platform>Sony Playstation 4</Platform>
+	<overview>The Playstation 4 is the successor to Sony&amp;#039;s Playstation 3 console. Moving away from the Cell architecture, the PlayStation 4 will be the first in the Sony series to feature compatibility with the x86 architecture, specifically x86-64, which is a widely used platform common in many modern PCs. The idea is to make video game development easier on the next-generation console, attracting a broader range of developers large and small. These changes highlight Sony&amp;#039;s effort to improve upon the lessons learned during the development, production and release of the PS3. Other notable hardware features of the PS4 include 8 GB of memory and a faster Blu-ray drive.
+
+Expected Launch Q4 2013</overview>
+	<developer>Sony</developer>
+	<manufacturer>Sony</manufacturer>
+	<memory>8GB</memory>
+	<graphics>AMD Radeon GPU</graphics>
+	<media>Blu-Ray Disc</media>
+	<Youtube>http://www.youtube.com/watch?v=x7QhUL8NUK4</Youtube>
+	<Rating>8.8333</Rating>
+	<Images>
+	</Images>
+</Platform>
+</Data>

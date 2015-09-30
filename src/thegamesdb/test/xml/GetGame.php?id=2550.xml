@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>2550</id>
+<GameTitle>Men of War</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>07/12/2007</ReleaseDate>
+<Overview>Men of War takes place during the height of World War II, across three different campaigns played out through the eyes of Soviet, Allied and German soldiers. Each campaign has its own structured timeline, bringing a different part of the war to life, telling a different story of World War II spanning across Russia, North Africa, Ukraine, Greece, Germany, Italy and the Pacific. The main Soviet campaign sees two student comrades, Smirnov and Kuznetzov, join the army and quickly become brothers-in-arms as they rise through the ranks and experience the rigours of war.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Strategy</genre></Genres><Players>4+</Players><Publisher>1C Company</Publisher>
+<Developer>Best Way</Developer>
+<Rating>5</Rating><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/2550-1.jpg</original>
+<thumb>fanart/thumb/2550-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/2550-2.jpg</original>
+<thumb>fanart/thumb/2550-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="1500" height="2175" thumb="boxart/thumb/original/front/2550-1.jpg">boxart/original/front/2550-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

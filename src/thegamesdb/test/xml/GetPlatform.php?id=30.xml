@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>30</id>
+	<Platform>Atari XE</Platform>
+	<overview>Atari Corp. brought out the XE Game System (XEGS) in 1987. The XE Game System was sold bundled with a detachable keyboard, a joystick and a light gun (XG-1), and a couple of game cartridges (Bug Hunt and Flight Simulator II). The XE Game System was essentially a repackaged 65XE, and was compatible with almost all Atari 8-bit software and hardware as a result.</overview>
+	<developer>Atari</developer>
+	<manufacturer>Atari</manufacturer>
+	<cpu>6502</cpu>
+	<Rating>4</Rating>
+	<Images>
+		<boxart side="back" width="820" height="1080">platform/boxart/30-2.jpg</boxart>
+		<banner width="760" height="140">platform/banners/30-1.jpg</banner>	</Images>
+</Platform>
+</Data>

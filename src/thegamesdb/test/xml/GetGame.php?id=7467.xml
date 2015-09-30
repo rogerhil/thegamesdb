@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7467</id>
+<GameTitle>Dragon Age: Origins</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>11/03/2009</ReleaseDate>
+<Overview>Dragon Age: Origins is an epic story of magic, danger and a fight for survival told by a legendary games company. BioWare, creators of Mass Effect, Baldur's Gate and Star Wars: Knights Of The Old Republic, bring you their best adventure yet. As a Grey Warden, you protect the land of Ferelden from the Darkspawn. When the demons attack the land again, you must embark on an epic quest to save Ferelden. Create your hero with detailed customisation options, make real choices that affect your path and the future of Ferelden itself, and decide how to battle the forces against you. Dragon Age: Origins is a bigger, more beautiful and deeper adventure than any you'll have ever taken before.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=K8RBe5f3d3Y</Youtube>
+<Publisher>Electronic Arts</Publisher>
+<Developer>Bioware</Developer>
+<Rating>7</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>867</id><PlatformId>1</PlatformId></Game><Game><id>6597</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1518" height="2148" thumb="boxart/thumb/original/back/7467-1.jpg">boxart/original/back/7467-1.jpg</boxart>
+<boxart side="front" width="1530" height="2148" thumb="boxart/thumb/original/front/7467-1.jpg">boxart/original/front/7467-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

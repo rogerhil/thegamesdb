@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7708</id>
+<GameTitle>X-Blades</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>02/06/2009</ReleaseDate>
+<Overview>Journey through ancient temples and ruins with Ayumi, an alluring treasure-hunter determined to unlock the secrets of a powerful orb and acquire untold riches.  However, every treasure has its price - Ayumi has been struck by a mysterious curse upon finding her greatly desired artifact.  Can you help Ayumi free herself from the curse?
+
+In this Thrilling anime-style action-fest, you will encounter fierce battles as you help Ayumi confront her ultimate fate - whatever it may be.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>SouthPeak Interactive</Publisher>
+<Developer>Gaijin Entertainment</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>6224</id><PlatformId>1</PlatformId></Game><Game><id>13036</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1518" height="2148" thumb="boxart/thumb/original/back/7708-1.jpg">boxart/original/back/7708-1.jpg</boxart>
+<boxart side="front" width="1530" height="2148" thumb="boxart/thumb/original/front/7708-1.jpg">boxart/original/front/7708-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>5515</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Overview>X-Men: Legends II - Rise of Apocalypse is an action role-playing game and a sequel to X-Men Legends. The player controls a party of four characters, though only one at a time can be controlled directly. Beside switching the characters for combat purposes, the player is often obliged to do so, because some of the tasks in the game require the specific abilities of a certain mutant. For example, Iceman can put out fire, Magneto can generate a metal bridge across a gap, etc.. Most of the time, however, is spent in combat, collecting loot and acquiring experience points. Unlike the first game, items dropped by enemies are random. The character will level up, become stronger, and learn new skills. The player can opt to allocate all the experience and skill points manually.
+
+Each character has several different skills based on their mutant powers. These include melee, boost, projectile, traps, and others. Each character can also learn powerful super skill: for example, Cyclops has a super beam attack that can hit multiple targets; Wolverine has a spinning attack that inflicts heavy damage; Magneto has a metal attack, crushing everything in sight by manipulating metal objects in the environment, etc.</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Raven</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>22374</id><PlatformId>14</PlatformId></Game><Game><id>5445</id><PlatformId>2</PlatformId></Game><Game><id>4764</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-1.jpg</original>
+<thumb>fanart/thumb/5515-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-2.jpg</original>
+<thumb>fanart/thumb/5515-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-3.jpg</original>
+<thumb>fanart/thumb/5515-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-4.jpg</original>
+<thumb>fanart/thumb/5515-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-5.jpg</original>
+<thumb>fanart/thumb/5515-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-6.jpg</original>
+<thumb>fanart/thumb/5515-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5515-7.jpg</original>
+<thumb>fanart/thumb/5515-7.jpg</thumb>
+</fanart>
+<boxart side="front" width="256" height="366" thumb="boxart/thumb/original/front/5515-1.png">boxart/original/front/5515-1.png</boxart>
+</Images>
+</Game>
+</Data>

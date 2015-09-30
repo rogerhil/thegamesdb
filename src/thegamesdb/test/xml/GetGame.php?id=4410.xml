@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4410</id>
+<GameTitle>Army Men: RTS</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>03/29/2002</ReleaseDate>
+<Overview>Army Men: RTS's gameplay requires the acquisition and control of two resources; plastic and electricity, which are necessary to construct combat units and buildings. Plastic, which is required for all normal units, is taken from everyday objects, including Frisbees, dog bowls, and toys. Additionally, whenever a unit or structure is destroyed, a chunk of plastic worth a fraction of its initial cost appears where it was destroyed. Plastic is 'harvested' by Dump Trucks. Electricity, which is required for vehicles and Radio operator equipment, is drawn from electrical objects, such as batteries, toasters, and walkie-talkies. A particular structure, the Resource Depot, must be built to collect the resources gathered by the Dump Trucks.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>3DO</Publisher>
+<Developer>Pandemic</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>5828</id><PlatformId>2</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/4410-1.jpg</original>
+<thumb>fanart/thumb/4410-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1508" height="2152" thumb="boxart/thumb/original/back/4410-1.jpg">boxart/original/back/4410-1.jpg</boxart>
+<boxart side="front" width="1524" height="2152" thumb="boxart/thumb/original/front/4410-1.jpg">boxart/original/front/4410-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

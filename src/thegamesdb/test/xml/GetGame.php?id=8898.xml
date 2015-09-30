@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8898</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Silicon Knights</Developer>
+<Rating>6</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>21389</id><PlatformId>8</PlatformId></Game><Game><id>14096</id><PlatformId>9</PlatformId></Game><Game><id>8311</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/8898-1.jpg</original>
+<thumb>fanart/thumb/8898-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="708" height="1007" thumb="boxart/thumb/original/back/8898-1.jpg">boxart/original/back/8898-1.jpg</boxart>
+<boxart side="front" width="710" height="1007" thumb="boxart/thumb/original/front/8898-1.jpg">boxart/original/front/8898-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

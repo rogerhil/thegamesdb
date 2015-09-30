@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8014</id>
+<GameTitle>Men of Valor</GameTitle>
+<PlatformId>14</PlatformId>
+<Platform>Microsoft Xbox</Platform>
+<ReleaseDate>10/19/2004</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Vivendi Games</Publisher>
+<Developer>2015</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>5292</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1521" height="2139" thumb="boxart/thumb/original/back/8014-1.jpg">boxart/original/back/8014-1.jpg</boxart>
+<boxart side="front" width="1521" height="2139" thumb="boxart/thumb/original/front/8014-1.jpg">boxart/original/front/8014-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

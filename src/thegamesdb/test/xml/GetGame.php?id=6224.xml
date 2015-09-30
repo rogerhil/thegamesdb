@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>6224</id>
+<GameTitle>X-Blades</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>02/13/2009</ReleaseDate>
+<Overview>The hack and slash genre that so many of us grew up with is essentially dead; giving way to more mainstream play styles for the "everyday gamer." X-Blades tosses that philosophy to the wind and presents players with a scantily clad -- the chick is wearing tinsel for underwear and a bikini top instead of armor -- heroine dead set on ridding the world of evil dark powers. Yes, it's all as simple as it sounds, but underneath its moderately unattractive shell is gameplay that some might be able to enjoy.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Rating>6.75</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>7708</id><PlatformId>15</PlatformId></Game><Game><id>13036</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-1.jpg</original>
+<thumb>fanart/thumb/6224-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-2.jpg</original>
+<thumb>fanart/thumb/6224-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-3.jpg</original>
+<thumb>fanart/thumb/6224-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-4.jpg</original>
+<thumb>fanart/thumb/6224-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-5.jpg</original>
+<thumb>fanart/thumb/6224-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-6.jpg</original>
+<thumb>fanart/thumb/6224-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-7.jpg</original>
+<thumb>fanart/thumb/6224-7.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/6224-8.jpg</original>
+<thumb>fanart/thumb/6224-8.jpg</thumb>
+</fanart>
+<boxart side="back" width="1530" height="2175" thumb="boxart/thumb/original/back/6224-1.jpg">boxart/original/back/6224-1.jpg</boxart>
+<boxart side="front" width="1536" height="2175" thumb="boxart/thumb/original/front/6224-1.jpg">boxart/original/front/6224-1.jpg</boxart>
+<banner width="760" height="140">graphical/6224-g.jpg</banner></Images>
+</Game>
+</Data>

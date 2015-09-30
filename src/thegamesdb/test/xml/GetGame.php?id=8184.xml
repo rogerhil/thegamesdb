@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8184</id>
+<GameTitle>X Zone</GameTitle>
+<PlatformId>6</PlatformId>
+<Platform>Super Nintendo (SNES)</Platform>
+<ReleaseDate>11/01/1992</ReleaseDate>
+<Overview>Compond X's powerful bio-computer has begun to malfunction and "X-Tra", aka the external threat recognition assault system, is firing on anything that moves. In fact, the computer has accessed the nation's nuclear weapon countdown systems for a retaliatory strike. Since nuclear war might X-tinguish life on the planet, the player must enter the X-Termination zone of the compound and fight on through defenses to the central computer.
+
+X-Zone is a first-person light gun game. The player must shoot the robotic enemies on the screen and the projectiles that they launch at the player. Most levels are ended with a battle against a boss, which follows specific patterns and whose systems/weapons must be shot at and destroyed individually.</Overview>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Kemco</Publisher>
+<Developer>Kemco</Developer>
+<Images>
+<boxart side="front" width="475" height="347" thumb="boxart/thumb/original/front/8184-1.jpg">boxart/original/front/8184-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

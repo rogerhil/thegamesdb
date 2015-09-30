@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>5</id>
+	<Platform>Nintendo Game Boy Advance</Platform>
+	<console>http://www.youtube.com/watch?v=5.png</console>
+	<overview>The Game Boy Advance, (often shortened to GBA) is a 32-bit handheld video game console developed, manufactured, and marketed by Nintendo. It is the successor to the Game Boy Color. It was released in Japan on March 21, 2001; in North America on June 11, 2001; in Australia and Europe on June 22, 2001; and in the People&amp;#039;s Republic of China on June 8, 2004 (excluding Hong Kong).</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>ARM7TDMI</cpu>
+	<memory>32 kilobyte + 96 kilobyte VRAM (internal to the CPU), 256 kilobyte WRAM (outside the CPU).</memory>
+	<graphics>Custom 2D core</graphics>
+	<sound>Dual 8-bit DAC for stereo sound (called Direct Sound)</sound>
+	<display>240 × 160</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>7.1667</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/5-1.jpg</original>
+			<thumb>platform/fanart/thumb/5-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/5-2.jpg</original>
+			<thumb>platform/fanart/thumb/5-2.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="1468" height="1492">platform/boxart/5-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/5-1.png</banner>		<banner width="760" height="140">platform/banners/5-2.jpg</banner>		<consoleart>platform/consoleart/5.png</consoleart>
+		<controllerart>platform/controllerart/5.png</controllerart>
+	</Images>
+</Platform>
+</Data>

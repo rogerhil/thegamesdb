@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22340</id>
+<GameTitle>Men in Black: The Series</GameTitle>
+<PlatformId>5</PlatformId>
+<Platform>Nintendo Game Boy Advance</Platform>
+<ReleaseDate>01/01/2002</ReleaseDate>
+<Overview>The scum of the universe continue to slip through the cracks in the system and arrive on earth. As a Men in Black agent, it's your job to stop them. Armed with advanced weapons including the noisy cricket, freezer gun, and grenade launcher, you will battle an array of aliens across New York, and even in space.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Crave</Publisher>
+<Developer>David A. Palmer Productions</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>8632</id><PlatformId>41</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="640" thumb="boxart/thumb/original/front/22340-1.jpg">boxart/original/front/22340-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

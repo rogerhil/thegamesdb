@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4924</id>
+	<Platform>Atari Lynx</Platform>
+	<overview>The Atari Lynx is a 16-bit handheld game console that was released by Atari Corporation in September 1989. The Lynx holds the distinction of being the world&amp;#039;s first handheld electronic game with a color LCD. The system is also notable for its forward-looking features, advanced graphics, and ambidextrous layout. As part of the fourth generation of gaming, the Lynx competed with Nintendo&amp;#039;s Game Boy (released just a month earlier), the Sega Game Gear and NEC&amp;#039;s TurboExpress, both released the following year.</overview>
+	<developer>Epyx / Atari</developer>
+	<manufacturer>Atari Corporation</manufacturer>
+	<cpu>MOS Technology 6502</cpu>
+	<graphics>160 × 102 standard resolution (16,320 addressable pixels)</graphics>
+	<Rating>6.6667</Rating>
+	<Images>
+		<boxart side="back" width="820" height="1080">platform/boxart/4924-1.jpg</boxart>
+	</Images>
+</Platform>
+</Data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21738</id>
+<GameTitle>Spider-Man / X-Men: Arcade's Revenge</GameTitle>
+<PlatformId>4</PlatformId>
+<Platform>Nintendo Game Boy</Platform>
+<ReleaseDate>12/01/1993</ReleaseDate>
+<Overview>Spider-Man and his mutant pals need your help to escape from Arcade's diabolical amusement park - battling killer clowns, hungry piranhas, lethal doom balls and deadly robot replicas of super-villains like Carnage and Juggernaut! Will Spidey's webs, Wolverine's claws, Gambit's energy cards, Storm's lightning bolts and Cyclops' optic blasts mean GAME OVER for Arcade? That depends on YOU!!</Overview>
+<Genres><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>LJN</Publisher>
+<Developer>Unexpected Development</Developer>
+<Images>
+<boxart side="front" width="350" height="352" thumb="boxart/thumb/original/front/21738-1.jpg">boxart/original/front/21738-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12892</id>
+<GameTitle>Silent Hill: Origins</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>03/04/2008</ReleaseDate>
+<Overview>Silent Hill: Origins, known as Silent Hill: Zero in Japan, is the fifth installment in the Silent Hill video game series. It is a prequel to the original Silent Hill that was released in 1999. It was developed by Climax Studios and published by Konami. It debuted on the PlayStation Portable in November 2007, with a port to the PlayStation 2 released in March 2008.
+
+Set seven years prior to the events of Silent Hill, Origins expands the backstory on which the series built itself.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre><genre>Horror</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=9wCxEcJIhsY</Youtube>
+<Publisher>Konami</Publisher>
+<Developer>Climax Studios</Developer>
+<Images>
+<boxart side="back" width="640" height="892" thumb="boxart/thumb/original/back/12892-1.jpg">boxart/original/back/12892-1.jpg</boxart>
+<boxart side="front" width="183" height="266" thumb="boxart/thumb/original/front/12892-1.jpg">boxart/original/front/12892-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

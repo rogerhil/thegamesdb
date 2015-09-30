@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4764</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Overview>When Apocalypse kidnaps Professor X and Polaris, the X-Men and Brotherhood of Mutants unite to save them. Cyclops, Storm, and Wolverine meet up with Magneto, Mystique, and Sabretooth at a military prison outpost in Greenland to free the Professor. Upon freeing him, the teams relocate to Genosha to work through the wreckage and find out what Apocalypse wanted with the area. Finding Quicksilver also kidnapped, the teams prepare to return to the X-Mansion, but Apocalypse arrives first. He plants a bomb, which more or less destroys the X-Mansion, and kidnaps Beast, who manages to point the team in the direction of the Savage Land.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Raven</Developer>
+<Rating>7</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>22374</id><PlatformId>14</PlatformId></Game><Game><id>5445</id><PlatformId>2</PlatformId></Game><Game><id>5515</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-1.jpg</original>
+<thumb>fanart/thumb/4764-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-2.jpg</original>
+<thumb>fanart/thumb/4764-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-3.jpg</original>
+<thumb>fanart/thumb/4764-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-4.jpg</original>
+<thumb>fanart/thumb/4764-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-5.jpg</original>
+<thumb>fanart/thumb/4764-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-6.jpg</original>
+<thumb>fanart/thumb/4764-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-7.jpg</original>
+<thumb>fanart/thumb/4764-7.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4764-8.jpg</original>
+<thumb>fanart/thumb/4764-8.jpg</thumb>
+</fanart>
+<boxart side="back" width="1514" height="2143" thumb="boxart/thumb/original/back/4764-1.jpg">boxart/original/back/4764-1.jpg</boxart>
+<boxart side="front" width="1523" height="2143" thumb="boxart/thumb/original/front/4764-1.jpg">boxart/original/front/4764-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

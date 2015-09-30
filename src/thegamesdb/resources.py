@@ -39,8 +39,10 @@ class GameResource(Resource):
         server specification. This method also provides the platform and genre
         optional arguments as filters.
         """
-        return super(GameResource, self).list(name=name, platform=platform,
-                                              genre=genre)
+        data_list = self.db.get_data(self.list_path, name=name,
+                                     platform=platform, genre=genre)
+        games = data_list['Data']['Game']
+        return [self._build_item(**i) for i in games]
 
 
 class PlatformResource(Resource):
@@ -70,6 +72,6 @@ class PlatformResource(Resource):
         """ It returns a list of games given the platform *alias* (usually is
         the game name separated by "-" instead of white spaces).
         """
-        platform = platform.replace('-', ' ')
+        platform = platform.lower()
         data_list = self.db.get_data(self.games_path, platform=platform)
         return [Game(self.db.game, **i) for i in data_list['Data']['Game']]

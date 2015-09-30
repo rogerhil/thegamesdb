@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21932</id>
+<GameTitle>X-Men: Wolverine's Rage</GameTitle>
+<PlatformId>41</PlatformId>
+<Platform>Nintendo Game Boy Color</Platform>
+<ReleaseDate>05/15/2001</ReleaseDate>
+<Overview>One of the most feared X-Men, Wolverine, is out on a quest all his own. Using his infamous claw, Wolverine will take on enemies of all shapes and sizes in this side-scrolling epic for fans of the X-MEN comics and gamers alike. Use special combo attacks and swift maneuvering to take out wrongdoers over the course pf each perilous level. Armed with supernatural agility and his adamantium-reinforced skeleton, Wolverine will encounter gruesome enemies of varying difficulty levels. As you control Wolverine, you'll be given access to a unique Rage Attack. Use it sparingly, or else subject yourself to the dangers of low energy and paralyzing weakness. The goal is to reach the final conflict a showdown with an all-too-familiar foe. Loaded with stellar graphics, the game's animation stays true to the comics that spawned it. The game is designed for one player, although the time limit and distinct level checkpoints lend themselves to comparing progress with fellow players.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Digital Eclipse</Developer>
+<Images>
+<boxart side="front" width="500" height="500" thumb="boxart/thumb/original/front/21932-1.jpg">boxart/original/front/21932-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

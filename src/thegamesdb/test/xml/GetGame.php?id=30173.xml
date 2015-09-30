@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30173</id>
+<GameTitle>Kingdom Rush Origins</GameTitle>
+<PlatformId>4915</PlatformId>
+<Platform>iOS</Platform>
+<Similar><SimilarCount>1</SimilarCount><Game><id>30172</id><PlatformId>4916</PlatformId></Game></Similar><Images>
+</Images>
+</Game>
+</Data>

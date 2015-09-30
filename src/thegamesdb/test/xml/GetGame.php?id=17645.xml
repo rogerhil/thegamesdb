@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17645</id>
+<GameTitle>Batman: Arkham Origins</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Overview>Developed by WB Games Montreal, Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline set several years before the events of Batman: Arkham Asylum and Batman: Arkham City, the first two critically acclaimed games of the franchise. Taking place before the rise of Gotham City's most dangerous criminals, the game showcases a young and unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, players will meet many important characters for the first time and forge key relationships.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=9pnK8akbd2M</Youtube>
+<Publisher>Warner Bros. Interactive Entertainment</Publisher>
+<Developer>WB Games Montreal</Developer>
+<Rating>7</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>17412</id><PlatformId>15</PlatformId></Game><Game><id>16820</id><PlatformId>38</PlatformId></Game><Game><id>17108</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-1.jpg</original>
+<thumb>fanart/thumb/17645-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-2.jpg</original>
+<thumb>fanart/thumb/17645-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-3.jpg</original>
+<thumb>fanart/thumb/17645-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-4.jpg</original>
+<thumb>fanart/thumb/17645-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-5.jpg</original>
+<thumb>fanart/thumb/17645-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-6.jpg</original>
+<thumb>fanart/thumb/17645-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-7.jpg</original>
+<thumb>fanart/thumb/17645-7.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/17645-8.jpg</original>
+<thumb>fanart/thumb/17645-8.jpg</thumb>
+</fanart>
+<boxart side="front" width="1529" height="2158" thumb="boxart/thumb/original/front/17645-1.jpg">boxart/original/front/17645-1.jpg</boxart>
+<banner width="760" height="140">graphical/17645-g.png</banner><banner width="760" height="140">graphical/17645-g2.png</banner><screenshot>
+<original width="1920" height="1200">screenshots/17645-1.jpg</original>
+<thumb>screenshots/thumb/17645-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17645-2.jpg</original>
+<thumb>screenshots/thumb/17645-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="2048" height="1152">screenshots/17645-3.jpg</original>
+<thumb>screenshots/thumb/17645-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17645-4.jpg</original>
+<thumb>screenshots/thumb/17645-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17645-5.jpg</original>
+<thumb>screenshots/thumb/17645-5.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17645-6.jpg</original>
+<thumb>screenshots/thumb/17645-6.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17645-7.jpg</original>
+<thumb>screenshots/thumb/17645-7.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="200">clearlogo/17645.png</clearlogo></Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4916</id>
+	<Platform>Android</Platform>
+	<overview>Android is a Linux-based operating system designed primarily for touchscreen mobile devices such as smartphones and tablet computers. Initially developed by Android, Inc., which Google backed financially and later bought in 2005, Android was unveiled in 2007 along with the founding of the Open Handset Alliance: a consortium of hardware, software, and telecommunication companies devoted to advancing open standards for mobile devices. The first Android-powered phone was sold in October 2008.</overview>
+	<developer>Google, Android Inc.</developer>
+	<Youtube>http://www.youtube.com/watch?v=http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=g5SzWc8-X0M#!</Youtube>
+	<Rating>8.25</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4916-1.jpg</original>
+			<thumb>platform/fanart/thumb/4916-1.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="820" height="1080">platform/boxart/4916-2.jpg</boxart>
+	</Images>
+</Platform>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21839</id>
+<GameTitle>X-Men: Mutant Wars</GameTitle>
+<PlatformId>41</PlatformId>
+<Platform>Nintendo Game Boy Color</Platform>
+<ReleaseDate>11/01/2000</ReleaseDate>
+<Overview>A band of cyborgs is terrorizing the planet. Believing that Magneto is controlling the cyborgs, the X-Men try to defeat him. You take control of Wolverine, Storm, Cyclops, Iceman, and Gambit as they prepare for the battle to save the planet. Play the Story mode where you will explore nine levels of intense action that will reveal the relationship between Magneto and the cyborgs. Each stage holds a wide variety of power-ups, which can be used to help continue the fight, like superhuman jumps, flips and speed-ups, and projectile attacks. In the Fight mode, the heroes face a never-ending stream of enemies and must keep fighting until they are exhausted. Is Magneto really behind all of the cyborgs, or is something more sinister at work? Find the truth in X-MEN: Mutant Wars.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Avit</Developer>
+<Images>
+<boxart side="front" width="500" height="499" thumb="boxart/thumb/original/front/21839-1.jpg">boxart/original/front/21839-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

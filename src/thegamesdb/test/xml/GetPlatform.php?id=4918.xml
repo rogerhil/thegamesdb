@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4918</id>
+	<Platform>Nintendo Virtual Boy</Platform>
+	<controller>http://www.youtube.com/watch?v=4918.png</controller>
+	<overview>The Virtual Boy was a table-top video game console developed and manufactured by Nintendo. It was the first video game console that was supposed to be capable of displaying &amp;quot;true 3D graphics&amp;quot; out of the box, in a form of virtual reality. Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, The Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image.
+
+It was released on July 21, 1995 in Japan and August 14, 1995 in North America at a price of around US$180. It then became a commercial failure and it was not released in PAL markets. It met with a lukewarm reception that was unaffected by continued price drops. Nintendo discontinued it the following year.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>NEC V810</cpu>
+	<memory>128 KB dual-port VRAM</memory>
+	<sound>16-bit Stereo</sound>
+	<display>84 x 224 pixel resolution (produced by scanning a 1 × 224 LED array)</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>8.5</Rating>
+	<Images>
+		<boxart side="back" width="647" height="426">platform/boxart/4918-1.png</boxart>
+		<controllerart>platform/controllerart/4918.png</controllerart>
+	</Images>
+</Platform>
+</Data>

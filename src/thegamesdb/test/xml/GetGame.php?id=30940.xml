@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30940</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<PlatformId>2</PlatformId>
+<Platform>Nintendo GameCube</Platform>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Hypnos Entertainment</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>24798</id><PlatformId>15</PlatformId></Game><Game><id>4034</id><PlatformId>5</PlatformId></Game><Game><id>5374</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<boxart side="back" width="800" height="1130" thumb="boxart/thumb/original/back/30940-1.jpg">boxart/original/back/30940-1.jpg</boxart>
+<boxart side="front" width="640" height="899" thumb="boxart/thumb/original/front/30940-1.jpg">boxart/original/front/30940-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

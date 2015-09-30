@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>628</id>
+<GameTitle>X-Men vs. Street Fighter</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>06/30/1998</ReleaseDate>
+<Overview>X-Men vs. Street Fighter is a fighting game originally released as a coin-operated arcade game in 1996. It is Capcom's third fighting game to feature Marvel Comics characters and the first game to match them against their own, with characters from Marvel's X-Men franchise being matched against the cast from the Street Fighter series.
+
+It was the first game to blend a tag team style of combat with the Street Fighter gameplay, as well as incorporating elements from Capcom's previous Marvel-themed fighting games, X-Men: Children of the Atom and Marvel Super Heroes. It was ported to the Sega Saturn in 1997 and PlayStation in 1998. However, the tag team feature was omitted from the PlayStation version due to memory limitations.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Co-op>No</Co-op>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Rating>6.6667</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>7867</id><PlatformId>23</PlatformId></Game><Game><id>30470</id><PlatformId>17</PlatformId></Game><Game><id>26682</id><PlatformId>6</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/628-1.jpg</original>
+<thumb>fanart/thumb/628-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1000" height="849" thumb="boxart/thumb/original/back/628-1.jpg">boxart/original/back/628-1.jpg</boxart>
+<boxart side="front" width="1000" height="999" thumb="boxart/thumb/original/front/628-1.jpg">boxart/original/front/628-1.jpg</boxart>
+<clearlogo width="400" height="250">clearlogo/628.png</clearlogo></Images>
+</Game>
+</Data>

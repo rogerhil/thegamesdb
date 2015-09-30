@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>22</id>
+	<Platform>Atari 2600</Platform>
+	<overview>The Atari 2600 is a video game console released in October 1977 by Atari, Inc. It is credited with popularizing the use of microprocessor-based hardware and cartridges containing game code, instead of having non-microprocessor dedicated hardware with all games built in. The first game console to use this format was the Fairchild Channel F; however, the Atari 2600 receives credit for making the plug-in concept popular among the game-playing public.
+The console was originally sold as the Atari VCS, for Video Computer System. Following the release of the Atari 5200, in 1982, the VCS was renamed &amp;quot;Atari 2600&amp;quot;, after the unit&amp;#039;s Atari part number, CX2600. The 2600 was typically bundled with two joystick controllers, a conjoined pair of paddle controllers, and a cartridge game—initially Combat and later Pac-Man.
+
+The Atari 2600 was wildly successful, and during much of the 1980s, &amp;quot;Atari&amp;quot; was a synonym for this model in mainstream media and, by extension, for video games in general.</overview>
+	<developer>Atari</developer>
+	<manufacturer>Atari</manufacturer>
+	<cpu>MOS Technology 6507</cpu>
+	<memory>128 bytes RAM</memory>
+	<graphics>128-color palette</graphics>
+	<sound>Television Interface Adaptor</sound>
+	<media>Cartridge</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Rating>8.3333</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/22-1.jpg</original>
+			<thumb>platform/fanart/thumb/22-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/22-2.jpg</original>
+			<thumb>platform/fanart/thumb/22-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/22-3.jpg</original>
+			<thumb>platform/fanart/thumb/22-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/22-4.jpg</original>
+			<thumb>platform/fanart/thumb/22-4.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/22-5.jpg</original>
+			<thumb>platform/fanart/thumb/22-5.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="1500" height="2080">platform/boxart/22-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/22-1.png</banner>		<banner width="760" height="140">platform/banners/22-2.jpg</banner>	</Images>
+</Platform>
+</Data>

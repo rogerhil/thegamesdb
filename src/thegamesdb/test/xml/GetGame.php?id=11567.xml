@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11567</id>
+<GameTitle>Army Men: World War</GameTitle>
+<AlternateTitles><title>Army Men: Operation Meltdown</title></AlternateTitles><PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>04/29/2000</ReleaseDate>
+<Overview>16 missions await you and your green army as you wage war against the tan army through true world war environments including beaches, jungles, countrysides and war-torn cities. Each army man has a range of weapons to use, including pistols, flame throwers and the bazooka. You can also use heavy artillery such as tanks, jeeps and boats when normal attacks fail to breach the enemy line.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>3DO</Publisher>
+<Developer>3DO</Developer>
+<Images>
+<boxart side="back" width="3515" height="2763" thumb="boxart/thumb/original/back/11567-2.jpg">boxart/original/back/11567-2.jpg</boxart>
+<boxart side="front" width="2826" height="2819" thumb="boxart/thumb/original/front/11567-1.jpg">boxart/original/front/11567-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

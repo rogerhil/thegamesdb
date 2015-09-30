@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22374</id>
+<GameTitle>X-Men Legends II: Rise of Apocalypse</GameTitle>
+<PlatformId>14</PlatformId>
+<Platform>Microsoft Xbox</Platform>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Overview>In X-Men Legends II, the X-Men must join their enemy the Brotherhood to fight a greater menace--Apocalypse. The sequel to the team-based role-playing game X-Men Legends lets you play as one of many X-Men, and use and combine his or her unique abilities to defeat enemies. Rise of Apocalypse includes new mutant powers, playable characters, and environments. Also new to X-Men Legends II is online play, which lets you work cooperatively against other teams of mutants.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Raven Software</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>5445</id><PlatformId>2</PlatformId></Game><Game><id>5515</id><PlatformId>1</PlatformId></Game><Game><id>4764</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<boxart side="back" width="640" height="910" thumb="boxart/thumb/original/back/22374-1.jpg">boxart/original/back/22374-1.jpg</boxart>
+<boxart side="front" width="640" height="913" thumb="boxart/thumb/original/front/22374-1.jpg">boxart/original/front/22374-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

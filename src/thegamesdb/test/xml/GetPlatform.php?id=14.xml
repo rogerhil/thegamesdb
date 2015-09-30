@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>14</id>
+	<Platform>Microsoft Xbox</Platform>
+	<console>http://www.youtube.com/watch?v=14.png</console>
+	<controller>http://www.youtube.com/watch?v=14.png</controller>
+	<overview>The Xbox is a sixth-generation video game console manufactured by Microsoft. It was released on November 15, 2001 in North America, February 22, 2002 in Japan, and March 14, 2002 in Australia and Europe and is the predecessor to the Xbox 360. It was Microsoft&amp;#039;s first foray into the gaming console market, and competed with Sony&amp;#039;s PlayStation 2, Sega&amp;#039;s Dreamcast, and Nintendo&amp;#039;s GameCube. The integrated Xbox Live service allowed players to play games online.</overview>
+	<developer>Microsoft</developer>
+	<manufacturer>Microsoft</manufacturer>
+	<cpu>Custom 733 MHz Intel Pentium III &amp;quot;Coppermine-based&amp;quot; processor</cpu>
+	<memory>64 MB of DDR SDRAM @ 200 MHz</memory>
+	<graphics>233 MHz nVidia NV2A</graphics>
+	<sound>NVIDIA &amp;quot;MCPX&amp;quot; (a.k.a. SoundStorm &amp;quot;NVAPU&amp;quot;)</sound>
+	<display>480i, 480p, 576i, 576p, 720p, 1080i</display>
+	<media>Disc</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Rating>5.75</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/14-1.jpg</original>
+			<thumb>platform/fanart/thumb/14-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/14-2.jpg</original>
+			<thumb>platform/fanart/thumb/14-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/14-3.jpg</original>
+			<thumb>platform/fanart/thumb/14-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/14-4.jpg</original>
+			<thumb>platform/fanart/thumb/14-4.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="640" height="908">platform/boxart/14-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/14-1.jpg</banner>		<consoleart>platform/consoleart/14.png</consoleart>
+		<controllerart>platform/controllerart/14.png</controllerart>
+	</Images>
+</Platform>
+</Data>

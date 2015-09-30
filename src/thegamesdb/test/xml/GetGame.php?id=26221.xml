@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26221</id>
+<GameTitle>X-Men Legends II - Rise of Apocolypse</GameTitle>
+<PlatformId>13</PlatformId>
+<Platform>Sony PSP</Platform>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="293" height="500" thumb="boxart/thumb/original/front/26221-1.jpg">boxart/original/front/26221-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

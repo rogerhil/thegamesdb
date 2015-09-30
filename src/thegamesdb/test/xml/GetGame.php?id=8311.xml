@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8311</id>
+<GameTitle>X-Men: Destiny</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>3</SimilarCount><Game><id>8898</id><PlatformId>15</PlatformId></Game><Game><id>21389</id><PlatformId>8</PlatformId></Game><Game><id>14096</id><PlatformId>9</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/8311-1.jpg</original>
+<thumb>fanart/thumb/8311-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1521" height="1747" thumb="boxart/thumb/original/back/8311-1.jpg">boxart/original/back/8311-1.jpg</boxart>
+<boxart side="front" width="1510" height="1747" thumb="boxart/thumb/original/front/8311-1.jpg">boxart/original/front/8311-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

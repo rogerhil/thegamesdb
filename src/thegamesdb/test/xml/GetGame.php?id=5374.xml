@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>5374</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Overview>Professor Xavier asks the X-Men to return to Alkali Lake to retrieve irreplaceable parts to Cerebro. Nightcrawler is asked to infiltrate the remnants of William Stryker's base with his teleportation ability, since the weapons systems were somehow operational. Once inside, he finds out that Stryker had a backup plan to destroy the mutants — mutant hunting robots called Sentinels. Working together, Storm and Wolverine find an A.I. module for a Sentinel when agents of HYDRA (an organization of terrorists) arrive to take the remaining Sentinels to their own base. It is revealed that HYDRA had designed the robots for Stryker. Inside the base, Wolverine discovers that HYDRA had employed one of his former adversaries — Lady Deathstrike, who was able to survive an apparent death in X2 after being pumped full of adamantium.</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Similar><SimilarCount>3</SimilarCount><Game><id>24798</id><PlatformId>15</PlatformId></Game><Game><id>4034</id><PlatformId>5</PlatformId></Game><Game><id>30940</id><PlatformId>2</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/5374-1.jpg</original>
+<thumb>fanart/thumb/5374-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5374-2.jpg</original>
+<thumb>fanart/thumb/5374-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5374-3.jpg</original>
+<thumb>fanart/thumb/5374-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="1521" height="2141" thumb="boxart/thumb/original/back/5374-1.jpg">boxart/original/back/5374-1.jpg</boxart>
+<boxart side="front" width="1519" height="2141" thumb="boxart/thumb/original/front/5374-1.jpg">boxart/original/front/5374-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

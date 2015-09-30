@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8300</id>
+<GameTitle>Rayman Origins</GameTitle>
+<PlatformId>9</PlatformId>
+<Platform>Nintendo Wii</Platform>
+<ReleaseDate>11/15/2011</ReleaseDate>
+<Overview>Rayman Origins is a comic adventure set in a lush 2D world brimming with unexpected secrets and outlandish enemies. The Glade of Dreams is overrun by the "nefurrious" Darktoons. The Fairy Council seeks Rayman's help to save the day. Rayman receives the aid of his best friend Globox as well as two crafty wizards, the Teensies. Together the world's most hilarious team of heroes sets out to restore peace to the Glade before their beloved home is destroyed. Rayman Origins supports four-player jump-in-and-jump-out co-op gameplay. The game offers a massive universe to explore, with more than 100 characters, 12 unique worlds, and more than 60 levels of platforming gameplay designed for all ages and play styles. Unlock new abilities and moves as you progress through the game. All members of your team will discover new unique abilities, including swimming, diving, slapping, and the sensational "HarilyCopter."</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=MvhwWXF-LfU</Youtube>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft Montpellier</Developer>
+<Rating>9</Rating><Similar><SimilarCount>5</SimilarCount><Game><id>8886</id><PlatformId>15</PlatformId></Game><Game><id>12715</id><PlatformId>4912</PlatformId></Game><Game><id>9459</id><PlatformId>1</PlatformId></Game><Game><id>10866</id><PlatformId>12</PlatformId></Game><Game><id>9240</id><PlatformId>39</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/8300-1.jpg</original>
+<thumb>fanart/thumb/8300-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8300-2.jpg</original>
+<thumb>fanart/thumb/8300-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8300-3.jpg</original>
+<thumb>fanart/thumb/8300-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8300-4.jpg</original>
+<thumb>fanart/thumb/8300-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8300-5.jpg</original>
+<thumb>fanart/thumb/8300-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8300-6.jpg</original>
+<thumb>fanart/thumb/8300-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8300-7.jpg</original>
+<thumb>fanart/thumb/8300-7.jpg</thumb>
+</fanart>
+<boxart side="back" width="640" height="888" thumb="boxart/thumb/original/back/8300-1.jpg">boxart/original/back/8300-1.jpg</boxart>
+<boxart side="front" width="1528" height="2163" thumb="boxart/thumb/original/front/8300-1.jpg">boxart/original/front/8300-1.jpg</boxart>
+<screenshot>
+<original width="1280" height="720">screenshots/8300-1.jpg</original>
+<thumb>screenshots/thumb/8300-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1024" height="577">screenshots/8300-2.jpg</original>
+<thumb>screenshots/thumb/8300-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="213">clearlogo/8300.png</clearlogo></Images>
+</Game>
+</Data>

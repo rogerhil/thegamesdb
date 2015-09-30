@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>5832</id>
+<GameTitle>Baten Kaitos Origins</GameTitle>
+<PlatformId>2</PlatformId>
+<Platform>Nintendo GameCube</Platform>
+<ReleaseDate>09/25/2006</ReleaseDate>
+<Overview>Baten Kaitos Origins takes place 20 years before the first Baten Kaitos game. It explains how the diabolical Emperor Geldoblame rose to power, and it also fills in many details about the heroes from the first title. In addition, players will learn about the origins of the world itself and why the Lost Ocean is returning. The hero, a blue-haired young man named Sagi, was sent to assassinate the Emperor but found the job had been done for him. Blamed for the death, he's now on the run with two friends - a robot named Guillo and a young woman named Milly. In the initial stages, the player's party will progress in a linear fashion, moving from one area to the next along a set path. After playing the game for a few hours, players will acquire a ship that lets them visit areas in the order of their choosing, allowing them to either pursue optional side quests or blast through the main mission as they see fit. Unlike traditional RPGs, where characters gain levels in categories such as strength and agility, the majority of leveling-up occurs by procuring better Magnus cards. There are more than 600 different Magnus cards in Baten Kaitos Origins, some of which have truly fantastical properties. Players can acquire cards in many different ways, including trading, buying, winning as spoils of war or by creating them themselves.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Nintendo</Publisher>
+<Developer>Monolith Software</Developer>
+<Rating>7</Rating><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/5832-1.jpg</original>
+<thumb>fanart/thumb/5832-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/5832-2.jpg</original>
+<thumb>fanart/thumb/5832-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/5832-3.jpg</original>
+<thumb>fanart/thumb/5832-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/5832-4.jpg</original>
+<thumb>fanart/thumb/5832-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/5832-5.jpg</original>
+<thumb>fanart/thumb/5832-5.jpg</thumb>
+</fanart>
+<boxart side="back" width="1533" height="2156" thumb="boxart/thumb/original/back/5832-1.jpg">boxart/original/back/5832-1.jpg</boxart>
+<boxart side="front" width="1533" height="2156" thumb="boxart/thumb/original/front/5832-1.jpg">boxart/original/front/5832-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

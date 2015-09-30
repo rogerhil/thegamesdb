@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20520</id>
+<GameTitle>X-Men</GameTitle>
+<PlatformId>33</PlatformId>
+<Platform>Sega 32X</Platform>
+<Overview>X-Men is an unreleased game developed for the Sega 32X. It was set to be an exclusive title for the system, but was cancelled for unknown reasons. A working title appears to have been X-Men: Mind Games.
+
+A prototype was dumped by Ryo Suzuki of SegaSaturno.com in August 2009. Most emulators will not run the game, however it is compatible with the latest releases of Kega Fusion. This prototype is very incomplete, and though gives hints that X-Men characters Wolverine, Rogue and Iceman would be playable, you can only control Bishop. Magazine shots show that the game progressed far enough for Wolverine to be included as a playable character.
+
+It has been suggested that the game eventually became the Sega Saturn/PlayStation/DOS game, The Incredible Hulk: The Pantheon Saga.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Developer>Sega</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>10681</id><PlatformId>23</PlatformId></Game><Game><id>14795</id><PlatformId>20</PlatformId></Game><Game><id>665</id><PlatformId>18</PlatformId></Game><Game><id>8104</id><PlatformId>36</PlatformId></Game></Similar><Images>
+<boxart side="front" width="244" height="350" thumb="boxart/thumb/original/front/20520-1.jpg">boxart/original/front/20520-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>2</id>
+	<Platform>Nintendo GameCube</Platform>
+	<console>http://www.youtube.com/watch?v=2.png</console>
+	<controller>http://www.youtube.com/watch?v=2.png</controller>
+	<overview>The Nintendo GameCube was the first Nintendo console to use optical discs as its primary storage medium, after several aborted projects from Nintendo and its partners to utilize optical-based storage media.  In contrast with the GameCube&amp;#039;s contemporary competitors, Sony&amp;#039;s PlayStation 2, Sega&amp;#039;s Dreamcast and Microsoft&amp;#039;s Xbox, the GameCube uses miniDVD-based discs instead of full-size DVDs. Partially as a result of this, it does not have the DVD-Video playback functionality of these systems, nor the audio CD playback ability of other consoles that use full-size optical discs.
+In addition, the GameCube introduced a variety of connectivity options to Nintendo consoles, and was the fourth Nintendo console, after the Nintendo 64DD, Famicom Modem and Satellaview, to support online play officially, via the Nintendo GameCube Broadband Adapter and Modem Adapter (sold separately). It also enabled connectivity to the Game Boy Advance to access exclusive features of certain games or to use the portable system as a controller for the Game Boy Player.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>486 MHz IBM &amp;quot;Gekko&amp;quot; PowerPC CPU</cpu>
+	<memory>43 MB total non-unified RAM</memory>
+	<graphics>162 MHz &amp;quot;Flipper&amp;quot; LSI (co-developed by Nintendo and ArtX, acquired by ATI)</graphics>
+	<sound>Dolby Pro Logic II</sound>
+	<display>640×480 interlaced (480i) or progressive scan (480p) - 60 Hz</display>
+	<media>Disc</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Rating>7.6429</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/2-1.jpg</original>
+			<thumb>platform/fanart/thumb/2-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/2-2.jpg</original>
+			<thumb>platform/fanart/thumb/2-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/2-3.jpg</original>
+			<thumb>platform/fanart/thumb/2-3.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="550" height="773">platform/boxart/2-1.jpg</boxart>
+		<boxart side="back" width="550" height="773">platform/boxart/2-2.jpg</boxart>
+		<banner width="760" height="140">platform/banners/2-1.png</banner>		<banner width="760" height="140">platform/banners/2-2.jpg</banner>		<consoleart>platform/consoleart/2.png</consoleart>
+		<controllerart>platform/controllerart/2.png</controllerart>
+	</Images>
+</Platform>
+</Data>

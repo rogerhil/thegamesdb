@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7867</id>
+<GameTitle>X-Men vs. Street Fighter</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>09/09/1996</ReleaseDate>
+<Overview>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</Overview>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Rating>10</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>30470</id><PlatformId>17</PlatformId></Game><Game><id>628</id><PlatformId>10</PlatformId></Game><Game><id>26682</id><PlatformId>6</PlatformId></Game></Similar><Images>
+<boxart side="back" width="850" height="1188" thumb="boxart/thumb/original/back/7867-1.jpg">boxart/original/back/7867-1.jpg</boxart>
+<boxart side="front" width="850" height="1186" thumb="boxart/thumb/original/front/7867-1.jpg">boxart/original/front/7867-1.jpg</boxart>
+<clearlogo width="400" height="250">clearlogo/7867.png</clearlogo></Images>
+</Game>
+</Data>

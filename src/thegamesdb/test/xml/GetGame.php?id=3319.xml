@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3319</id>
+<GameTitle>Army Men Advance</GameTitle>
+<PlatformId>5</PlatformId>
+<Platform>Nintendo Game Boy Advance</Platform>
+<ReleaseDate>06/11/2001</ReleaseDate>
+<Overview>Plastro, the infamous leader of the Tan Army, has recruited alien forces from another world to aid in his ongoing war against the Green Nation. It's up to Sarge and Vikki G. to jump into action to save their troops from a variety of unknown enemies, and then track down Plastro himself for a final confrontation!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>3DO</Publisher>
+<Developer>DC Studios</Developer>
+<Images>
+<boxart side="back" width="1530" height="1370" thumb="boxart/thumb/original/back/3319-1.jpg">boxart/original/back/3319-1.jpg</boxart>
+<boxart side="front" width="1530" height="1370" thumb="boxart/thumb/original/front/3319-1.jpg">boxart/original/front/3319-1.jpg</boxart>
+<banner width="760" height="140">graphical/3319-g.jpg</banner><clearlogo width="400" height="120">clearlogo/3319.png</clearlogo></Images>
+</Game>
+</Data>

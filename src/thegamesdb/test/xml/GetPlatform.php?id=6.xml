@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>6</id>
+	<Platform>Super Nintendo (SNES)</Platform>
+	<console>http://www.youtube.com/watch?v=6.png</console>
+	<controller>http://www.youtube.com/watch?v=6.png</controller>
+	<overview>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit video game console that was released by Nintendo in North America, Europe, Australasia (Oceania), and South America between 1990 and 1993.
+
+In Japan and Southeast Asia, the system is called the Super Famicom (officially adopting the abbreviated name of its predecessor, the Family Computer), or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics.
+
+Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.
+
+The Super Nintendo Entertainment System was Nintendo&amp;#039;s second home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other consoles at the time. Additionally, development of a variety of enhancement chips (which were integrated on game circuit boards) helped to keep it competitive in the marketplace.
+
+The SNES was a global success, becoming the best-selling console of the 16-bit era despite its relatively late start and the fierce competition it faced in North America and Europe from Sega&amp;#039;s Genesis console. 
+
+The SNES remained popular well into the 32-bit era, and although Nintendo no longer offers factory repairs/replacement or accessories for the console, it continues to be popular among fans, collectors, retro gamers, and emulation enthusiasts, some of whom are still making homebrew ROM images.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>16-bit 65c816 Ricoh 5A22 3.58 MHz</cpu>
+	<memory>128kb</memory>
+	<sound>8-bit Sony SPC700</sound>
+	<display>512 × 239</display>
+	<media>Cartridge</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=9fSAnVpJ42w</Youtube>
+	<Rating>7.2105</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/6-1.jpg</original>
+			<thumb>platform/fanart/thumb/6-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/6-2.jpg</original>
+			<thumb>platform/fanart/thumb/6-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/6-3.jpg</original>
+			<thumb>platform/fanart/thumb/6-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/6-4.jpg</original>
+			<thumb>platform/fanart/thumb/6-4.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/6-5.jpg</original>
+			<thumb>platform/fanart/thumb/6-5.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="600" height="438">platform/boxart/6-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/6-1.png</banner>		<banner width="760" height="140">platform/banners/6-2.jpg</banner>		<consoleart>platform/consoleart/6.png</consoleart>
+		<controllerart>platform/controllerart/6.png</controllerart>
+	</Images>
+</Platform>
+</Data>

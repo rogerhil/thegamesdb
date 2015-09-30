@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>36</id>
+	<Platform>Sega Mega Drive</Platform>
+	<controller>http://www.youtube.com/watch?v=36.png</controller>
+	<overview>The Sega Genesis is a fourth-generation video game console developed and produced by Sega. It was originally released in Japan in 1988 as Mega Drive, then in North America in 1989 as Sega Genesis, and in Europe, Australia and other PAL regions in 1990 as Mega Drive. The reason for the two names is that Sega was unable to secure legal rights to the Mega Drive name in North America.
+
+The Sega Genesis is Sega&amp;#039;s third console and the successor to the Sega Master System with which it has backward compatibility.
+
+The controversy over games like Mortal Kombat in the United States forced Sega to create the first content rating system for video games, the Videogame Rating Council, rather than have the games heavily censored. The rating system allowed Sega to ship games with little to no censorship and gave it a competive edge when the same game was released by Nintendo. The success of those games eventually forced Nintendo to join its rating system.</overview>
+	<developer>Sega</developer>
+	<manufacturer>Sega</manufacturer>
+	<cpu>Motorola 68000</cpu>
+	<memory>64K work RAM (68000), 64K video RAM, 8K work RAM (Z80)</memory>
+	<graphics>Yamaha YM7101</graphics>
+	<sound>Yamaha YM2612 5 channel FM and 1 channel FM/PCM, Texas Instruments SN76489 4 channel PSG (Programmable Sound Generator)</sound>
+	<display>320×448</display>
+	<media>Cartridge</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=HabrsySeK4Q</Youtube>
+	<Rating>7.8571</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/36-1.jpg</original>
+			<thumb>platform/fanart/thumb/36-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/36-2.jpg</original>
+			<thumb>platform/fanart/thumb/36-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/36-3.jpg</original>
+			<thumb>platform/fanart/thumb/36-3.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="360" height="360">platform/boxart/36-1.png</boxart>
+		<banner width="760" height="140">platform/banners/36-1.jpg</banner>		<banner width="760" height="140">platform/banners/36-2.jpg</banner>		<controllerart>platform/controllerart/36.png</controllerart>
+	</Images>
+</Platform>
+</Data>

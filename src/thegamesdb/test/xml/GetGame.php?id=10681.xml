@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>10681</id>
+<GameTitle>X-Men</GameTitle>
+<AlternateTitles><title>X-Men: The Arcade Game</title></AlternateTitles><PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>02/12/1992</ReleaseDate>
+<Overview>X-Men is an arcade game produced by Konami in 1992. It is a side-scrolling beat 'em up based on the Marvel Comics characters of the same name. The character designs of the X-Men and the supervillains in the game are based on the 1989 X-Men pilot episode X-Men: Pryde of the X-Men. In the game, players control one of the six playable X-Men to defeat their enemy Magneto. Konami made a six-player version of the game utilizing two screens housed in a deluxe cabinet.</Overview>
+<Genres><genre>Action</genre><genre>Fighting</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=VgF_VMQ19aA</Youtube>
+<Publisher>Konami</Publisher>
+<Developer>Konami</Developer>
+<Rating>7</Rating><Similar><SimilarCount>4</SimilarCount><Game><id>20520</id><PlatformId>33</PlatformId></Game><Game><id>14795</id><PlatformId>20</PlatformId></Game><Game><id>665</id><PlatformId>18</PlatformId></Game><Game><id>8104</id><PlatformId>36</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/10681-1.jpg</original>
+<thumb>fanart/thumb/10681-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="850" height="1116" thumb="boxart/thumb/original/front/10681-1.jpg">boxart/original/front/10681-1.jpg</boxart>
+<screenshot>
+<original width="900" height="663">screenshots/10681-1.jpg</original>
+<thumb>screenshots/thumb/10681-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1440" height="1120">screenshots/10681-2.jpg</original>
+<thumb>screenshots/thumb/10681-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="900" height="663">screenshots/10681-3.jpg</original>
+<thumb>screenshots/thumb/10681-3.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

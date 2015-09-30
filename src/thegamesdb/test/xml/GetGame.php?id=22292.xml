@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22292</id>
+<GameTitle>X-Tension</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>08/10/2010</ReleaseDate>
+<Overview>X-Tension is the eagerly awaited expansion pack to X: Beyond the Frontier. The expansion is not limited by a linear plot line but makes use of new ways to expand your empire. You can now take part in missions that are offered to you throughout the game.</Overview>
+<Genres><genre>Construction and Management Simulation</genre><genre>Flight Simulator</genre><genre>Role-Playing</genre><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Egosoft</Publisher>
+<Developer>Egosoft</Developer>
+<Images>
+<boxart side="front" width="359" height="360" thumb="boxart/thumb/original/front/22292-1.jpg">boxart/original/front/22292-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

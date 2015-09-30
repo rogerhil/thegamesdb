@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11632</id>
+<GameTitle>X-Men: Mutant Academy 2</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<Overview>X-Men: Mutant Academy 2 is a fighting game featuring characters from the X-Men universe. In this sequel to X-Men: Mutant Academy, six new X-Men characters join the ranks, including Rogue, Forge, Nightcrawler, Havok, and two secret fighters. Six new arenas - the X-Mansion, Muir Island, an eerily lit church and Asteroid M (Magneto's Stage), plus two secret levels, have been added.
+
+The sequel also introduces a so-called "Cerebro mode", where the player can check out behind-the-scenes character sketches, costume designs and movie set sketches from the X-Men movie. Professor X himself teaches the player the many moves available to the character in the Academy Training mode.</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Paradox Development</Developer>
+<Rating>5.6667</Rating><Images>
+<boxart side="front" width="1442" height="1455" thumb="boxart/thumb/original/front/11632-1.jpg">boxart/original/front/11632-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

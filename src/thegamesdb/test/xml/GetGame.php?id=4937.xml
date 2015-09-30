@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4937</id>
+<GameTitle>A/X-101</GameTitle>
+<PlatformId>21</PlatformId>
+<Platform>Sega CD</Platform>
+<ReleaseDate>11/30/1994</ReleaseDate>
+<Overview>The game is an on-rails shooter, with gameplay seen from a first-person cockpit perspective. The player's ship moves automatically through pre-rendered space and planetary environments and only the targeting crosshair can be moved freely. Laser Cannons and Fusion Warheads are available to hit the numerous enemies. Lasers have unlimited ammunition but need a few moments time to recharge. The warheads function as smart bombs and clear the screen of enemies, but are available only in limited supply. They are restocked when reaching a certain score. The ship's energy shield functions as a life bar.
+
+Between the shooting levels, there are transitional cutscenes, pre-rendered in the same way as the actual gameplay.</Overview>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Absolute Entertainment</Publisher>
+<Developer>Micronet</Developer>
+<Images>
+<boxart side="back" width="1530" height="2156" thumb="boxart/thumb/original/back/4937-1.jpg">boxart/original/back/4937-1.jpg</boxart>
+<boxart side="front" width="1539" height="2156" thumb="boxart/thumb/original/front/4937-1.jpg">boxart/original/front/4937-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

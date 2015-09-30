@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>9144</id>
+<GameTitle>Condemned: Criminal Origins</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>04/01/2006</ReleaseDate>
+<Overview>Condemned: Criminal Origins is a horror shooter released in 2006 by Sega, in which players take on the role of agent Ethan Thomas, a member of the FBI's Serial Crimes Unit (SCU). He is part of an investigation looking for a serial killer known as The Match Maker, who kills people and then arranges their corpse with a department store mannequin. During the search Thomas comes across another serial killer who seems to be very interested in Thomas and his cases. It is up to you to determine who the true serial killer is, and who is behind it.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Monolith</Developer>
+<Rating>6.6667</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>7166</id><PlatformId>15</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/9144-1.jpg</original>
+<thumb>fanart/thumb/9144-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1456" height="2155" thumb="boxart/thumb/original/back/9144-1.jpg">boxart/original/back/9144-1.jpg</boxart>
+<boxart side="front" width="1470" height="2156" thumb="boxart/thumb/original/front/9144-1.jpg">boxart/original/front/9144-1.jpg</boxart>
+<banner width="760" height="140">graphical/9144-g.jpg</banner><screenshot>
+<original width="1920" height="1080">screenshots/9144-1.jpg</original>
+<thumb>screenshots/thumb/9144-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/9144-2.jpg</original>
+<thumb>screenshots/thumb/9144-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/9144-3.jpg</original>
+<thumb>screenshots/thumb/9144-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/9144-4.jpg</original>
+<thumb>screenshots/thumb/9144-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/9144-5.jpg</original>
+<thumb>screenshots/thumb/9144-5.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/9144-6.jpg</original>
+<thumb>screenshots/thumb/9144-6.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/9144-7.jpg</original>
+<thumb>screenshots/thumb/9144-7.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/9144-8.jpg</original>
+<thumb>screenshots/thumb/9144-8.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="153">clearlogo/9144.png</clearlogo></Images>
+</Game>
+</Data>

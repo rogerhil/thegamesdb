@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4926</id>
+	<Platform>WonderSwan Color</Platform>
+	<overview>The WonderSwan Color was released on December 9, 2000 in Japan, and was a moderate success.
+The original WonderSwan had only a black and white screen. Although the WonderSwan Color was slightly larger and heavier (7 mm and 2 g) compared to the original WonderSwan, the color version featured 512KB of RAM and a larger color LCD screen. In addition, the WonderSwan Color is compatible with the original WonderSwan library of games.
+Prior to WonderSwan&amp;#039;s release, Nintendo had a virtual monopoly in the Japanese video game handheld market. After the release of the WonderSwan Color, Bandai took approximately 8% of the market share in Japan partly due to its low price of ¥6800 Japanese yen (approximately $59 USD).
+Another reason for the WonderSwan&amp;#039;s success in Japan was the fact that Bandai managed to get a deal with Square to port over the original Famicom Final Fantasy games with improved graphics and controls. However, with the popularity of the Game Boy Advance and the reconciliation between Square and Nintendo, the WonderSwan Color and its successor, the SwanCrystal, quickly lost its competitive advantage.</overview>
+	<developer>Bandai</developer>
+	<manufacturer>Bandai</manufacturer>
+	<cpu>SPGY-1002, a 3.072 MHz 16-bit NEC V30MZ Clone</cpu>
+	<memory>512 kB VRAM/WRAM (shared)</memory>
+	<sound>Four digital audio channels, each of which can play sequences of up to 32 4-bit samples, at different volumes and frequencies.</sound>
+	<display>224 x 144</display>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>5</Rating>
+	<Images>
+	</Images>
+</Platform>
+</Data>

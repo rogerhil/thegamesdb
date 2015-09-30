@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20689</id>
+<GameTitle>X-It</GameTitle>
+<PlatformId>4911</PlatformId>
+<Platform>Amiga</Platform>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Genres><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Psygnosis</Publisher>
+<Developer>Data Design InterActive</Developer>
+<Images>
+<boxart side="back" width="320" height="411" thumb="boxart/thumb/original/back/20689-1.jpg">boxart/original/back/20689-1.jpg</boxart>
+<boxart side="front" width="320" height="408" thumb="boxart/thumb/original/front/20689-1.jpg">boxart/original/front/20689-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

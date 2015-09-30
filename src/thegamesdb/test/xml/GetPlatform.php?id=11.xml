@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>11</id>
+	<Platform>Sony Playstation 2</Platform>
+	<console>http://www.youtube.com/watch?v=11.png</console>
+	<controller>http://www.youtube.com/watch?v=11.png</controller>
+	<overview>The PlayStation 2, (officially abbreviated PS2) is a sixth-generation video game console manufactured by Sony as part of the PlayStation series. Its development was announced in March 1999 and it was first released on March 4, 2000, in Japan. Its primary competitors were Sega&amp;#039;s Dreamcast, Microsoft&amp;#039;s Xbox, and Nintendo&amp;#039;s GameCube.
+
+The PS2 is the best-selling console of all time, having reached over 150 million units sold as of January 31, 2011.</overview>
+	<developer>Sony</developer>
+	<manufacturer>Sony</manufacturer>
+	<cpu>64-bit &amp;quot;Emotion Engine&amp;quot;</cpu>
+	<memory>32MB DRAM</memory>
+	<graphics>&amp;quot;Graphics Synthesizer&amp;quot; clocked at 147.456 MHz</graphics>
+	<sound>&amp;quot;SPU1+SPU2&amp;quot; (SPU1 is actually the CPU clocked at 8 MHz)</sound>
+	<display>1280x1024</display>
+	<media>Disc</media>
+	<maxcontrollers>2</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=NLU0EPLn_Gk</Youtube>
+	<Rating>7.5333</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-1.jpg</original>
+			<thumb>platform/fanart/thumb/11-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-2.jpg</original>
+			<thumb>platform/fanart/thumb/11-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-3.jpg</original>
+			<thumb>platform/fanart/thumb/11-3.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-4.jpg</original>
+			<thumb>platform/fanart/thumb/11-4.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-5.jpg</original>
+			<thumb>platform/fanart/thumb/11-5.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-6.jpg</original>
+			<thumb>platform/fanart/thumb/11-6.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-7.jpg</original>
+			<thumb>platform/fanart/thumb/11-7.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/11-8.jpg</original>
+			<thumb>platform/fanart/thumb/11-8.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="763" height="1078">platform/boxart/11-1.jpg</boxart>
+		<boxart side="back" width="763" height="1078">platform/boxart/11-2.jpg</boxart>
+		<banner width="760" height="140">platform/banners/11-1.png</banner>		<banner width="760" height="140">platform/banners/11-2.jpg</banner>		<consoleart>platform/consoleart/11.png</consoleart>
+		<controllerart>platform/controllerart/11.png</controllerart>
+	</Images>
+</Platform>
+</Data>

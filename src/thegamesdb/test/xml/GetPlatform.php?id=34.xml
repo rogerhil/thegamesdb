@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>34</id>
+	<Platform>TurboGrafx 16</Platform>
+	<controller>http://www.youtube.com/watch?v=34.png</controller>
+	<overview>TurboGrafx-16, fully titled as TurboGrafx-16 Entertainment SuperSystem and known in Japan as the PC Engine, is a video game console developed by Hudson Soft and NEC, released in Japan on October 30, 1987, and in North America on August 29, 1989.</overview>
+	<developer>Hudson Soft</developer>
+	<manufacturer>NEC</manufacturer>
+	<cpu>Hudson Soft HuC6280</cpu>
+	<memory>64 kB</memory>
+	<graphics>HuC6260</graphics>
+	<sound>6 Mini-Wavetable stereo audio channels</sound>
+	<display>256×239</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=Xn_xaQ5d5gY</Youtube>
+	<Rating>7</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/34-1.jpg</original>
+			<thumb>platform/fanart/thumb/34-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/34-2.jpg</original>
+			<thumb>platform/fanart/thumb/34-2.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="640" height="755">platform/boxart/34-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/34-1.png</banner>		<banner width="760" height="140">platform/banners/34-2.jpg</banner>		<controllerart>platform/controllerart/34.png</controllerart>
+	</Images>
+</Platform>
+</Data>

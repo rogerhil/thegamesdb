@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11805</id>
+<GameTitle>Robotron X</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>11/30/1996</ReleaseDate>
+<Overview>The arcade classic is taken to the next level, this time in 3D. The super-enhanced hero Ugene is once again called into action to save the last human family against the hordes of relentless Robotrons. Battle through 100 different levels, gaining new power-ups and abilities as Ugene survives wave after wave of the unrelenting hordes. While Ugene may face the familiar Robotrons, there will be new additions and tricks that the killer robots will use against the last surviving human family. Ugene must protect them at all cost while racking up the highest possible score!</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Midway</Publisher>
+<Developer>Player 1</Developer>
+<Images>
+<boxart side="back" width="761" height="650" thumb="boxart/thumb/original/back/11805-1.jpg">boxart/original/back/11805-1.jpg</boxart>
+<boxart side="front" width="600" height="601" thumb="boxart/thumb/original/front/11805-1.jpg">boxart/original/front/11805-1.jpg</boxart>
+<clearlogo width="400" height="122">clearlogo/11805.png</clearlogo></Images>
+</Game>
+</Data>

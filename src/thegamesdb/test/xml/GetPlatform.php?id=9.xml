@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>9</id>
+	<Platform>Nintendo Wii</Platform>
+	<console>http://www.youtube.com/watch?v=9.png</console>
+	<controller>http://www.youtube.com/watch?v=9.png</controller>
+	<overview>The Wii is a home video game console released by Nintendo on November 19, 2006. As a seventh-generation console, the Wii primarily competes with Microsoft&amp;#039;s Xbox 360 and Sony&amp;#039;s PlayStation 3. Nintendo states that its console targets a broader demographic than that of the two others. As of November 2011, the Wii leads the generation over the PlayStation 3 and Xbox 360 in worldwide sales, and in December 2009 broke the record for best-selling console in a single month in the United States.
+
+A distinguishing feature of the console is its wireless controller, the Wii Remote, which can be used as a handheld pointing device and detects movement in three dimensions. Another distinctive feature of the console is WiiConnect24, which enables it to receive messages and updates over the Internet while in standby mode.
+
+The Wii is Nintendo&amp;#039;s fifth home console and the direct successor of the Nintendo GameCube, being fully backwardly compatible with all GameCube games and most accessories.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Foxconn</manufacturer>
+	<cpu>PowerPC-based &amp;quot;Broadway&amp;quot; processor</cpu>
+	<memory>88 MB</memory>
+	<graphics>ATI &amp;quot;Hollywood&amp;quot; GPU</graphics>
+	<sound>Stereo – Dolby Pro Logic II-capable</sound>
+	<display>480p (PAL/NTSC), 480i (PAL/NTSC) or 576i (PAL/SECAM), standard 4:3 and 16:9 anamorphic widescreen</display>
+	<media>Disc</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Rating>6</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/9-1.jpg</original>
+			<thumb>platform/fanart/thumb/9-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/9-2.jpg</original>
+			<thumb>platform/fanart/thumb/9-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/9-3.jpg</original>
+			<thumb>platform/fanart/thumb/9-3.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="450" height="632">platform/boxart/9-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/9-1.png</banner>		<banner width="760" height="140">platform/banners/9-2.jpg</banner>		<consoleart>platform/consoleart/9.png</consoleart>
+		<controllerart>platform/controllerart/9.png</controllerart>
+	</Images>
+</Platform>
+</Data>

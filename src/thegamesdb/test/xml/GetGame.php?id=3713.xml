@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3713</id>
+<GameTitle>Star X</GameTitle>
+<PlatformId>5</PlatformId>
+<Platform>Nintendo Game Boy Advance</Platform>
+<ReleaseDate>04/17/2002</ReleaseDate>
+<Overview>Through nine unique and extreme environments, players fly in aerial combat both in and above the atmospheres of the galaxy's planets in free roaming and land fixed play modes. Players will need to successfully complete 22 intense missions and survive fierce air-to-air and air-to-land battles with an alien race in order to save their plane. A step-by-step training mode gives the best techniques and tactics to destroy enemy aircraft and perform land-based attacks.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>BAM! Entertainment</Publisher>
+<Developer>Graphic State</Developer>
+<Images>
+<boxart side="back" width="1530" height="1370" thumb="boxart/thumb/original/back/3713-1.jpg">boxart/original/back/3713-1.jpg</boxart>
+<boxart side="front" width="1530" height="1370" thumb="boxart/thumb/original/front/3713-1.jpg">boxart/original/front/3713-1.jpg</boxart>
+<banner width="760" height="140">graphical/3713-g.jpg</banner></Images>
+</Game>
+</Data>

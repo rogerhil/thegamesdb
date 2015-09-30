@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>18078</id>
+<GameTitle>Pokemon X</GameTitle>
+<PlatformId>4912</PlatformId>
+<Platform>Nintendo 3DS</Platform>
+<ReleaseDate>10/12/2013</ReleaseDate>
+<Overview>An all-new 3D Pokemon adventure packed with never-before-seen Pokemon will launch worldwide in October 2013. Pokemon X and Pokemon Y will present a new generation of Pokemon, and introduce players to an exciting new adventure in a breathtaking 3D world.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=WNr6wQfNfK4</Youtube>
+<Publisher>Nintendo</Publisher>
+<Developer>Game Freak</Developer>
+<Rating>5.5</Rating><Images>
+<boxart side="front" width="1500" height="1339" thumb="boxart/thumb/original/front/18078-1.jpg">boxart/original/front/18078-1.jpg</boxart>
+<clearlogo width="400" height="166">clearlogo/18078.png</clearlogo></Images>
+</Game>
+</Data>

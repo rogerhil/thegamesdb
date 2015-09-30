@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8104</id>
+<GameTitle>X-Men</GameTitle>
+<PlatformId>36</PlatformId>
+<Platform>Sega Mega Drive</Platform>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<Overview>X-Men is a side-scrolling action game based on the comic book series of the same name. The player can control one of four playable characters: Gambit, Nightcrawler, Wolverine, or Cyclops. In addition, it is possible to call upon four other X-Men in when necessary.</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Western Technologies</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>10681</id><PlatformId>23</PlatformId></Game><Game><id>20520</id><PlatformId>33</PlatformId></Game><Game><id>14795</id><PlatformId>20</PlatformId></Game><Game><id>665</id><PlatformId>18</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/8104-1.jpg</original>
+<thumb>fanart/thumb/8104-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1544" height="2100" thumb="boxart/thumb/original/back/8104-1.jpg">boxart/original/back/8104-1.jpg</boxart>
+<boxart side="front" width="1537" height="2100" thumb="boxart/thumb/original/front/8104-1.jpg">boxart/original/front/8104-1.jpg</boxart>
+<banner width="760" height="140">graphical/8104-g.jpg</banner><clearlogo width="400" height="207">clearlogo/8104.png</clearlogo></Images>
+</Game>
+</Data>

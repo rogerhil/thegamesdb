@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8099</id>
+<GameTitle>Ranger X</GameTitle>
+<AlternateTitles><title>Ex-Ranza</title></AlternateTitles><PlatformId>36</PlatformId>
+<Platform>Sega Mega Drive</Platform>
+<ReleaseDate>05/27/1993</ReleaseDate>
+<Overview>The player assumes the role of Ranger X, piloting a powered exoskeleton who leads the fight back for his home planet against the invading Rahuna forces. Ranger X is equipped with a jet pack and an assortment of weapons. The jet pack allows for short periods of flight, the duration of which is limited by the jet pack's temperature. Upon overheating, the player must land and wait for cool down. Alongside Ranger X's standard pulse rifle, the player has access to various special weapons including a flamethrower and homing attacks. Unlike the pulse rifle, the special weapons drain a power bar, which can only be recharged when Ranger X is in a bright light source. This special arsenal can be increased by collecting power ups scattered across the levels. On certain levels, the player may also control a supporting vehicle - an Ex-Up, such as Indra - a futuristic motorcycle, a premise described as "RoboCop on a Harley".</Overview>
+<Players>1</Players><Co-op>No</Co-op>
+<Rating>9</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>681</id><PlatformId>18</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1537" height="2100" thumb="boxart/thumb/original/back/8099-1.jpg">boxart/original/back/8099-1.jpg</boxart>
+<boxart side="front" width="1537" height="2100" thumb="boxart/thumb/original/front/8099-1.jpg">boxart/original/front/8099-1.jpg</boxart>
+<banner width="760" height="140">graphical/8099-g.jpg</banner><clearlogo width="400" height="175">clearlogo/8099.png</clearlogo></Images>
+</Game>
+</Data>

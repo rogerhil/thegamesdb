@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4978</id>
+<GameTitle>X-Men Origins: Wolverine</GameTitle>
+<PlatformId>9</PlatformId>
+<Platform>Nintendo Wii</Platform>
+<ReleaseDate>05/01/2009</ReleaseDate>
+<Overview>A prologue shows Wolverine hunting/being hunted by a group of soldiers in a bleak urban environment. He is wearing a shredded uniform reminiscent of the costume seen in the X-Men films, indicating that this may take place in a later time. His thoughts drift to a forgotten past.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Amaze Entertainment</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>7709</id><PlatformId>15</PlatformId></Game><Game><id>4209</id><PlatformId>1</PlatformId></Game><Game><id>19766</id><PlatformId>11</PlatformId></Game><Game><id>6646</id><PlatformId>12</PlatformId></Game><Game><id>29442</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/4978-1.jpg</original>
+<thumb>fanart/thumb/4978-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1537" height="2174" thumb="boxart/thumb/original/back/4978-1.jpg">boxart/original/back/4978-1.jpg</boxart>
+<boxart side="front" width="1530" height="2174" thumb="boxart/thumb/original/front/4978-1.jpg">boxart/original/front/4978-1.jpg</boxart>
+<banner width="760" height="140">graphical/4978-g.jpg</banner></Images>
+</Game>
+</Data>

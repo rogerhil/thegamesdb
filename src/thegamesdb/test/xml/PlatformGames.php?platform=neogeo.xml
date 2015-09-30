@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>215</id>
+<GameTitle>DoDonPachi</GameTitle>
+<ReleaseDate>02/05/1997</ReleaseDate>
+<thumb>boxart/original/front/215-1.jpg</thumb></Game>
+<Game>
+<id>222</id>
+<GameTitle>Metal Slug</GameTitle>
+<ReleaseDate>05/24/1996</ReleaseDate>
+<thumb>boxart/original/front/222-1.jpg</thumb></Game>
+<Game>
+<id>223</id>
+<GameTitle>Metal Slug 2</GameTitle>
+<ReleaseDate>04/02/1998</ReleaseDate>
+<thumb>boxart/original/front/223-1.jpg</thumb></Game>
+<Game>
+<id>224</id>
+<GameTitle>Metal Slug 3</GameTitle>
+<ReleaseDate>06/01/2000</ReleaseDate>
+<thumb>boxart/original/front/224-1.jpg</thumb></Game>
+<Game>
+<id>225</id>
+<GameTitle>Metal Slug 4</GameTitle>
+<ReleaseDate>07/19/2002</ReleaseDate>
+<thumb>boxart/original/front/225-2.jpg</thumb></Game>
+<Game>
+<id>226</id>
+<GameTitle>Metal Slug 5</GameTitle>
+<ReleaseDate>11/01/2003</ReleaseDate>
+<thumb>boxart/original/front/226-1.jpg</thumb></Game>
+<Game>
+<id>742</id>
+<GameTitle>Aero Fighters 3</GameTitle>
+<ReleaseDate>1995</ReleaseDate>
+<thumb>boxart/original/front/742-1.jpg</thumb></Game>
+<Game>
+<id>743</id>
+<GameTitle>Aero Fighters 2</GameTitle>
+<ReleaseDate>1994</ReleaseDate>
+<thumb>boxart/original/front/743-1.jpg</thumb></Game>
+<Game>
+<id>744</id>
+<GameTitle>Samurai Shodown</GameTitle>
+<ReleaseDate>08/11/1993</ReleaseDate>
+<thumb>boxart/original/front/744-1.jpg</thumb></Game>
+<Game>
+<id>973</id>
+<GameTitle>Metal Slug X</GameTitle>
+<ReleaseDate>03/18/1999</ReleaseDate>
+<thumb>boxart/original/front/973-1.jpg</thumb></Game>
+<Game>
+<id>976</id>
+<GameTitle>Ghost Pilots</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/976-1.jpg</thumb></Game>
+<Game>
+<id>977</id>
+<GameTitle>The King of Fighters '94</GameTitle>
+<ReleaseDate>10/01/1994</ReleaseDate>
+<thumb>boxart/original/front/977-1.jpg</thumb></Game>
+<Game>
+<id>978</id>
+<GameTitle>The King of Fighters '95</GameTitle>
+<ReleaseDate>09/01/1995</ReleaseDate>
+<thumb>boxart/original/front/978-1.jpg</thumb></Game>
+<Game>
+<id>979</id>
+<GameTitle>The King of Fighters '96</GameTitle>
+<ReleaseDate>07/30/1996</ReleaseDate>
+<thumb>boxart/original/front/979-1.jpg</thumb></Game>
+<Game>
+<id>980</id>
+<GameTitle>The King of Fighters '97</GameTitle>
+<ReleaseDate>09/25/1997</ReleaseDate>
+<thumb>boxart/original/front/980-1.jpg</thumb></Game>
+<Game>
+<id>981</id>
+<GameTitle>The King of Fighters '99: Millennium Battle</GameTitle>
+<ReleaseDate>09/23/1999</ReleaseDate>
+<thumb>boxart/original/front/981-1.jpg</thumb></Game>
+<Game>
+<id>982</id>
+<GameTitle>Magical Drop II</GameTitle>
+<ReleaseDate>04/19/1996</ReleaseDate>
+<thumb>boxart/original/front/982-1.jpg</thumb></Game>
+<Game>
+<id>983</id>
+<GameTitle>Magical Drop III</GameTitle>
+<ReleaseDate>04/25/1997</ReleaseDate>
+<thumb>boxart/original/front/983-1.jpg</thumb></Game>
+<Game>
+<id>984</id>
+<GameTitle>Samurai Shodown II</GameTitle>
+<ReleaseDate>10/28/1994</ReleaseDate>
+<thumb>boxart/original/front/984-1.jpg</thumb></Game>
+<Game>
+<id>985</id>
+<GameTitle>Samurai Shodown IV</GameTitle>
+<ReleaseDate>10/25/1996</ReleaseDate>
+<thumb>boxart/original/front/985-1.jpg</thumb></Game>
+<Game>
+<id>986</id>
+<GameTitle>Sonic Wings 2</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/986-1.jpg</thumb></Game>
+<Game>
+<id>987</id>
+<GameTitle>Sonic Wings 3</GameTitle>
+<ReleaseDate>11/17/1995</ReleaseDate>
+<thumb>boxart/original/front/987-1.jpg</thumb></Game>
+<Game>
+<id>988</id>
+<GameTitle>World Heroes</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<thumb>boxart/original/front/988-1.jpg</thumb></Game>
+<Game>
+<id>989</id>
+<GameTitle>World Heroes 2</GameTitle>
+<ReleaseDate>06/04/1993</ReleaseDate>
+<thumb>boxart/original/front/989-1.jpg</thumb></Game>
+<Game>
+<id>990</id>
+<GameTitle>World Heroes Perfect</GameTitle>
+<ReleaseDate>06/07/1995</ReleaseDate>
+<thumb>boxart/original/front/990-1.jpg</thumb></Game>
+<Game>
+<id>1334</id>
+<GameTitle>Art of Fighting 2</GameTitle>
+<ReleaseDate>03/11/1994</ReleaseDate>
+<thumb>boxart/original/front/1334-1.jpg</thumb></Game>
+<Game>
+<id>1335</id>
+<GameTitle>Burning Fight</GameTitle>
+<ReleaseDate>08/09/1991</ReleaseDate>
+<thumb>boxart/original/front/1335-1.jpg</thumb></Game>
+<Game>
+<id>1336</id>
+<GameTitle>Garou: Mark of the Wolves</GameTitle>
+<ReleaseDate>02/25/2000</ReleaseDate>
+<thumb>boxart/original/front/1336-1.jpg</thumb></Game>
+<Game>
+<id>1337</id>
+<GameTitle>Joy Joy Kid</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/1337-1.jpg</thumb></Game>
+<Game>
+<id>1338</id>
+<GameTitle>NAM-1975</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/1338-1.jpg</thumb></Game>
+<Game>
+<id>1339</id>
+<GameTitle>Savage Reign</GameTitle>
+<ReleaseDate>05/26/1995</ReleaseDate>
+<thumb>boxart/original/front/1339-1.jpg</thumb></Game>
+<Game>
+<id>1340</id>
+<GameTitle>Thrash Rally</GameTitle>
+<ReleaseDate>12/21/1991</ReleaseDate>
+<thumb>boxart/original/front/1340-1.jpg</thumb></Game>
+<Game>
+<id>1485</id>
+<GameTitle>3 Count Bout</GameTitle>
+<ReleaseDate>04/23/1993</ReleaseDate>
+<thumb>boxart/original/front/1485-1.jpg</thumb></Game>
+<Game>
+<id>1486</id>
+<GameTitle>Super Baseball 2020</GameTitle>
+<ReleaseDate>10/25/1991</ReleaseDate>
+<thumb>boxart/original/front/1486-1.jpg</thumb></Game>
+<Game>
+<id>1487</id>
+<GameTitle>Aggressors of Dark Kombat</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/1487-1.jpg</thumb></Game>
+<Game>
+<id>1488</id>
+<GameTitle>Baseball Stars 2</GameTitle>
+<ReleaseDate>04/28/1992</ReleaseDate>
+<thumb>boxart/original/front/1488-1.jpg</thumb></Game>
+<Game>
+<id>1489</id>
+<GameTitle>Baseball Stars Professional</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/1489-1.jpg</thumb></Game>
+<Game>
+<id>1490</id>
+<GameTitle>Ironclad</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<thumb>boxart/original/front/1490-1.jpg</thumb></Game>
+<Game>
+<id>1491</id>
+<GameTitle>Fatal Fury 3: Road to the Final Victory</GameTitle>
+<ReleaseDate>04/21/1995</ReleaseDate>
+<thumb>boxart/original/front/1491-1.jpg</thumb></Game>
+<Game>
+<id>1492</id>
+<GameTitle>Fatal Fury Special</GameTitle>
+<ReleaseDate>09/16/1993</ReleaseDate>
+<thumb>boxart/original/front/1492-1.jpg</thumb></Game>
+<Game>
+<id>1493</id>
+<GameTitle>Far East of Eden: Kabuki Klash</GameTitle>
+<ReleaseDate>07/02/1995</ReleaseDate>
+<thumb>boxart/original/front/1493-1.jpg</thumb></Game>
+<Game>
+<id>1494</id>
+<GameTitle>Last Resort</GameTitle>
+<ReleaseDate>04/24/1992</ReleaseDate>
+<thumb>boxart/original/front/1494-1.jpg</thumb></Game>
+<Game>
+<id>1495</id>
+<GameTitle>Magician Lord</GameTitle>
+<ReleaseDate>07/02/1991</ReleaseDate>
+<thumb>boxart/original/front/1495-1.jpg</thumb></Game>
+<Game>
+<id>1496</id>
+<GameTitle>Mutation Nation</GameTitle>
+<ReleaseDate>04/22/1992</ReleaseDate>
+<thumb>boxart/original/front/1496-1.jpg</thumb></Game>
+<Game>
+<id>1497</id>
+<GameTitle>Ninja Commando</GameTitle>
+<ReleaseDate>05/29/1992</ReleaseDate>
+<thumb>boxart/original/front/1497-1.jpg</thumb></Game>
+<Game>
+<id>1498</id>
+<GameTitle>Ninja Master's</GameTitle>
+<ReleaseDate>06/28/1996</ReleaseDate>
+<thumb>boxart/original/front/1498-1.jpg</thumb></Game>
+<Game>
+<id>1499</id>
+<GameTitle>Puzzle Bobble</GameTitle>
+<ReleaseDate>07/01/1999</ReleaseDate>
+<thumb>boxart/original/front/1499-1.jpg</thumb></Game>
+<Game>
+<id>1500</id>
+<GameTitle>Robo Army</GameTitle>
+<ReleaseDate>12/20/1991</ReleaseDate>
+<thumb>boxart/original/front/1500-1.jpg</thumb></Game>
+<Game>
+<id>1504</id>
+<GameTitle>Samurai Shodown III</GameTitle>
+<ReleaseDate>11/15/1995</ReleaseDate>
+<thumb>boxart/original/front/1504-1.jpg</thumb></Game>
+<Game>
+<id>1506</id>
+<GameTitle>Street Slam</GameTitle>
+<ReleaseDate>12/09/1994</ReleaseDate>
+<thumb>boxart/original/front/1506-1.jpg</thumb></Game>
+<Game>
+<id>1508</id>
+<GameTitle>The Last Blade</GameTitle>
+<ReleaseDate>01/29/1998</ReleaseDate>
+<thumb>boxart/original/front/1508-1.jpg</thumb></Game>
+<Game>
+<id>1510</id>
+<GameTitle>The Last Blade 2</GameTitle>
+<ReleaseDate>01/01/1999</ReleaseDate>
+<thumb>boxart/original/front/1510-1.jpg</thumb></Game>
+<Game>
+<id>1512</id>
+<GameTitle>Twinkle Star Sprites</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<thumb>boxart/original/front/1512-1.jpg</thumb></Game>
+<Game>
+<id>1513</id>
+<GameTitle>Viewpoint</GameTitle>
+<ReleaseDate>10/01/1992</ReleaseDate>
+<thumb>boxart/original/front/1513-1.jpg</thumb></Game>
+<Game>
+<id>1514</id>
+<GameTitle>Voltage Fighter Gowcaizer</GameTitle>
+<ReleaseDate>10/24/1995</ReleaseDate>
+<thumb>boxart/original/front/1514-1.jpg</thumb></Game>
+<Game>
+<id>1516</id>
+<GameTitle>WindJammers</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/1516-1.jpg</thumb></Game>
+<Game>
+<id>8259</id>
+<GameTitle>Fatal Fury: Wild Ambition</GameTitle>
+<ReleaseDate>01/28/1999</ReleaseDate>
+<thumb>boxart/original/front/8259-1.jpg</thumb></Game>
+<Game>
+<id>2608</id>
+<GameTitle>League Bowling</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/2608-1.jpg</thumb></Game>
+<Game>
+<id>2862</id>
+<GameTitle>Fatal Fury 2</GameTitle>
+<ReleaseDate>03/05/1993</ReleaseDate>
+<thumb>boxart/original/front/2862-1.jpg</thumb></Game>
+<Game>
+<id>2907</id>
+<GameTitle>Fatal Fury</GameTitle>
+<ReleaseDate>12/20/1991</ReleaseDate>
+<thumb>boxart/original/front/2907-1.jpg</thumb></Game>
+<Game>
+<id>6463</id>
+<GameTitle>ASO II: Last Guardian</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/6463-1.jpg</thumb></Game>
+<Game>
+<id>6464</id>
+<GameTitle>Andro Dunos</GameTitle>
+<ReleaseDate>07/17/1992</ReleaseDate>
+<thumb>boxart/original/front/6464-1.jpg</thumb></Game>
+<Game>
+<id>6465</id>
+<GameTitle>Art of Fighting 3: The Path of the Warrior</GameTitle>
+<ReleaseDate>04/26/1996</ReleaseDate>
+<thumb>boxart/original/front/6465-1.jpg</thumb></Game>
+<Game>
+<id>6466</id>
+<GameTitle>Bang Bead</GameTitle>
+<ReleaseDate>01/01/2000</ReleaseDate>
+<thumb>boxart/original/front/6466-1.jpg</thumb></Game>
+<Game>
+<id>6467</id>
+<GameTitle>Battle Flip Shot</GameTitle>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<thumb>boxart/original/front/6467-1.jpg</thumb></Game>
+<Game>
+<id>6468</id>
+<GameTitle>Blazing Star</GameTitle>
+<ReleaseDate>02/19/1998</ReleaseDate>
+<thumb>boxart/original/front/6468-1.jpg</thumb></Game>
+<Game>
+<id>6469</id>
+<GameTitle>Breakers</GameTitle>
+<ReleaseDate>03/21/1996</ReleaseDate>
+<thumb>boxart/original/front/6469-1.jpg</thumb></Game>
+<Game>
+<id>6470</id>
+<GameTitle>Bust-A-Move Again</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<thumb>boxart/original/front/6470-1.jpg</thumb></Game>
+<Game>
+<id>6471</id>
+<GameTitle>Crossed Swords</GameTitle>
+<ReleaseDate>10/01/1991</ReleaseDate>
+<thumb>boxart/original/front/6471-1.jpg</thumb></Game>
+<Game>
+<id>6472</id>
+<GameTitle>Cyber-Lip</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/6472-1.jpg</thumb></Game>
+<Game>
+<id>6474</id>
+<GameTitle>Fast Striker</GameTitle>
+<ReleaseDate>09/01/2010</ReleaseDate>
+<thumb>boxart/original/front/6474-1.jpg</thumb></Game>
+<Game>
+<id>8260</id>
+<GameTitle>JoJo's Venture</GameTitle>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<thumb>boxart/original/front/8260-1.jpg</thumb></Game>
+<Game>
+<id>8261</id>
+<GameTitle>The King of Fighters 2003</GameTitle>
+<ReleaseDate>03/18/2004</ReleaseDate>
+<thumb>boxart/original/front/8261-1.jpg</thumb></Game>
+<Game>
+<id>8262</id>
+<GameTitle>Kizuna Encounter</GameTitle>
+<ReleaseDate>11/06/1996</ReleaseDate>
+<thumb>boxart/original/front/8262-1.jpg</thumb></Game>
+<Game>
+<id>8263</id>
+<GameTitle>Marvel Super Heroes</GameTitle>
+<ReleaseDate>10/24/1995</ReleaseDate>
+<thumb>boxart/original/front/8263-1.jpg</thumb></Game>
+<Game>
+<id>8264</id>
+<GameTitle>Marvel Super Heroes vs. Street Fighter</GameTitle>
+<ReleaseDate>10/22/1998</ReleaseDate>
+<thumb>boxart/original/front/8264-1.jpg</thumb></Game>
+<Game>
+<id>8267</id>
+<GameTitle>Samurai Shodown V Special</GameTitle>
+<ReleaseDate>06/15/2004</ReleaseDate>
+<thumb>boxart/original/front/8267-1.jpg</thumb></Game>
+<Game>
+<id>8505</id>
+<GameTitle>Neo Geo Cup '98: The Road to the Victory</GameTitle>
+<ReleaseDate>03/03/1998</ReleaseDate>
+<thumb>boxart/original/front/8505-1.jpg</thumb></Game>
+<Game>
+<id>8673</id>
+<GameTitle>King of the Monsters</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/8673-1.jpg</thumb></Game>
+<Game>
+<id>8674</id>
+<GameTitle>Neo Turf Masters</GameTitle>
+<ReleaseDate>03/01/1996</ReleaseDate>
+<thumb>boxart/original/front/8674-1.jpg</thumb></Game>
+<Game>
+<id>8675</id>
+<GameTitle>Pulstar</GameTitle>
+<ReleaseDate>09/29/1995</ReleaseDate>
+<thumb>boxart/original/front/8675-1.jpg</thumb></Game>
+<Game>
+<id>8676</id>
+<GameTitle>Riding Hero</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/8676-1.jpg</thumb></Game>
+<Game>
+<id>8677</id>
+<GameTitle>Sengoku</GameTitle>
+<ReleaseDate>07/01/2001</ReleaseDate>
+<thumb>boxart/original/front/8677-1.jpg</thumb></Game>
+<Game>
+<id>8678</id>
+<GameTitle>Sengoku 2</GameTitle>
+<ReleaseDate>04/09/1993</ReleaseDate>
+<thumb>boxart/original/front/8678-1.jpg</thumb></Game>
+<Game>
+<id>8680</id>
+<GameTitle>Street Hoop</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/8680-1.jpg</thumb></Game>
+<Game>
+<id>8681</id>
+<GameTitle>Super Sidekicks 3</GameTitle>
+<ReleaseDate>04/07/1995</ReleaseDate>
+<thumb>boxart/original/front/8681-1.jpg</thumb></Game>
+<Game>
+<id>10036</id>
+<GameTitle>Alpha Mission II</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/10036-1.jpg</thumb></Game>
+<Game>
+<id>10050</id>
+<GameTitle>Blue's Journey</GameTitle>
+<ReleaseDate>01/01/1991</ReleaseDate>
+<thumb>boxart/original/front/10050-1.jpg</thumb></Game>
+<Game>
+<id>10051</id>
+<GameTitle>Breakers Revenge</GameTitle>
+<ReleaseDate>07/02/1998</ReleaseDate>
+<thumb>boxart/original/front/10051-1.jpg</thumb></Game>
+<Game>
+<id>10052</id>
+<GameTitle>Captain Tomaday</GameTitle>
+<ReleaseDate>05/27/1999</ReleaseDate>
+<thumb>boxart/original/front/10052-1.jpg</thumb></Game>
+<Game>
+<id>10053</id>
+<GameTitle>Eight Man</GameTitle>
+<ReleaseDate>11/10/1991</ReleaseDate>
+<thumb>boxart/original/front/10053-1.jpg</thumb></Game>
+<Game>
+<id>10054</id>
+<GameTitle>Football Frenzy</GameTitle>
+<ReleaseDate>02/21/1992</ReleaseDate>
+<thumb>boxart/original/front/10054-1.jpg</thumb></Game>
+<Game>
+<id>10055</id>
+<GameTitle>Fight Fever</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/10055-1.jpg</thumb></Game>
+<Game>
+<id>10056</id>
+<GameTitle>Galaxy Fight: Universal Warriors</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/10056-1.jpg</thumb></Game>
+<Game>
+<id>10057</id>
+<GameTitle>Ganryu</GameTitle>
+<ReleaseDate>01/01/1999</ReleaseDate>
+<thumb>boxart/original/front/10057-1.jpg</thumb></Game>
+<Game>
+<id>10058</id>
+<GameTitle>Ghostlop</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<thumb>boxart/original/front/10058-1.jpg</thumb></Game>
+<Game>
+<id>10059</id>
+<GameTitle>Goal! Goal! Goal!</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<thumb>boxart/original/front/10059-1.jpg</thumb></Game>
+<Game>
+<id>10060</id>
+<GameTitle>Gururin</GameTitle>
+<ReleaseDate>05/25/1994</ReleaseDate>
+<thumb>boxart/original/front/10060-1.jpg</thumb></Game>
+<Game>
+<id>10061</id>
+<GameTitle>Puzzled</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/10061-1.jpg</thumb></Game>
+<Game>
+<id>10062</id>
+<GameTitle>The King of Fighters 2000</GameTitle>
+<ReleaseDate>12/21/2000</ReleaseDate>
+<thumb>boxart/original/front/10062-1.jpg</thumb></Game>
+<Game>
+<id>10063</id>
+<GameTitle>The King of Fighters 2001</GameTitle>
+<ReleaseDate>03/14/2002</ReleaseDate>
+<thumb>boxart/original/front/10063-1.jpg</thumb></Game>
+<Game>
+<id>10064</id>
+<GameTitle>The King of Fighters 2002</GameTitle>
+<ReleaseDate>10/10/2002</ReleaseDate>
+<thumb>boxart/original/front/10064-1.jpg</thumb></Game>
+<Game>
+<id>10065</id>
+<GameTitle>King of the Monsters 2</GameTitle>
+<ReleaseDate>06/19/1992</ReleaseDate>
+<thumb>boxart/original/front/10065-1.jpg</thumb></Game>
+<Game>
+<id>10066</id>
+<GameTitle>Legend of Success Joe</GameTitle>
+<ReleaseDate>08/30/1991</ReleaseDate>
+<thumb>boxart/original/front/10066-1.jpg</thumb></Game>
+<Game>
+<id>10067</id>
+<GameTitle>Power Instinct Matrimelee</GameTitle>
+<ReleaseDate>05/01/2002</ReleaseDate>
+<thumb>boxart/original/front/10067-1.jpg</thumb></Game>
+<Game>
+<id>10276</id>
+<GameTitle>Zed Blade</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/10276-1.png</thumb></Game>
+<Game>
+<id>10277</id>
+<GameTitle>Super Sidekicks 3: The Next Glory</GameTitle>
+<ReleaseDate>04/07/1995</ReleaseDate>
+<thumb>boxart/original/front/10277-1.jpg</thumb></Game>
+<Game>
+<id>10450</id>
+<GameTitle>Ninja Combat</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/10450-1.jpg</thumb></Game>
+<Game>
+<id>10451</id>
+<GameTitle>Neo Bomberman</GameTitle>
+<ReleaseDate>03/01/1997</ReleaseDate>
+<thumb>boxart/original/front/10451-1.jpg</thumb></Game>
+<Game>
+<id>10452</id>
+<GameTitle>Neo Drift Out</GameTitle>
+<ReleaseDate>07/26/1996</ReleaseDate>
+<thumb>boxart/original/front/10452-1.jpg</thumb></Game>
+<Game>
+<id>10453</id>
+<GameTitle>Neo Mr. Do!</GameTitle>
+<ReleaseDate>06/26/1997</ReleaseDate>
+<thumb>boxart/original/front/10453-1.jpg</thumb></Game>
+<Game>
+<id>10454</id>
+<GameTitle>Nightmare in the Dark</GameTitle>
+<ReleaseDate>01/01/2000</ReleaseDate>
+<thumb>boxart/original/front/10454-1.jpg</thumb></Game>
+<Game>
+<id>10455</id>
+<GameTitle>Over Top</GameTitle>
+<ReleaseDate>05/24/1996</ReleaseDate>
+<thumb>boxart/original/front/10455-1.jpg</thumb></Game>
+<Game>
+<id>10456</id>
+<GameTitle>Bomberman: Panic Bomber</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/10456-1.jpg</thumb></Game>
+<Game>
+<id>10457</id>
+<GameTitle>Pleasure Goal: 5 on 5 Mini Soccer</GameTitle>
+<ReleaseDate>06/19/1996</ReleaseDate>
+<thumb>boxart/original/front/10457-1.jpg</thumb></Game>
+<Game>
+<id>10458</id>
+<GameTitle>Pochi &amp; Nyaa</GameTitle>
+<ReleaseDate>12/24/2003</ReleaseDate>
+<thumb>boxart/original/front/10458-1.jpg</thumb></Game>
+<Game>
+<id>10459</id>
+<GameTitle>Pop 'n Bounce</GameTitle>
+<ReleaseDate>01/01/1997</ReleaseDate>
+<thumb>boxart/original/front/10459-1.jpg</thumb></Game>
+<Game>
+<id>10460</id>
+<GameTitle>Prehistoric Isle 2</GameTitle>
+<ReleaseDate>09/26/1999</ReleaseDate>
+<thumb>boxart/original/front/10460-1.jpg</thumb></Game>
+<Game>
+<id>10461</id>
+<GameTitle>Power Spikes II</GameTitle>
+<ReleaseDate>03/18/1995</ReleaseDate>
+<thumb>boxart/original/front/10461-1.jpg</thumb></Game>
+<Game>
+<id>10462</id>
+<GameTitle>Puzzle de Pon! R</GameTitle>
+<ReleaseDate>01/01/1997</ReleaseDate>
+<thumb>boxart/original/front/10462-1.png</thumb></Game>
+<Game>
+<id>10463</id>
+<GameTitle>Puzzle De Pon!</GameTitle>
+<ReleaseDate>11/27/1995</ReleaseDate>
+<thumb>boxart/original/front/10463-1.jpg</thumb></Game>
+<Game>
+<id>10464</id>
+<GameTitle>Ragnagard</GameTitle>
+<ReleaseDate>07/26/1996</ReleaseDate>
+<thumb>boxart/original/front/10464-1.jpg</thumb></Game>
+<Game>
+<id>10465</id>
+<GameTitle>Real Bout Fatal Fury</GameTitle>
+<ReleaseDate>01/26/1996</ReleaseDate>
+<thumb>boxart/original/front/10465-1.jpg</thumb></Game>
+<Game>
+<id>10466</id>
+<GameTitle>Real Bout Fatal Fury 2: The Newcomers</GameTitle>
+<ReleaseDate>04/29/1998</ReleaseDate>
+<thumb>boxart/original/front/10466-1.jpg</thumb></Game>
+<Game>
+<id>10467</id>
+<GameTitle>Real Bout Fatal Fury Special</GameTitle>
+<ReleaseDate>02/28/1997</ReleaseDate>
+<thumb>boxart/original/front/10467-1.jpg</thumb></Game>
+<Game>
+<id>10468</id>
+<GameTitle>Rage of the Dragons</GameTitle>
+<ReleaseDate>09/20/2002</ReleaseDate>
+<thumb>boxart/original/front/10468-1.jpg</thumb></Game>
+<Game>
+<id>10469</id>
+<GameTitle>Strikers 1945 Plus</GameTitle>
+<ReleaseDate>01/01/1999</ReleaseDate>
+<thumb>boxart/original/front/10469-1.jpg</thumb></Game>
+<Game>
+<id>10470</id>
+<GameTitle>Samurai Shodown V</GameTitle>
+<ReleaseDate>12/11/2003</ReleaseDate>
+<thumb>boxart/original/front/10470-1.jpg</thumb></Game>
+<Game>
+<id>10471</id>
+<GameTitle>Super Dodge Ball</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<thumb>boxart/original/front/10471-1.jpg</thumb></Game>
+<Game>
+<id>10472</id>
+<GameTitle>Sengoku 3</GameTitle>
+<ReleaseDate>10/25/2001</ReleaseDate>
+<thumb>boxart/original/front/10472-1.jpg</thumb></Game>
+<Game>
+<id>10473</id>
+<GameTitle>Shock Troopers: 2nd Squad</GameTitle>
+<ReleaseDate>06/24/1999</ReleaseDate>
+<thumb>boxart/original/front/10473-1.jpg</thumb></Game>
+<Game>
+<id>10474</id>
+<GameTitle>Soccer Brawl</GameTitle>
+<ReleaseDate>03/13/1992</ReleaseDate>
+<thumb>boxart/original/front/10474-1.jpg</thumb></Game>
+<Game>
+<id>10475</id>
+<GameTitle>Spinmaster</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<thumb>boxart/original/front/10475-1.jpg</thumb></Game>
+<Game>
+<id>10476</id>
+<GameTitle>Super Sidekicks</GameTitle>
+<ReleaseDate>02/19/1993</ReleaseDate>
+<thumb>boxart/original/front/10476-1.jpg</thumb></Game>
+<Game>
+<id>10477</id>
+<GameTitle>Super Sidekicks 2</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/10477-1.jpg</thumb></Game>
+<Game>
+<id>10478</id>
+<GameTitle>The Ultimate 11: SNK Football Championship</GameTitle>
+<ReleaseDate>12/20/1996</ReleaseDate>
+<thumb>boxart/original/front/10478-1.jpg</thumb></Game>
+<Game>
+<id>10479</id>
+<GameTitle>Stakes Winner</GameTitle>
+<ReleaseDate>10/27/1995</ReleaseDate>
+<thumb>boxart/original/front/10479-1.jpg</thumb></Game>
+<Game>
+<id>10480</id>
+<GameTitle>Stakes Winner 2</GameTitle>
+<ReleaseDate>12/13/1996</ReleaseDate>
+<thumb>boxart/original/front/10480-1.jpg</thumb></Game>
+<Game>
+<id>10481</id>
+<GameTitle>The Super Spy</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/10481-1.jpg</thumb></Game>
+<Game>
+<id>10482</id>
+<GameTitle>SNK vs. Capcom: SVC Chaos</GameTitle>
+<ReleaseDate>07/24/2003</ReleaseDate>
+<thumb>boxart/original/front/10482-1.jpg</thumb></Game>
+<Game>
+<id>10483</id>
+<GameTitle>Top Hunter: Roddy &amp; Cathy</GameTitle>
+<ReleaseDate>12/31/2007</ReleaseDate>
+<thumb>boxart/original/front/10483-1.jpg</thumb></Game>
+<Game>
+<id>10484</id>
+<GameTitle>Top Player's Golf</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/10484-1.jpg</thumb></Game>
+<Game>
+<id>10485</id>
+<GameTitle>Tecmo World Soccer '96</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<thumb>boxart/original/front/10485-1.jpg</thumb></Game>
+<Game>
+<id>10486</id>
+<GameTitle>Waku Waku 7</GameTitle>
+<ReleaseDate>12/27/1996</ReleaseDate>
+<thumb>boxart/original/front/10486-1.jpg</thumb></Game>
+<Game>
+<id>10487</id>
+<GameTitle>World Heroes 2 Jet</GameTitle>
+<ReleaseDate>06/10/1994</ReleaseDate>
+<thumb>boxart/original/front/10487-1.jpg</thumb></Game>
+<Game>
+<id>10488</id>
+<GameTitle>Zupapa!</GameTitle>
+<ReleaseDate>01/01/2001</ReleaseDate>
+<thumb>boxart/original/front/10488-1.jpg</thumb></Game>
+<Game>
+<id>17883</id>
+<GameTitle>Money Idol Exchanger</GameTitle>
+<ReleaseDate>01/01/1997</ReleaseDate>
+<thumb>boxart/original/front/17883-1.png</thumb></Game>
+<Game>
+<id>18531</id>
+<GameTitle>Puzzle Bobble 2</GameTitle>
+<ReleaseDate>08/01/1999</ReleaseDate>
+<thumb>boxart/original/front/18531-1.jpg</thumb></Game>
+<Game>
+<id>18532</id>
+<GameTitle>Double Dragon</GameTitle>
+<ReleaseDate>03/01/1987</ReleaseDate>
+<thumb>boxart/original/front/18532-1.jpg</thumb></Game>
+<Game>
+<id>18533</id>
+<GameTitle>The King of Fighters '98</GameTitle>
+<ReleaseDate>09/23/1998</ReleaseDate>
+<thumb>boxart/original/front/18533-1.jpg</thumb></Game>
+<Game>
+<id>18534</id>
+<GameTitle>Karnov's Revenge</GameTitle>
+<ReleaseDate>03/17/1994</ReleaseDate>
+<thumb>boxart/original/front/18534-1.jpg</thumb></Game>
+<Game>
+<id>18829</id>
+<GameTitle>Art Of Fighting</GameTitle>
+<ReleaseDate>09/24/1992</ReleaseDate>
+<thumb>boxart/original/front/18829-1.jpg</thumb></Game>
+<Game>
+<id>18953</id>
+<GameTitle>Bakatonosama Mahjong Manyuki</GameTitle>
+<ReleaseDate>01/01/1991</ReleaseDate>
+<thumb>boxart/original/front/18953-1.jpg</thumb></Game>
+<Game>
+<id>18954</id>
+<GameTitle>Chibi Maruko-chan Deluxe Quiz</GameTitle>
+<ReleaseDate>11/27/1995</ReleaseDate>
+<thumb>boxart/original/front/18954-1.jpg</thumb></Game>
+<Game>
+<id>18955</id>
+<GameTitle>Mahjong Kyōretsuden</GameTitle>
+<ReleaseDate>04/26/1990</ReleaseDate>
+<thumb>boxart/original/front/18955-1.jpg</thumb></Game>
+<Game>
+<id>18956</id>
+<GameTitle>Minnasan no Okagesama Desu! Dai Sugoroku Taikai</GameTitle>
+<ReleaseDate>07/25/1990</ReleaseDate>
+<thumb>boxart/original/front/18956-1.jpg</thumb></Game>
+<Game>
+<id>18957</id>
+<GameTitle>Quiz Daisōsa Sen: The Last Count Down</GameTitle>
+<ReleaseDate>08/30/1991</ReleaseDate>
+<thumb>boxart/original/front/18957-1.jpg</thumb></Game>
+<Game>
+<id>18958</id>
+<GameTitle>Quiz Meitantei Neo &amp; Geo: Quiz Daisōsasen Part 2</GameTitle>
+<ReleaseDate>04/24/1992</ReleaseDate>
+<thumb>boxart/original/front/18958-1.jpg</thumb></Game>
+<Game>
+<id>18959</id>
+<GameTitle>Quiz King of Fighters</GameTitle>
+<ReleaseDate>02/01/1995</ReleaseDate>
+<thumb>boxart/original/front/18959-1.jpg</thumb></Game>
+<Game>
+<id>18960</id>
+<GameTitle>Shōgi no Tatsujin: Master of Syougi</GameTitle>
+<ReleaseDate>09/28/1995</ReleaseDate>
+<thumb>boxart/original/front/18960-1.jpg</thumb></Game>
+<Game>
+<id>18961</id>
+<GameTitle>The Irritating Maze</GameTitle>
+<ReleaseDate>08/25/1997</ReleaseDate>
+<thumb>boxart/original/front/18961-1.jpg</thumb></Game>
+<Game>
+<id>19594</id>
+<GameTitle>Shock Troopers: 1st Squad</GameTitle>
+<ReleaseDate>01/01/1997</ReleaseDate>
+<thumb>boxart/original/front/19594-1.jpg</thumb></Game>
+<Game>
+<id>20885</id>
+<GameTitle>Jockey Grand Prix</GameTitle>
+<ReleaseDate>01/01/2014</ReleaseDate>
+<thumb>boxart/original/front/20885-1.jpg</thumb></Game>
+<Game>
+<id>22698</id>
+<GameTitle>Cadillacs and Dinosaurs</GameTitle>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<thumb>boxart/original/front/22698-1.jpg</thumb></Game>
+<Game>
+<id>24146</id>
+<GameTitle>Crossed Swords 2</GameTitle>
+<ReleaseDate>05/02/1995</ReleaseDate>
+<thumb>boxart/original/front/24146-1.jpg</thumb></Game>
+<Game>
+<id>24147</id>
+<GameTitle>Futsal: 5 on 5 Mini Soccer</GameTitle>
+<ReleaseDate>07/19/1996</ReleaseDate>
+<thumb>boxart/original/front/24147-1.jpg</thumb></Game>
+<Game>
+<id>24148</id>
+<GameTitle>Neo DriftOut</GameTitle>
+<ReleaseDate>07/26/1996</ReleaseDate>
+<thumb>boxart/original/front/24148-1.jpg</thumb></Game>
+<Game>
+<id>24149</id>
+<GameTitle>Shinsetsu Samurai Spirits: Bushido Retsuden</GameTitle>
+<ReleaseDate>06/27/1997</ReleaseDate>
+<thumb>boxart/original/front/24149-1.jpg</thumb></Game>
+<Game>
+<id>24380</id>
+<GameTitle>Mega Pack Volume 1</GameTitle>
+<ReleaseDate>06/25/2013</ReleaseDate>
+<thumb>boxart/original/front/24380-1.png</thumb></Game>
+<Game>
+<id>24619</id>
+<GameTitle>Jyanshin Densetsu - Quest of Jongmaster</GameTitle>
+<ReleaseDate>06/29/1994</ReleaseDate>
+<thumb>boxart/original/front/24619-1.png</thumb></Game>
+<Game>
+<id>24620</id>
+<GameTitle>Minnasanno Okagesamadesu! Daisugorokutaikai</GameTitle>
+<ReleaseDate>07/01/1991</ReleaseDate>
+<thumb>boxart/original/front/24620-1.jpg</thumb></Game>
+<Game>
+<id>25536</id>
+<GameTitle>Spin Master</GameTitle>
+<ReleaseDate>02/18/1994</ReleaseDate>
+<thumb>boxart/original/front/25536-1.jpg</thumb></Game>
+<Game>
+<id>28905</id>
+<GameTitle>Codename Blut Engel</GameTitle>
+</Game>
+<Game>
+<id>29406</id>
+<GameTitle>Zintrick /  Oshidashi Zentrix</GameTitle>
+<ReleaseDate>03/23/1996</ReleaseDate>
+<thumb>boxart/original/front/29406-1.jpg</thumb></Game>
+<Game>
+<id>29500</id>
+<GameTitle>Metal Slug 6</GameTitle>
+<ReleaseDate>02/24/2006</ReleaseDate>
+<thumb>boxart/original/front/29500-1.jpg</thumb></Game>
+<Game>
+<id>29501</id>
+<GameTitle>Choutetsu Brikin'Ger</GameTitle>
+<ReleaseDate>03/12/2010</ReleaseDate>
+<thumb>boxart/original/front/29501-1.png</thumb></Game>
+<Game>
+<id>29502</id>
+<GameTitle>King Of Gladiator</GameTitle>
+<thumb>boxart/original/front/29502-1.jpg</thumb></Game>
+<Game>
+<id>29503</id>
+<GameTitle>The King Of Foghters Special Edition 2004</GameTitle>
+<thumb>boxart/original/front/29503-1.jpg</thumb></Game>
+<Game>
+<id>30965</id>
+<GameTitle>2020SuperBaseball</GameTitle>
+</Game>
+<Game>
+<id>30966</id>
+<GameTitle>Bakatonosmahjong</GameTitle>
+</Game>
+<Game>
+<id>31574</id>
+<GameTitle>Art of Fighting 3</GameTitle>
+<ReleaseDate>04/26/1996</ReleaseDate>
+<thumb>boxart/original/front/31574-1.png</thumb></Game>
+<Game>
+<id>31598</id>
+<GameTitle>Digger Man</GameTitle>
+<thumb>boxart/original/front/31598-1.png</thumb></Game>
+</Data>

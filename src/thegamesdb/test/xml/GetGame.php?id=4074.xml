@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4074</id>
+<GameTitle>Mission-X</GameTitle>
+<PlatformId>32</PlatformId>
+<Platform>Intellivision</Platform>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<Overview>Mission X is a vertically scrolling shooter played from a top down point of view.You are pilot of a World War II plane on a mission to destroy as many enemy targets as possible. Your missions will be flown over land and sea, and can take place during the day or at night. Try to earn as many points as you can by dropping bombs on the land targets which include bridges, tanks, trains, boats, and more. The enemy will be trying their best to stop you, and will send out large numbers of tanks, anti-aircraft missiles, and planes to try to destroy you!</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Mattel</Publisher>
+<Developer>Data East Corporation</Developer>
+<Images>
+<boxart side="back" width="1527" height="2100" thumb="boxart/thumb/original/back/4074-1.jpg">boxart/original/back/4074-1.jpg</boxart>
+<boxart side="front" width="1530" height="2100" thumb="boxart/thumb/original/front/4074-1.jpg">boxart/original/front/4074-1.jpg</boxart>
+<clearlogo width="400" height="106">clearlogo/4074.png</clearlogo></Images>
+</Game>
+</Data>

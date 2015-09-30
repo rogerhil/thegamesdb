@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30485</id>
+<GameTitle>Mushroom Men: Rise of the Fungi</GameTitle>
+<PlatformId>8</PlatformId>
+<Platform>Nintendo DS</Platform>
+<ReleaseDate>12/02/2008</ReleaseDate>
+<Overview>After a comet had passed the earth, all the planet's researchers concluded its strange green dust had no effect on the world. None noticed that tiny plants and fungi were acting strangely. Mushrooms, cacti, kudzu and other formerly-normal plants had awoken to full consciousness. Tribes quickly formed among the various mushroom species: the primitive Boletes, the aggressive Amanitas, and the inventive Morels. With nations formed, war inevitably followed.
+
+Mushroom Men shows gamers the mundane world from the surreal perspective of a three-inch-high Mushroom Man. Unnoticed by humans, a war rages between the spore factions. As a brave Bolete Mushroom Man, players are given the opportunity to wreak havoc by transforming common household trinkets and trash into weapons and tools.</Overview>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=af20EkYv6X0</Youtube>
+<Publisher>Gamecock</Publisher>
+<Developer>Red Fly Studio</Developer>
+<Images>
+<boxart side="front" width="375" height="373" thumb="boxart/thumb/original/front/30485-1.jpg">boxart/original/front/30485-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

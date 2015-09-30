@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26682</id>
+<GameTitle>X-Men Vs. Street Fighter</GameTitle>
+<PlatformId>6</PlatformId>
+<Platform>Super Nintendo (SNES)</Platform>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<Overview>X-Men VS Street Fighter is an unlicensed one-on-one fighting game for the SNES programmed by an unknown company. Although it uses the name of the arcade title, it does not have a tag feature and has some characters that were not used in the original game (most notably Ice Man and Psylocke from X-Men: Children of the Atom.)</Overview>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>DVS Electronic</Publisher>
+<Similar><SimilarCount>3</SimilarCount><Game><id>7867</id><PlatformId>23</PlatformId></Game><Game><id>30470</id><PlatformId>17</PlatformId></Game><Game><id>628</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1000" height="731" thumb="boxart/thumb/original/front/26682-1.jpg">boxart/original/front/26682-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

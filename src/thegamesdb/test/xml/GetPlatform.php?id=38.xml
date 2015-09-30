@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>38</id>
+	<Platform>Nintendo Wii U</Platform>
+	<overview>The Wii U is Nintendo&amp;#039;s sixth home console and the first Nintendo console to produce 1080p high-definition graphics, and features a new controller with an embedded touchscreen. The controller allows a player to continue playing certain games by displaying the game even when the television is off. The system will be backwards compatible with Wii, and Wii U games can support compatibility with Wii peripherals, such as the Wii Remote Plus, Nunchuck, and Classic Controller Pro. It will not be backwards compatible with Nintendo GameCube media or peripherals.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Foxconn</manufacturer>
+	<cpu>IBM Power7</cpu>
+	<graphics>AMD Radeon HD GPU</graphics>
+	<sound>Six-channel PCM linear output through HDMI</sound>
+	<Rating>5</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/38-1.jpg</original>
+			<thumb>platform/fanart/thumb/38-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1280" height="720">platform/fanart/38-2.jpg</original>
+			<thumb>platform/fanart/thumb/38-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/38-3.jpg</original>
+			<thumb>platform/fanart/thumb/38-3.jpg</thumb>
+		</fanart>
+		<banner width="760" height="140">platform/banners/38-1.jpg</banner>	</Images>
+</Platform>
+</Data>

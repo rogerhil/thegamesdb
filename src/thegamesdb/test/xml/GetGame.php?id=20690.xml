@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20690</id>
+<GameTitle>X-Out</GameTitle>
+<PlatformId>4911</PlatformId>
+<Platform>Amiga</Platform>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Overview>X-Out is a horizontally scrolling shoot-em-up with eight levels and an underwater setting.
+
+Between levels, the player visits a shop and use their game score to purchase new submarines and equipment. The submarines come in four different variants, and additional purchases act as additional "lives". Each can be equipped with a one-way, two-way or three-way fire weapon of increasing power (and thus cost). Secondary weapons include sonic waves, powershots and target-seeking missiles. The player can also purchase auxiliary satellites and specify their movement pattern, which can be circular orbits, vertical and horizontal movements, or an intercepting action.
+
+The ZX Spectrum version achieved good critical success. Your Sinclair awarded 84%, highlighting the comprehensive shop sequence and large, well-animated enemies. Criticisms included the monochrome graphics which were said to be a little confusing, and the lack of a sense of danger.[1]
+
+During the time of release, there was some debate as to whether the game was actually pronounced "cross out" or "X out" ("ex out").[1] However the cassette version of the Commodore 64 release displays "Loading Crossout" at the beginning of the loading process. Also, in the Amiga version (as well in the C64 version), the synthesized voice in the intro says "Get ready for Crossout". The sequel Z-Out abandons this pronunciation pattern.</Overview>
+<Genres><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Rainbow Arts</Publisher>
+<Developer>Unknown</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>25529</id><PlatformId>40</PlatformId></Game></Similar><Images>
+<boxart side="back" width="320" height="393" thumb="boxart/thumb/original/back/20690-1.jpg">boxart/original/back/20690-1.jpg</boxart>
+<boxart side="front" width="320" height="389" thumb="boxart/thumb/original/front/20690-1.jpg">boxart/original/front/20690-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

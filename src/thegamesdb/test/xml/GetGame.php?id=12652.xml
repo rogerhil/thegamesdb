@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12652</id>
+<GameTitle>Dragon Age: Origins - Ultimate Edition</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>10/25/2010</ReleaseDate>
+<Overview>Dragon Age Origins: You are a Grey Warden, one of the last of this legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Electronic Arts</Publisher>
+<Developer>BioWare</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>12651</id><PlatformId>15</PlatformId></Game><Game><id>12653</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="735" thumb="boxart/thumb/original/front/12652-1.jpg">boxart/original/front/12652-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

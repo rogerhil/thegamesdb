@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>699</id>
+<GameTitle>Spider-Man &amp; X-Men: Arcade's Revenge</GameTitle>
+<PlatformId>18</PlatformId>
+<Platform>Sega Genesis</Platform>
+<ReleaseDate>08/19/1993</ReleaseDate>
+<Overview>In the first level, the player controls Spider-Man who must use his spider sense to disarm several bombs located throughout the immediate exterior and maze-like entrance to an abandoned building. After the player completes this level Spider-Man learns that the evil Arcade has kidnapped Storm, Cyclops, Wolverine, and Gambit. The player must successfully complete each character's level (each set in Arcade's deadly "Murderworld") in order to get to control Spider-Man in a final battle with Arcade.
+
+After completing each stage, the player controls each hero as they fight in similar-designed mini-levels themed after the "Behind-the-Scenes" of Murderworld. The only character to have a significant change is Storm, who now walks, shoots multiple bolts of lightning rapidly and calls upon gusts of wind, and jumps about four times the height of the other characters. The last level takes place inside a large room, where Arcade chases Spider-Man back and forth in a large Arcade-shaped robot, which operates like a Matryoshka Doll, until Arcade is finally defeated. The X-Men stand-by at the edges of the room, occasionally attacking on their own.</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>LJN</Publisher>
+<Developer>Software Creations</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>5871</id><PlatformId>6</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/699-1.jpg</original>
+<thumb>fanart/thumb/699-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="915" height="1275" thumb="boxart/thumb/original/back/699-1.jpg">boxart/original/back/699-1.jpg</boxart>
+<boxart side="front" width="917" height="1275" thumb="boxart/thumb/original/front/699-1.jpg">boxart/original/front/699-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

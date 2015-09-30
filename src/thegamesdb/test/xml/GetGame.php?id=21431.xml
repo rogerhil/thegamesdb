@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21431</id>
+<GameTitle>White Knight Chronicles: Origins</GameTitle>
+<AlternateTitles><title>Shirokishi Monogatari Episode Portable: Dogma Wars</title></AlternateTitles><PlatformId>13</PlatformId>
+<Platform>Sony PSP</Platform>
+<ReleaseDate>06/10/2011</ReleaseDate>
+<Overview>10,000 years before the original PS3 game takes place, there was a period of strife known as the Dogma Wars. This struggle is between the Yshrenian Empire who are harnessing the power of the Knights in a bid to conquer the world, and the Athwani Mage Kingdom who are trying to stop them. These events would shape history to come in the White Knight Chronicles saga, and White Knight Chronicles: Origins tells the story of the unsung heroes who lived through this period of unrest, only to be forgotten in the annals of time.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>SCE Japan Studio</Developer>
+<Images>
+<boxart side="front" width="250" height="430" thumb="boxart/thumb/original/front/21431-1.jpg">boxart/original/front/21431-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

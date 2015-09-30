@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12715</id>
+<GameTitle>Rayman Origins</GameTitle>
+<PlatformId>4912</PlatformId>
+<Platform>Nintendo 3DS</Platform>
+<ReleaseDate>11/06/2012</ReleaseDate>
+<Overview>Rayman Origins is a comic adventure set in a lush 2D world brimming with unexpected secrets and outlandish enemies. The Glade of Dreams is overrun by the "nefurrious" Darktoons. The Fairy Council seeks Rayman's help to save the day. Rayman receives the aid of his best friend Globox as well as two crafty wizards, the Teensies. Together the world's most hilarious team of heroes sets out to restore peace to the Glade before their beloved home is destroyed. Rayman Origins supports four-player jump-in-and-jump-out co-op gameplay. The game offers a massive universe to explore, with more than 100 characters, 12 unique worlds, and more than 60 levels of platforming gameplay designed for all ages and play styles. Unlock new abilities and moves as you progress through the game. All members of your team will discover new unique abilities, including swimming, diving, slapping, and the sensational "HarilyCopter."</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft</Developer>
+<Rating>4.5</Rating><Similar><SimilarCount>5</SimilarCount><Game><id>8886</id><PlatformId>15</PlatformId></Game><Game><id>8300</id><PlatformId>9</PlatformId></Game><Game><id>9459</id><PlatformId>1</PlatformId></Game><Game><id>10866</id><PlatformId>12</PlatformId></Game><Game><id>9240</id><PlatformId>39</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12715-1.jpg</original>
+<thumb>fanart/thumb/12715-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12715-2.jpg</original>
+<thumb>fanart/thumb/12715-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="573" thumb="boxart/thumb/original/front/12715-1.jpg">boxart/original/front/12715-1.jpg</boxart>
+<clearlogo width="400" height="213">clearlogo/12715.png</clearlogo></Images>
+</Game>
+</Data>

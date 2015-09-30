@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4765</id>
+<GameTitle>X-Men: Next Dimension</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>10/15/2002</ReleaseDate>
+<Overview>The control system of the game is heavily influenced by other popular fighting titles, such as Street Fighter, Dead or Alive, or Darkstalkers. The gameplay mechanics are tailored to a very gradual learning curve: super attacks are performed by pressing two punch or kick buttons simultaneously, and multi-hit combos can be executed by pressing the punch and kick buttons in a particular order (a feature similar to Darkstalkers' chain combos). The game features an extensive combo system, including normal chains, air juggles, and air launchers. In addition to the basic blocking system, players have various counter attacks available to them that can be executed by simply pressing the counterattack button and a direction on the controller. The counter-attacks are specific to the type of attack the player is countering.
+
+The fighting stages are fully 3-D rendered stages with their own layouts. As in Dead or Alive it is possible to knock an opponent to a different part of the stage, which functions as its own individual stage. In the X-Mansion, for example, an opponent can be knocked from the Hangar to the Hallway, then to the outer courtyard where, after the 2nd round, the basketball court opens up, allowing a player to be knocked back into the Hangar.
+
+While in Story Mode, only a limited set of characters are available for each battle; Arcade Mode allows you to select from any of the playable characters in a series of eight battles. The Two-Player Versus Mode also allows players to choose from any of the unlocked characters. The game also features a Survival Mode, in which a single player is pitted against a never-ending flow of computer-controlled opponents in a test of endurance.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Paradox</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>11467</id><PlatformId>2</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/4765-1.jpg</original>
+<thumb>fanart/thumb/4765-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1494" height="2128" thumb="boxart/thumb/original/back/4765-1.jpg">boxart/original/back/4765-1.jpg</boxart>
+<boxart side="front" width="1516" height="2128" thumb="boxart/thumb/original/front/4765-1.jpg">boxart/original/front/4765-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11634</id>
+<GameTitle>X-Men: Children Of The Atom</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>02/02/1998</ReleaseDate>
+<Overview>It's here! Ultimate combat! Mutant Mayhem! X-Power! Special Moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played it in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat!
+Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, Cool enough to join the new breed of mutant heroes? X-Men: Children of the Atom -- the fighting game to end them all!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Fighting</genre></Genres><Co-op>No</Co-op>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>2468</id><PlatformId>23</PlatformId></Game><Game><id>11337</id><PlatformId>17</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1761" height="1560" thumb="boxart/thumb/original/back/11634-1.jpg">boxart/original/back/11634-1.jpg</boxart>
+<boxart side="front" width="1738" height="1560" thumb="boxart/thumb/original/front/11634-1.jpg">boxart/original/front/11634-1.jpg</boxart>
+<clearlogo width="400" height="138">clearlogo/11634.png</clearlogo></Images>
+</Game>
+</Data>

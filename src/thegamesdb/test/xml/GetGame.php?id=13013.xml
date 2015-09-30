@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13013</id>
+<GameTitle>Midway Arcade Origins</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>11/13/2012</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Fighting</genre><genre>Platform</genre><genre>Puzzle</genre><genre>Racing</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=dRJCRgrBr8c</Youtube>
+<Publisher>Warner Bros. Interactive</Publisher>
+<Developer>Backbone Entertainment</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>11826</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1065" height="1496" thumb="boxart/thumb/original/front/13013-1.jpg">boxart/original/front/13013-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>29930</id>
+<GameTitle>Magic Duels: Origins</GameTitle>
+<PlatformId>4920</PlatformId>
+<Platform>Microsoft Xbox One</Platform>
+<Genres><genre>Puzzle</genre></Genres><Co-op>No</Co-op>
+<Developer>Wizards of the Coast</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>29929</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="620" height="315" thumb="boxart/thumb/original/front/29930-1.jpg">boxart/original/front/29930-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

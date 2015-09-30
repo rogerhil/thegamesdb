@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>665</id>
+<GameTitle>X-Men</GameTitle>
+<PlatformId>18</PlatformId>
+<Platform>Sega Genesis</Platform>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<Overview>The game takes place in the Danger Room, a training area for the X-Men inside the X-Mansion. A virus transmitted via satellite has infected the Danger Room, disabling control and safety limits. The X-Men must endure the unpredictable behavior of the Danger Room until the virus can be located and eliminated. Once the virus is eliminated, the X-Men discover that Magneto is behind the computer virus and the final stage involves a battle with him.
+Gambit, Nightcrawler, Wolverine, and Cyclops are available to play. Each character can jump and use various unlimited weapons (i.e. punch, kick) and a superpower which had a usefulness limited by a mutant power bar similar to a life meter, making the player rely more on standard attacks. The mutant power bar would slowly regenerate when depleted and when switching characters in mid-game, would revert to the status of the next characters mutant power bar from the last use (characters yet to be used would start off with a standard full bar of mutant power).</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Western Technologies Inc</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>10681</id><PlatformId>23</PlatformId></Game><Game><id>20520</id><PlatformId>33</PlatformId></Game><Game><id>14795</id><PlatformId>20</PlatformId></Game><Game><id>8104</id><PlatformId>36</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/665-1.jpg</original>
+<thumb>fanart/thumb/665-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/665-2.jpg</original>
+<thumb>fanart/thumb/665-2.jpg</thumb>
+</fanart>
+<boxart side="back" width="1502" height="2100" thumb="boxart/thumb/original/back/665-1.jpg">boxart/original/back/665-1.jpg</boxart>
+<boxart side="front" width="1527" height="2100" thumb="boxart/thumb/original/front/665-2.jpg">boxart/original/front/665-2.jpg</boxart>
+<banner width="760" height="140">graphical/665-g.jpg</banner><banner width="760" height="140">graphical/665-g2.jpg</banner><clearlogo width="400" height="207">clearlogo/665.png</clearlogo></Images>
+</Game>
+</Data>

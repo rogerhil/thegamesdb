@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25532</id>
+<GameTitle>Dragon Age: Origins - Awakening</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>03/16/2010</ReleaseDate>
+<Overview>Set six months after the events of Dragon Age: Origins in the land of Amaranthine, Dragon Age: Origins - Awakening places the player in the role of a Grey Warden trying to rebuild the order while also dealing with political matters as the Arl of Amaranthine.
+
+Named the Warden Commander, the player travels to Vigil's Keep to assume command of the Grey Wardens there. However, the keep is discovered to have been assaulted by Darkspawn, and something amiss is noticed as such an organized attack would have taken an intelligent leader to direct, something thought impossible without the presence of an Archdemon. The player is able to clear the keep with the aid of Mhairi, an able female warrior, and two others: Anders, an apostate mage who seeks refuge away from the Tower of Magi, and Oghren. A new, talking Darkspawn, a Disciple, is discovered to have been the leader of the enemy forces and is defeated. With the keep secured, the player then sets forth on a journey to help garner support for the Grey Wardens and new recruits to join the order's ranks while also looking for clues as to solve the mystery of the intelligent Darkspawn.
+
+Throughout the game, the player journeys to several locations and recruits party members who may undergo the Joining ritual to become Grey Wardens. Along his or her travels, the player meets the "Architect", a strange figure whose intentions remain unclear until the end of the game, and learns about the "Mother", who is a sentient broodmother.
+
+After recruiting all available party members, the player learns of an oncoming war, as Darkspawn advance towards the city of Amaranthine. The player travels to the city with a small band of allies, but soon learns of another Darkspawn force that is headed for Vigil's Keep. Depending on his or her decisions, the player may either order Amaranthine to be burned down after deeming it too late to be saved, causing all the Darkspawn and civilians inside to die, and head back to the Keep, or stay and fight to rid Amaranthine of Darkspawn forces, thus forcing Vigil's Keep to be on its own against the Darkspawn attack there.
+
+Regardless of his or her choice, the player aids in the destruction of the enemy forces and then travels to Drake's Fall, where the "Mother" is presumed to be residing. The player meets the "Architect" once again, and learns of his intention to free the Darkspawn from the impulse to commence a Blight and annihilate the corrupted "Mother." The player may either ally with the "Architect" or kill him. He or she then locates the "Mother", where he or she learns of the ongoing antagonism between the "Architect" and the "Mother" and finds out that the "Architect" had been the one who had awakened the archdemon from the main game after a failed experiment. Ultimately, the player kills the "Mother", and the ending may vary depending on the actions and decisions of the player during the course of the game, and some or none of the party members may perish.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>EA Games</Publisher>
+<Developer>BioWare</Developer>
+<Rating>6</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>12608</id><PlatformId>15</PlatformId></Game><Game><id>12609</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="300" height="431" thumb="boxart/thumb/original/front/25532-1.jpg">boxart/original/front/25532-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

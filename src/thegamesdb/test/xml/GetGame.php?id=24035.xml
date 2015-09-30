@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24035</id>
+<GameTitle>X-Men 2: Clone Wars</GameTitle>
+<PlatformId>36</PlatformId>
+<Platform>Sega Mega Drive</Platform>
+<Genres><genre>Platform</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Headgames</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>972</id><PlatformId>18</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="868" thumb="boxart/thumb/original/front/24035-1.jpg">boxart/original/front/24035-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

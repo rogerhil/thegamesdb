@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3989</id>
+<GameTitle>White Men Can't Jump</GameTitle>
+<PlatformId>28</PlatformId>
+<Platform>Atari Jaguar</Platform>
+<ReleaseDate>06/01/1995</ReleaseDate>
+<Overview>Are you ready for the most hyped up, monster jammin', bruisin' elbows, rebound snatchin', rim stuffin', skying over suckers, down your throat, money making game of street ball you never thought possible? Well, here it is, in your face, and it's time to get it on! Hit the courts with White Men Can't Jump!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Atari</Publisher>
+<Developer>High Voltage Software</Developer>
+<Images>
+<boxart side="back" width="1524" height="2100" thumb="boxart/thumb/original/back/3989-1.jpg">boxart/original/back/3989-1.jpg</boxart>
+<boxart side="front" width="1521" height="2100" thumb="boxart/thumb/original/front/3989-1.jpg">boxart/original/front/3989-1.jpg</boxart>
+<banner width="760" height="140">graphical/3989-g.jpg</banner></Images>
+</Game>
+</Data>

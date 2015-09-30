@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4921</id>
+	<Platform>Ouya</Platform>
+	<overview>The Ouya is a microconsole running its own version of the Android operating system, developed by Boxer8. Julie Uhrman founded the project in 2012. She brought in designer Yves Béhar to collaborate on the design of the project, and Muffi Ghadiali as product manager to put together the engineering team. Development was funded via Kickstarter, raising $8.5 million and becoming the website&amp;#039;s second-highest-earning project in its history.
+
+Units started to ship to Kickstarter backers on March 28, 2013. The console was released to the general public on June 25, 2013, and features an exclusive Ouya store for applications and games designed specifically for the Ouya platform, of which the majority are casual games targeted at or used by a mass audience of casual gamers. Out of the box, Ouya supports media apps such as TwitchTV and XBMC media player. It runs a modified version of Android 4.1 Jelly Bean, and is open to rooting without voiding the warranty (developer models ordered during the Kickstarter campaign for $699 or $1,337 come pre-rooted). The console&amp;#039;s hardware design allows it to be easily opened up, requiring only a standard screwdriver for easy modding and possible hardware addons.
+
+All systems can be used as development kits, allowing any Ouya owner and gamer to also be a developer, without the need for licensing fees. All games are required to have some kind of free-to-play aspect, whether that be completely free, has a free trial, or has purchasable upgrades, levels, or other in-game items. The Ouya is classified as part of the eighth generation of video game consoles and as such is a rival competing against the PlayStation 4, Xbox One, and Wii U.</overview>
+	<developer>Ouya, Inc.</developer>
+	<manufacturer>Ouya, Inc.</manufacturer>
+	<cpu>Quad-core 1.7 GHz ARM Cortex-A9 MPCore</cpu>
+	<memory>1 GiB DDR3-1600 SDRAM</memory>
+	<graphics>Nvidia GeForce ULP @ 520 MHz (12.48 GFLOPS)</graphics>
+	<sound>HDMI (ARC), 5.1 or 2.0 channel</sound>
+	<display>HDMI 1.4; 1080p or 720p resolution. Stereoscopic 3D support.</display>
+	<media>8 GB eMMC flash memory</media>
+	<maxcontrollers>4</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=https://lc_SJ5de1zs</Youtube>
+	<Rating>5.5</Rating>
+	<Images>
+	</Images>
+</Platform>
+</Data>

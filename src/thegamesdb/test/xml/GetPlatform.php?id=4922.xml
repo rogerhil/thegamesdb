@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4922</id>
+	<Platform>Neo Geo Pocket</Platform>
+	<console>http://www.youtube.com/watch?v=4922.png</console>
+	<overview>The Neo Geo Pocket is a monochrome handheld video game console released by SNK. It was the company&amp;#039;s first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998, however never saw a western release, being exclusive to Japan and smaller Asian markets such as Hong Kong.</overview>
+	<developer>SNK</developer>
+	<manufacturer>SNK</manufacturer>
+	<cpu>Toshiba TLCS900H</cpu>
+	<memory>4 bit internal memory</memory>
+	<sound>Z80 8 bit</sound>
+	<display>Virtual screen 256×256 - 16 palettes/plane, 64 sprites/frame</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>7</Rating>
+	<Images>
+		<consoleart>platform/consoleart/4922.png</consoleart>
+		<controllerart>platform/controllerart/4922.png</controllerart>
+	</Images>
+</Platform>
+</Data>

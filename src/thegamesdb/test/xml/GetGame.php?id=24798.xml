@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24798</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Overview>Master the power of the X-Men--Obliterate enemies and objects as Wolverine, using your lethal adamantium claws and crushing brute force. As Nightcrawler, scale walls, swing from rafters and teleport through environments to surprise enemies. Shoot ice bursts and create hailstorms as lightning-fast Iceman. For even more power, utilize fury and adrenaline modes. Become a part of the X-Men movie universe--Embark on a globe-spanning conflict featuring every element of the X-Men universe--from favorite villains to famous locations such as Alkali Lake, plus the voices and likenesses of key actors from the films. Battle fierce enemies, join forces with comrades--Face off against movie villains such as Pyro, Magneto and Sabretooth, plus added foes like legions of Sentinels. Storm, Colossus and Cyclops join forces with you in gameplay that includes melee fighting, stealth-style action and time-based missions.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre><genre>Shooter</genre><genre>Stealth</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Z-Axis, Ltd</Developer>
+<Rating>5.5</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>4034</id><PlatformId>5</PlatformId></Game><Game><id>30940</id><PlatformId>2</PlatformId></Game><Game><id>5374</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="909" thumb="boxart/thumb/original/front/24798-1.jpg">boxart/original/front/24798-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

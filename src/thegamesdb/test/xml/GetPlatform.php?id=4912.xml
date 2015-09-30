@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4912</id>
+	<Platform>Nintendo 3DS</Platform>
+	<overview>The autostereoscopic device is able to project stereoscopic 3D effects without the use of 3D glasses or any additional accessories. The Nintendo 3DS features backward compatibility with Nintendo DS series software, including Nintendo DSi software. Announcing the device in March 2010, Nintendo officially unveiled it at E3 2010, with the company inviting attendees to use demonstration units. The console succeeds the Nintendo DS series of handheld systems and competes with Sony PlayStation Vita handheld console.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+	<cpu>Nintendo ARM</cpu>
+	<memory>128 MB FCRAM</memory>
+	<graphics>PICA200 by Digital Media Professionals</graphics>
+	<display>800 × 240 px (effectively 400 × 240 WQVGA per eye)</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>7.5</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4912-1.jpg</original>
+			<thumb>platform/fanart/thumb/4912-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4912-2.jpg</original>
+			<thumb>platform/fanart/thumb/4912-2.jpg</thumb>
+		</fanart>
+	</Images>
+</Platform>
+</Data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>5562</id>
+<GameTitle>Maken X</GameTitle>
+<PlatformId>16</PlatformId>
+<Platform>Sega Dreamcast</Platform>
+<ReleaseDate>10/31/1999</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="back" width="1737" height="1560" thumb="boxart/thumb/original/back/5562-1.jpg">boxart/original/back/5562-1.jpg</boxart>
+<boxart side="front" width="1728" height="1560" thumb="boxart/thumb/original/front/5562-1.jpg">boxart/original/front/5562-1.jpg</boxart>
+<banner width="760" height="140">graphical/5562-g.jpg</banner></Images>
+</Game>
+</Data>

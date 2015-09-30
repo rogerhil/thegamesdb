@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4925</id>
+	<Platform>WonderSwan</Platform>
+	<overview>The WonderSwan was a line of handheld game consoles produced in Japan by Bandai. It was developed by Gunpei Yokoi&amp;#039;s company Koto and Bandai. The WonderSwan was made to compete with the Neo Geo Pocket Color and the market leader Nintendo&amp;#039;s Game Boy Color (even though the developer for the WonderSwan, Gunpei Yokoi, developed the original Nintendo Game Boy).
+
+The original WonderSwan was later replaced by the WonderSwan Color; although some WonderSwan Color games are compatible with the original WonderSwan, many are designed exclusively for the WonderSwan Color and show a message such as &amp;quot;This cartridge is for WonderSwan Color only&amp;quot; when run on the original WonderSwan.
+
+The WonderSwan is playable both vertically and horizontally, and feature a fairly large library of games, including numerous first-party titles based on licensed anime properties, with significant third-party support from Square and Capcom. As it was a console designed essentially for the Japanese market, most of the games are in Japanese, with only a few featuring English text.</overview>
+	<developer>Bandai</developer>
+	<manufacturer>Bandai</manufacturer>
+	<cpu>16-bit NEC V30 MZ processor at 3.072 MHz</cpu>
+	<memory>Built-in EEPROM and 1Kbit RAM for backing up game data</memory>
+	<sound>Four digital audio channels, each of which can play sequences of up to 32 4-bit samples, at different volumes and frequencies.</sound>
+	<display>224 x 144</display>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>5</Rating>
+	<Images>
+	</Images>
+</Platform>
+</Data>

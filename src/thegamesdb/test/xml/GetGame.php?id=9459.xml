@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>9459</id>
+<GameTitle>Rayman Origins</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>03/29/2012</ReleaseDate>
+<Overview>Michel Ancel, celebrated creator of Rayman®, Beyond Good &amp; Evil®, and the Raving Rabbids®, returns to his roots to bring us Rayman® Origins: a high-definition, 2D side-scrolling, platforming adventure with full four-player co-op!
+
+Play Rayman Origins and discover or rediscover the magical universe and legendary 2D gameplay that captured the hearts of millions of fans...
+
+When the Glade of Dreams is overrun by “nefurrious” Darktoons, the Fairy Council hastily invokes Rayman to save the day; but the hero of light isn’t quite all there…To help him, Rayman teams up with his best friend, Globox, and two crafty wizards, the Teensies. Together, the world’s most hilarious team of heroes will need to restore peace to the Glade, or watch as their beloved home vanishes like a bad dream...</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=l_fz4m74nJw</Youtube>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft Montpellier</Developer>
+<Rating>5.6667</Rating><Similar><SimilarCount>5</SimilarCount><Game><id>8886</id><PlatformId>15</PlatformId></Game><Game><id>12715</id><PlatformId>4912</PlatformId></Game><Game><id>8300</id><PlatformId>9</PlatformId></Game><Game><id>10866</id><PlatformId>12</PlatformId></Game><Game><id>9240</id><PlatformId>39</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/9459-1.jpg</original>
+<thumb>fanart/thumb/9459-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/9459-2.jpg</original>
+<thumb>fanart/thumb/9459-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/9459-3.jpg</original>
+<thumb>fanart/thumb/9459-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/9459-4.jpg</original>
+<thumb>fanart/thumb/9459-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/9459-5.jpg</original>
+<thumb>fanart/thumb/9459-5.jpg</thumb>
+</fanart>
+<boxart side="front" width="500" height="700" thumb="boxart/thumb/original/front/9459-1.jpg">boxart/original/front/9459-1.jpg</boxart>
+<screenshot>
+<original width="1280" height="720">screenshots/9459-1.jpg</original>
+<thumb>screenshots/thumb/9459-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/9459-2.jpg</original>
+<thumb>screenshots/thumb/9459-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="800">screenshots/9459-3.jpg</original>
+<thumb>screenshots/thumb/9459-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="800">screenshots/9459-4.jpg</original>
+<thumb>screenshots/thumb/9459-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="719">screenshots/9459-5.jpg</original>
+<thumb>screenshots/thumb/9459-5.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

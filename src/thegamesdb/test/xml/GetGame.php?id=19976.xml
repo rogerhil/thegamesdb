@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19976</id>
+<GameTitle>Batman: Arkham Origins Blackgate Deluxe Edition</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>04/01/2014</ReleaseDate>
+<Overview>Batman: Arkham Origins Blackgate is a 2013 2.5D video game developed by Armature Studio and released by Warner Bros. Interactive Entertainment for the Nintendo 3DS and PlayStation Vita handheld game consoles. Based on the DC Comics superhero Batman, it is a companion to the 2013 video game Batman: Arkham Origins, and is a part of the Batman: Arkham series. It was released worldwide on October 25, 2013,[3] with the Nintendo 3DS version releasing in Europe on November 8, 2013.[4] The game was released in Japan on December 5, 2013, same date as Arkham Origins for home consoles, exclusively for the PlayStation Vita.[5]
+ A Deluxe Edition was announced and is to be released for the Wii U eShop, PlayStation Network, Microsoft Windows and Xbox Live Arcade on April 1, 2014 in North America and April 2, 2014 in Europe.[6] It will feature new maps, enemy encounters, difficulty levels, batsuits, and enhanced visuals from the original.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=o9wzMkU9Guw</Youtube>
+<Publisher>Wa</Publisher>
+<Developer>Armature Studios</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>19975</id><PlatformId>1</PlatformId></Game><Game><id>19973</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/19976-1.jpg</original>
+<thumb>fanart/thumb/19976-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/19976-2.jpg</original>
+<thumb>fanart/thumb/19976-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/19976-3.jpg</original>
+<thumb>fanart/thumb/19976-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/19976-4.jpg</original>
+<thumb>fanart/thumb/19976-4.jpg</thumb>
+</fanart>
+<boxart side="front" width="930" height="1089" thumb="boxart/thumb/original/front/19976-1.jpg">boxart/original/front/19976-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

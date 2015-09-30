@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>8</id>
+	<Platform>Nintendo DS</Platform>
+	<console>http://www.youtube.com/watch?v=8.png</console>
+	<overview>The Nintendo DS (abbreviated to DS or NDS) is a portable game console produced by Nintendo, first released on November 21, 2004. A distinctive feature of the system is the presence of two separate LCD screens, the lower of which is a touchscreen, encompassed within a clamshell design, similar to the Game Boy Advance SP. The Nintendo DS also features a built-in microphone and supports wireless standards, allowing players to interact with each other within short range, or online with the Nintendo Wi-Fi Connection service. The Nintendo DS is the first Nintendo console to be released in North America before Japan.</overview>
+	<developer>Nintendo</developer>
+	<manufacturer>Foxconn</manufacturer>
+	<cpu>ARM9</cpu>
+	<memory>4 MB RAM</memory>
+	<graphics>ARM946E-S</graphics>
+	<sound>ARM7TDMI</sound>
+	<display>256 × 192</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Rating>7.2857</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/8-1.jpg</original>
+			<thumb>platform/fanart/thumb/8-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/8-2.jpg</original>
+			<thumb>platform/fanart/thumb/8-2.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/8-3.jpg</original>
+			<thumb>platform/fanart/thumb/8-3.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="1533" height="1379">platform/boxart/8-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/8-1.jpg</banner>		<consoleart>platform/consoleart/8.png</consoleart>
+		<controllerart>platform/controllerart/8.png</controllerart>
+	</Images>
+</Platform>
+</Data>

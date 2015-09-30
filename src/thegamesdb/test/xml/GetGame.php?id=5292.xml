@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>5292</id>
+<GameTitle>Men of Valor</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>10/26/2004</ReleaseDate>
+<Overview>The story begins when Dean Shepard, the protagionist, begins combat training in Da Nang in March 1965. Dean is able to pass all the combat preparations in order to prepare to fight in the jungle. Dean was able to meet his new squad. He met squadleader Zook, and his squadmates, Hoss, Greaser, and Smooth. As they were playing football, the Da Nang military base is under attack by mortar rounds. Dean, along with his squad, prepare for their first mission, to find the Vietcong mortars and destroy them. As Dean and his squad were heading to a village, they were under attack by a small squad of Vietcong villagers. The squad is able to wipe out the Vietcong and heads to a bunker, under Vietcong's control. Dean is able to call an artillery strike, destroying the bunker and the mortar rounds. As the squad was about to evacuate, they were under attack by a larger Vietcong platoon.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Vivendi</Publisher>
+<Developer>2015</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>8014</id><PlatformId>14</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1500" height="2166" thumb="boxart/thumb/original/back/5292-1.jpg">boxart/original/back/5292-1.jpg</boxart>
+<boxart side="front" width="1500" height="2128" thumb="boxart/thumb/original/front/5292-1.jpg">boxart/original/front/5292-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

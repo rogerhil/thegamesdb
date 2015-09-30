@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>811</id>
+<GameTitle>Kane &amp; Lynch: Dead Men</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>11/14/2007</ReleaseDate>
+<Overview>In campaign mode the player controls Kane. The player is accompanied by Lynch, and sometimes other hired mercenaries. Co-op mode is available, in which the second player controls Lynch. Though almost identical to Kane's style of gameplay, Lynch has short bursts of aggression in which hallucinates nearly all AI characters are police, some sporting an animal's head. Lynch carries a shotgun and a revolver as side arm, while Kane carries an assault rifle and standard pistol, though it is possible to swap weapons. Additional weapons such as grenades, sniper rifles and carbines can be picked up, which can be swapped between allies. The player can take cover by standing next to a wall, and can blindfire. While having hired mercenaries, the player can issue orders such as follow, move to a specific position, or attack.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Eidos</Publisher>
+<Developer>IO Interactive</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>7497</id><PlatformId>15</PlatformId></Game><Game><id>11773</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/811-1.jpg</original>
+<thumb>fanart/thumb/811-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/811-2.jpg</original>
+<thumb>fanart/thumb/811-2.jpg</thumb>
+</fanart>
+<boxart side="back" width="1515" height="2128" thumb="boxart/thumb/original/back/811-1.jpg">boxart/original/back/811-1.jpg</boxart>
+<boxart side="front" width="1505" height="2128" thumb="boxart/thumb/original/front/811-1.jpg">boxart/original/front/811-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

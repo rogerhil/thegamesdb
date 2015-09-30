@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25395</id>
+<GameTitle>X-Men: Madness In Murderworld</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>01/01/1989</ReleaseDate>
+<Overview>Marvel's X-Men comic-book characters feature in this mission in the Murderworld amusement arcade. The story is told in an exclusive bundled comic - Magneto and Arcade have kidnapped Professor X, and the loyal X-Men must rescue him.
+
+If the X-Men are to save the day, the player must combine action and adventuring skills. A device to stop Magneto exists, but the pieces must be found. In total there are over 500 scenes of combat and action.
+
+You can switch between the X-Men at any time, with their special abilities ranging from Wolverine's claws to the Nightcrawler's teleporting incorporated into their moves. Other X-Men regulars feature in the game, complete with their special abilities.
+
+Pressing the space bar gives access to a panel of icons at the bottom of the screen, which allow interaction with objects and use of special powers - watch out for your power and energy levels.</Overview>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>Paragon</Publisher>
+<Developer>Paragon</Developer>
+<Images>
+<boxart side="back" width="1000" height="1172" thumb="boxart/thumb/original/back/25395-1.jpg">boxart/original/back/25395-1.jpg</boxart>
+<boxart side="front" width="1000" height="1176" thumb="boxart/thumb/original/front/25395-1.jpg">boxart/original/front/25395-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

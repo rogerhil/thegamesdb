@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>1386</id>
+<GameTitle>The Uncanny X-Men</GameTitle>
+<PlatformId>7</PlatformId>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+<ReleaseDate>12/01/1989</ReleaseDate>
+<Overview>The entire human race is in danger! Magneto and his band of evil mutants are on the rampage and nothing can stop them... except for you, professor Xavier and your uncanny X-Men. Cerebro, your advanced computer system, displays the different missions, all of which must be completed in order to accomplish your ultimate goal... the defeat of Magneto!
+Working with Wolverine, Cyclops, Storm, Colossus, Nightcrawler and Iceman, you select the best attack team for each battle based on their combination of superhuman skills.
+The X-Men must work together as a team in both the 1 player and 2 player games. The 2 player game features simultaneous control where cooperation and teamwork are essential... but be careful; once one of your super heroes is immobilized, they're out of action for the rest of the game. Good luck... humanity's fate is in your hands!</Overview>
+<Genres><genre>Action</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>LJN</Publisher>
+<Developer>LJN</Developer>
+<Images>
+<boxart side="back" width="1534" height="2099" thumb="boxart/thumb/original/back/1386-1.jpg">boxart/original/back/1386-1.jpg</boxart>
+<boxart side="front" width="1529" height="2099" thumb="boxart/thumb/original/front/1386-1.jpg">boxart/original/front/1386-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

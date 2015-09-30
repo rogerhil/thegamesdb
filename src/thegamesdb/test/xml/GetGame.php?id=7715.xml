@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7715</id>
+<GameTitle>Mushroom Men</GameTitle>
+<AlternateTitles><title>Mushroom Men: The Spore Wars</title></AlternateTitles><PlatformId>9</PlatformId>
+<Platform>Nintendo Wii</Platform>
+<ReleaseDate>12/02/2008</ReleaseDate>
+<Overview>In Mushroom Men: The Spore Wars the story takes place after a comet passes Earth, narrowly missing it and leaving a trail of green dust to fall on the planet. The dust interacted with the plants and fungi scattered around the planet, causing them to become sentient and start to form tribes in order to survive the harsh world of humans. However, a war begins between four mushrooms tribes, the Boletes, the Amanitas, the Leopiota and the Morels. The player takes control of a Bolete Mushroom named PAX who travels out into the giant human world in order to win the war for his mushroom tribe.
+
+The gameplay is a platformer, exploring levels to defeat enemies, complete certain objectives and collect items and weapons fashioned after normal household items. Players must also avoid obstacles such as insects, animals and humans that can easily crush and kill the character. There are also telekinesis powers that can be used to pick up items or throw enemies.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>Southpeak</Publisher>
+<Developer>Red Fly Studio</Developer>
+<Rating>5</Rating><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/7715-1.jpg</original>
+<thumb>fanart/thumb/7715-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1524" height="2156" thumb="boxart/thumb/original/back/7715-1.jpg">boxart/original/back/7715-1.jpg</boxart>
+<boxart side="front" width="1537" height="2156" thumb="boxart/thumb/original/front/7715-1.jpg">boxart/original/front/7715-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

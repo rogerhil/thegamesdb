@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4034</id>
+<GameTitle>X-Men: The Official Game</GameTitle>
+<PlatformId>5</PlatformId>
+<Platform>Nintendo Game Boy Advance</Platform>
+<ReleaseDate>05/16/2006</ReleaseDate>
+<Overview>Master the power of the X-Men! Become Wolverine, Nightcrawler, Iceman or Colossus and unleash their skills as you battle through events leading up to the feature film 'X-Men: The Last Stand'.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>WayForward</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>24798</id><PlatformId>15</PlatformId></Game><Game><id>30940</id><PlatformId>2</PlatformId></Game><Game><id>5374</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/4034-1.jpg</original>
+<thumb>fanart/thumb/4034-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4034-2.jpg</original>
+<thumb>fanart/thumb/4034-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4034-3.jpg</original>
+<thumb>fanart/thumb/4034-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="1530" height="1370" thumb="boxart/thumb/original/back/4034-1.jpg">boxart/original/back/4034-1.jpg</boxart>
+<boxart side="front" width="1530" height="1370" thumb="boxart/thumb/original/front/4034-1.jpg">boxart/original/front/4034-1.jpg</boxart>
+<banner width="760" height="140">graphical/4034-g.jpg</banner><clearlogo width="400" height="89">clearlogo/4034.png</clearlogo></Images>
+</Game>
+</Data>

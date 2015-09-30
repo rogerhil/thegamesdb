@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30887</id>
+<GameTitle>Project-X</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<Overview>Developed and published by Team17, it was regarded as one of the best shooter games for that platform at the time, both for its technical excellence in graphics and sounds, and for its difficult and interesting gameplay. The game resembles Konami's side-scrolling shooter games such as Gradius, Salamander and Parodius.</Overview>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Team17 Software Limited</Publisher>
+<Developer>Team17 Software Limited</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>24581</id><PlatformId>4911</PlatformId></Game></Similar><Images>
+<boxart side="front" width="197" height="256" thumb="boxart/thumb/original/front/30887-1.jpg">boxart/original/front/30887-1.jpg</boxart>
+<screenshot>
+<original width="320" height="240">screenshots/30887-1.jpg</original>
+<thumb>screenshots/thumb/30887-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

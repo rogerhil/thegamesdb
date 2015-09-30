@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>5871</id>
+<GameTitle>Spider-Man &amp; X-Men: Arcade's Revenge</GameTitle>
+<PlatformId>6</PlatformId>
+<Platform>Super Nintendo (SNES)</Platform>
+<ReleaseDate>11/01/1992</ReleaseDate>
+<Overview>Spider-Man and his mutant pals need your help to escape from Arcade's diabolical amusement park - battling killer clowns, hungry piranhas, lethal doom balls and deadly robot replicas of super-villains like Carnage and Juggernaut! Will Spidey's webs, Wolverine's claws, Gambit's energy cards, Storm's lightning bolts and Cyclops' optic blasts mean GAME OVER for Arcade? That depends on YOU!!</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>LJN Ltd.</Publisher>
+<Developer>Software Creations</Developer>
+<Rating>7</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>699</id><PlatformId>18</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/5871-1.jpg</original>
+<thumb>fanart/thumb/5871-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/5871-2.jpg</original>
+<thumb>fanart/thumb/5871-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/5871-3.jpg</original>
+<thumb>fanart/thumb/5871-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="2100" height="1542" thumb="boxart/thumb/original/back/5871-1.jpg">boxart/original/back/5871-1.jpg</boxart>
+<boxart side="front" width="2100" height="1551" thumb="boxart/thumb/original/front/5871-1.jpg">boxart/original/front/5871-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

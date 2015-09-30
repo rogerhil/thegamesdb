@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11337</id>
+<GameTitle>X-Men: Children Of The Atom</GameTitle>
+<PlatformId>17</PlatformId>
+<Platform>Sega Saturn</Platform>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<Overview>X-Men: Children of the Atom is a 2D fighting game and the first Capcom title to use licensed characters from the Marvel comic universe. It has six main characters and four of their enemies that are playable. The X-Men are Colossus, Cyclops, Iceman, Psylocke, Storm and Wolverine. The villains are Omega Red, Sentinel, Silver Samurai and Spiral. The two main bosses are Juggernaut and Magneto, and Akuma is available as a secret character.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Fighting</genre></Genres><Co-op>No</Co-op>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>2468</id><PlatformId>23</PlatformId></Game><Game><id>11634</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<boxart side="back" width="640" height="900" thumb="boxart/thumb/original/back/11337-1.jpg">boxart/original/back/11337-1.jpg</boxart>
+<boxart side="front" width="640" height="906" thumb="boxart/thumb/original/front/11337-1.jpg">boxart/original/front/11337-1.jpg</boxart>
+<clearlogo width="400" height="138">clearlogo/11337.png</clearlogo></Images>
+</Game>
+</Data>

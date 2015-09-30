@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16921</id>
+<GameTitle>Silent Hill Origins</GameTitle>
+<PlatformId>13</PlatformId>
+<Platform>Sony PSP</Platform>
+<ReleaseDate>11/06/2007</ReleaseDate>
+<Overview>The renowned Silent Hill survival horror series makes its handheld gaming debut with a brand new adventure that reveals many of the series' most hallowed secrets. Assuming the role of Travis Grady, a lone truck driver trapped in Silent Hill while making a routine delivery, players must escape the city's horrific inhabitants and confront the strange hallucinations that have haunted Travis since childhood. Taking full advantage of the PSP system's graphics, sound, and portability, Silent Hill Origins sets a new standard in handheld gaming terror.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre><genre>Horror</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Konami</Publisher>
+<Developer>Climax Group</Developer>
+<Rating>7</Rating><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/16921-1.jpg</original>
+<thumb>fanart/thumb/16921-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/16921-2.jpg</original>
+<thumb>fanart/thumb/16921-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/16921-3.jpg</original>
+<thumb>fanart/thumb/16921-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="1633" height="2827" thumb="boxart/thumb/original/back/16921-1.jpg">boxart/original/back/16921-1.jpg</boxart>
+<boxart side="front" width="1623" height="2827" thumb="boxart/thumb/original/front/16921-1.jpg">boxart/original/front/16921-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

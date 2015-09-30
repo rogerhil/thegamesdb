@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11826</id>
+<GameTitle>Midway Arcade Origins</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>11/12/2012</ReleaseDate>
+<Overview>Midway Arcade Origins offers more than 30 classic from the Midway Games catalog of arcade greats! Offering genre-defining blockbusters from the golden age of arcades, the collection includes arcade favorites, such as Gauntlet, Rampage, Joust, Spy Hunter, Defender, Marble Madness and more! New players can experience these industry-defining classics, while longtime fans of classic arcade games can re-master their favorite titles with additional goals for PlayStation Achievements / Xbox Trophies. Players will also be able to enjoy many games with up to three of their friends in local, co-op multiplayer, as well as post high scores online.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Warner Bros. Interactive</Publisher>
+<Developer>Backbone Entertainment</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>13013</id><PlatformId>15</PlatformId></Game></Similar><Images>
+<boxart side="front" width="436" height="500" thumb="boxart/thumb/original/front/11826-1.jpg">boxart/original/front/11826-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

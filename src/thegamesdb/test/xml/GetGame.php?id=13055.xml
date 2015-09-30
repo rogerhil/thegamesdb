@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13055</id>
+<GameTitle>Dragon Age: Origins - Collector's Edition</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>11/03/2009</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Co-op>No</Co-op>
+<Rating>6</Rating><Images>
+<boxart side="front" width="310" height="444" thumb="boxart/thumb/original/front/13055-1.jpg">boxart/original/front/13055-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

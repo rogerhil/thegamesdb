@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>4763</id>
+<GameTitle>X-Men Legends</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>09/21/2004</ReleaseDate>
+<Overview>X-Men Legends is played as an action role-playing game. Players choose a team of up to four characters from a larger group of X-Men. As players proceed through the game additional X-Men are unlocked. On the console versions up to four players can play in the cooperative campaign, with the ability to add or remove players at any time. Cooperative play features a refined combat system and the ability to interact with non-player characters.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Raven</Developer>
+<Rating>7</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>5444</id><PlatformId>2</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/4763-1.jpg</original>
+<thumb>fanart/thumb/4763-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4763-2.jpg</original>
+<thumb>fanart/thumb/4763-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4763-3.jpg</original>
+<thumb>fanart/thumb/4763-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4763-4.jpg</original>
+<thumb>fanart/thumb/4763-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4763-5.jpg</original>
+<thumb>fanart/thumb/4763-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/4763-6.jpg</original>
+<thumb>fanart/thumb/4763-6.jpg</thumb>
+</fanart>
+<boxart side="back" width="1533" height="2175" thumb="boxart/thumb/original/back/4763-1.jpg">boxart/original/back/4763-1.jpg</boxart>
+<boxart side="front" width="1526" height="2175" thumb="boxart/thumb/original/front/4763-1.jpg">boxart/original/front/4763-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>4920</id>
+	<Platform>Microsoft Xbox One</Platform>
+	<overview>The Xbox One was announced on May 21, 2013, and it is the successor to the Xbox 360 and the third console in the Xbox family of consoles.
+
+Moving away from the PowerPC based architecture used in the Xbox 360, the console features an AMD processor built around the x86-64 instruction set. The console places an increasing emphasis on entertainment and integration with the Kinect peripheral, offering the ability to use an existing set-top box to watch live television programming (augmented by an enhanced program guide with support for voice commands), a built-in Skype client, and improved second screen support. The console also provides new functionality for use in games, such as an expanded Xbox Live service, improved Kinect functionality, cloud computing, the ability to automatically record and share video highlights from gameplay, and integrated support for live streaming gameplay online.</overview>
+	<developer>Microsoft</developer>
+	<manufacturer>Microsoft</manufacturer>
+	<cpu>AMD 8 Core APU (2 Quad Core Jaguar Modules)</cpu>
+	<memory>8 GB DDR3</memory>
+	<graphics>AMD Radeon GPU</graphics>
+	<sound>7.1 Surround sound</sound>
+	<display>HDMI</display>
+	<media>Blu-Ray Disc, 500 GB Hard Disk</media>
+	<Rating>6.6</Rating>
+	<Images>
+		<fanart>
+			<original width="1280" height="720">platform/fanart/4920-1.jpg</original>
+			<thumb>platform/fanart/thumb/4920-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/4920-2.jpg</original>
+			<thumb>platform/fanart/thumb/4920-2.jpg</thumb>
+		</fanart>
+	</Images>
+</Platform>
+</Data>

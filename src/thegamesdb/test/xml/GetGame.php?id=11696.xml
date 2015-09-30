@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11696</id>
+<GameTitle>Army Men 3D</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>02/28/1999</ReleaseDate>
+<Overview>The little plastic army men you played with as a child are toys no longer! They are now living beings bent on destruction. Of course, you get to play an integral role in the conflict as Sarge, a sergeant (you were expecting another rank?) in the Green Army. While your objectives vary with each mission, the goal is to defeat the evil Tan Army using a little strategy and a lot of firepower.
+
+Since you'll also have to confront members of the Blue and Gray armies, you are essentially outnumbered three to one! Roll, duck, kneel, and cycle through your available weapons as you try to complete the objectives detailed at the beginning of each level. Missions range from search-and-destroy to rescue or reconnaissance operations, and you'll even drive one of four vehicles during the battles. Units include versions of six classic toys: Rifle Man, Grenadier, Bazooka Man, Mortar Man, Flamethrower, and Minesweeper.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>3DO</Publisher>
+<Developer>3DO</Developer>
+<Images>
+<boxart side="back" width="766" height="650" thumb="boxart/thumb/original/back/11696-1.jpg">boxart/original/back/11696-1.jpg</boxart>
+<boxart side="front" width="655" height="650" thumb="boxart/thumb/original/front/11696-1.jpg">boxart/original/front/11696-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

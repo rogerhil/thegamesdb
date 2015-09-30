@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3291</id>
+<GameTitle>X-Men: Mutant Apocalypse</GameTitle>
+<PlatformId>6</PlatformId>
+<Platform>Super Nintendo (SNES)</Platform>
+<ReleaseDate>01/01/1994</ReleaseDate>
+<Overview>Because of a rise of anti-mutant activity in Genosha, Professor Xavier uses Cerebro to scan the island nation and discovers Apocalypse's presence there. Genosha's government is apparently using Apocalypse to bring their mutant population under control. However, Xavier suspects Apocalypse to follow his own plans and sends five X-Men, Cyclops, Wolverine, Psylocke, Beast and Gambit, to investigate.
+
+X-Men: Mutant Apocalypse combines the gameplay of a side-scrolling brawler like Final Fight with elements of a platformer, that is, players have to fight various enemies and survive the occasional jumping-puzzle. Most levels also feature mid- and end-bosses in form of robots, monsters or known Super-Villains.
+
+Each character has unique abilities and special moves: Cyclops uses his Optic Blast to attack enemies from a distance, Wolverine can climb walls, Psylocke is very agile and the best jumper of the team, Beast can cling to the ceiling while Gambit throws explosive cards at his enemies. Special moves are quite similar to those found in Street Fighter II (Wolverine has a Dragon-Punch-style attack and Gambit's Double Kick is virtually identical to M. Bison's Scissors Kick), and require similar button combinations.
+
+While most stages are unique for each character, some can be played with any of the X-Men. Progress is saved via password.</Overview>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Avalon</Publisher>
+<Developer>Capcom</Developer>
+<Rating>7</Rating><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/3291-1.jpg</original>
+<thumb>fanart/thumb/3291-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="2100" height="1542" thumb="boxart/thumb/original/back/3291-1.jpg">boxart/original/back/3291-1.jpg</boxart>
+<boxart side="front" width="2100" height="1551" thumb="boxart/thumb/original/front/3291-1.jpg">boxart/original/front/3291-1.jpg</boxart>
+<screenshot>
+<original width="256" height="224">screenshots/3291-1.jpg</original>
+<thumb>screenshots/thumb/3291-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="256" height="224">screenshots/3291-2.jpg</original>
+<thumb>screenshots/thumb/3291-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="256" height="223">screenshots/3291-3.jpg</original>
+<thumb>screenshots/thumb/3291-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="256" height="223">screenshots/3291-4.jpg</original>
+<thumb>screenshots/thumb/3291-4.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

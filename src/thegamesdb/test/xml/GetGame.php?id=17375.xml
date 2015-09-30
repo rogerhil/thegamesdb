@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17375</id>
+<GameTitle>Marvel vs. Capcom Origins</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>09/25/2012</ReleaseDate>
+<Overview>MARVEL VS. CAPCOM ORIGINS offers both the one-on-one gameplay of Marvel Super Heroes with its unique Infinity Gem system and the two-on-two carnage of the original Marvel vs. Capcom: Clash of Super Heroes, featuring a tag system, assists, and the wild Duo Team Attack. Bringing forth a host of features never before seen in these games, MARVEL VS. CAPCOM ORIGINS features GGPO-enhanced online play with 8-player lobbies and spectator mode, HD graphical upgrades, dynamic challenges and replay saving.</Overview>
+<ESRB>T - Teen</ESRB>
+<Players>2</Players><Co-op>No</Co-op>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>17376</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="219" height="300" thumb="boxart/thumb/original/front/17375-1.jpg">boxart/original/front/17375-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

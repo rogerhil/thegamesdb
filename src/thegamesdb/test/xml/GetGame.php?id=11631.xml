@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11631</id>
+<GameTitle>X-Men: Mutant Academy</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>07/11/2000</ReleaseDate>
+<Overview>X-Men: Mutant Academy is a fighting game starring ten characters from Marvel's best-selling comic book series. The action takes place on a single plane as good and evil mutants challenge each other to one-on-one combat. Cyclops, Wolverine, Gambit, Phoenix, Beast, and Storm battle Mystique, Sabretooth, Toad, and Magneto in locales based on the comic books and 2000 film starring Ian McKellen and Patrick Stewart.
+
+String together combos by combining three types of punches and three types of kicks. The 3D characters can also jump, crouch, and perform both throws and counters while building up mutant-specific super attacks. Play modes range from Academy, where you'll practice each mutant's attacks, to standard fighting game options such as Survival, Versus, and Arcade. Artwork, costumes, and other bonuses are available by completing certain modes with different characters.</Overview>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Publisher>Activision</Publisher>
+<Developer>Paradox Development</Developer>
+<Rating>5.5</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>21931</id><PlatformId>41</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1622" height="1369" thumb="boxart/thumb/original/back/11631-1.jpg">boxart/original/back/11631-1.jpg</boxart>
+<boxart side="front" width="1414" height="1414" thumb="boxart/thumb/original/front/11631-1.jpg">boxart/original/front/11631-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

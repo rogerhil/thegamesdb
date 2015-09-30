@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7166</id>
+<GameTitle>Condemned: Criminal Origins</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>04/21/2006</ReleaseDate>
+<Overview>In Condemned: Criminal Origins players take on the role of agent Ethan Thomas, a member of the FBI's Serial Crimes Unit (SCU). He is part of an investigation looking for a serial killer known as The Match Maker, who kills people and then arranges their corpse with a department store mannequin. During the search Thomas comes across another serial killer who seems to be very interested in Thomas and his cases. It is up to you to determine who the true serial killer is, and who is behind it.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Horror</genre></Genres><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Monolith</Developer>
+<Rating>7</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>9144</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/7166-1.jpg</original>
+<thumb>fanart/thumb/7166-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1512" height="2156" thumb="boxart/thumb/original/back/7166-1.jpg">boxart/original/back/7166-1.jpg</boxart>
+<boxart side="front" width="1537" height="2156" thumb="boxart/thumb/original/front/7166-1.jpg">boxart/original/front/7166-1.jpg</boxart>
+<banner width="760" height="140">graphical/7166-g.jpg</banner><clearlogo width="400" height="153">clearlogo/7166.png</clearlogo></Images>
+</Game>
+</Data>

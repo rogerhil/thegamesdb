@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24581</id>
+<GameTitle>Project-X</GameTitle>
+<PlatformId>4911</PlatformId>
+<Platform>Amiga</Platform>
+<ReleaseDate>12/01/1992</ReleaseDate>
+<Overview>Project-X is a scrolling shooter game for the Amiga computer released in 1992. It was also ported to DOS.
+
+Developed and published by Team17, it was regarded as one of the best shooter games for that platform at the time, both for its technical excellence in graphics and sounds, and for its difficult and interesting gameplay. The game resembles Konami's side-scrolling shooter games such as Gradius, Salamander and Parodius.</Overview>
+<Genres><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Team 17</Publisher>
+<Developer>Team 17</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>30887</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="256" height="327" thumb="boxart/thumb/original/front/24581-1.jpg">boxart/original/front/24581-1.jpg</boxart>
+<screenshot>
+<original width="676" height="507">screenshots/24581-1.jpg</original>
+<thumb>screenshots/thumb/24581-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="251" height="201">screenshots/24581-2.jpg</original>
+<thumb>screenshots/thumb/24581-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="320" height="256">screenshots/24581-3.jpg</original>
+<thumb>screenshots/thumb/24581-3.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>
