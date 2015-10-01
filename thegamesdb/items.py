@@ -29,10 +29,10 @@ class Game(BaseItem):
     to keep consistency/
     """
     extra_attributes = [
-        'platform', 'overview', 'esrb', 'genres', 'youtube', 'publisher',
-        'developer', 'rating', 'similar', 'images'
+        'platform', 'overview', 'esrb', 'genres', 'players', 'co-op',
+        'youtube', 'publisher', 'developer', 'rating', 'similar', 'images'
     ]
-    translate = {'gametitle': 'name'}
+    translate = {'gametitle': 'name', 'co-op': 'co_op'}
 
     def __str__(self):
         """ Overrides to include the platform.
