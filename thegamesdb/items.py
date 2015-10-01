@@ -29,8 +29,9 @@ class Game(BaseItem):
     to keep consistency/
     """
     extra_attributes = [
-        'platform', 'overview', 'esrb', 'genres', 'players', 'co-op',
-        'youtube', 'publisher', 'developer', 'rating', 'similar', 'images'
+        'releasedate', 'platform', 'overview', 'esrb', 'genres', 'players',
+        'co-op', 'youtube', 'publisher', 'developer', 'rating', 'similar',
+        'images'
     ]
     translate = {'gametitle': 'name', 'co-op': 'co_op'}
 

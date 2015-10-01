@@ -37,6 +37,12 @@ class TheGamesDbMock(TheGamesDb):
     method to read XML files saved locally instead of using the network.
     """
 
+    def __init__(self, xml_path=None):
+        """ Overrides just to include the options argument xml_path.
+        """
+        super(TheGamesDbMock, self).__init__()
+        self.xml_path = XmlsDb.xml_path if xml_path is None else xml_path
+
     def get_response(self, path, **params):
         """ Each XML file save has the exact service path name with the
         parameters, so it's easy to get the proper by checking the file names.
@@ -45,9 +51,9 @@ class TheGamesDbMock(TheGamesDb):
         """
         service = XmlsDb.get_service_path_by_path_params(path, **params)
         response = None
-        for filename in os.listdir(XmlsDb.xml_path):
+        for filename in os.listdir(self.xml_path):
             if service == os.path.splitext(filename)[0]:
-                with open(os.path.join(XmlsDb.xml_path, filename)) as xml:
+                with open(os.path.join(self.xml_path, filename)) as xml:
                     response = xml.read()
         if response is None:
             raise MockException('No mock xml file for "%s"' % service)
