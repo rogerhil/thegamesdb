@@ -26,8 +26,10 @@ __version__ = "0.1"
 __maintainer__ = "Rogerio Hilbert Lima"
 __email__ = "rogerhil@gmail.com"
 
+import time
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 from random import randint
 from xmltodict import parse
 
@@ -60,28 +62,50 @@ class TheGamesDb(object):
 
     base_url = 'http://thegamesdb.net/api/'
 
-    def __init__(self):
-        """ This constructor just sets the resources instances and the user
-        agents to avoid to being banned by the API server.
+    def __init__(self, request_attempts=10, seconds_between_attempts=5):
+        """ This constructor sets the resources instances and the user
+        agents to avoid to being banned by the API server. Every last request
+        made by the API saves the last response in the self.last_response.
+        If the request fails because a 502 status, it attempts to do it again
+        many times defined in the request_attempts argument. And the attempt is
+        made after seconds defined in the seconds_between_attempts argument.
         """
         self.game = GameResource(self)
         self.platform = PlatformResource(self)
         self.user_agents = USER_AGENTS
         self.last_response = None
+        self.request_attempts = abs(request_attempts)
+        self.seconds_between_attempts = abs(seconds_between_attempts)
 
     def get_response(self, path, **params):
         """ Giving a service path and optional specific arguments, returns
-        the response object.
+        the response string.
         """
         url = "%s%s" % (self.base_url, path)
         data = urlencode(params)
         url = "%s?%s" % (url, data)
         headers = {'User-Agent': self.get_random_agent()}
         request = Request(url, headers=headers, method='GET')
-        with urlopen(request) as response:
-            response_str = response.read()
-            self.last_response = response_str
-        return response_str
+
+        def open_request(request, attempts, err=None):
+            if attempts > self.request_attempts:
+                raise err
+            attempts += 1
+            try:
+                with urlopen(request) as response:
+                    return response.read()
+            except HTTPError as err:
+                if err.getcode() != 502:
+                    raise err
+                print("HTTPError occurred while trying to request the url "
+                      "%s. %s. Trying again in %s seconds..." % (url, err,
+                                                self.seconds_between_attempts))
+                time.sleep(self.seconds_between_attempts)
+                return open_request(request, attempts, err)
+
+        attempts = 0
+        self.last_response = open_request(request, attempts)
+        return self.last_response
 
     def get_data(self, path, **params):
         """ Giving a service path and optional specific arguments, returns
