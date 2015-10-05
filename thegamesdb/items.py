@@ -33,12 +33,43 @@ class Game(BaseItem):
         'co-op', 'youtube', 'publisher', 'developer', 'rating', 'similar',
         'images'
     ]
-    translate = {'gametitle': 'name', 'co-op': 'co_op'}
+    translate = {'gametitle': 'name', 'co-op': 'co_op', 'thumb': '_thumb'}
+
+    base_img_url = "http://thegamesdb.net/banners"
+    boxart_base = "%s/boxart/original" % base_img_url
+    boxart_thumb_base = "%s/boxart/thumb/original" % base_img_url
 
     def __str__(self):
         """ Overrides to include the platform.
         """
         return "%s (%s)" % (str(self.name), self.platform)
+
+    @property
+    def thumb(self):
+        if not getattr(self, '_thumb', None):
+            boxart = self.images['boxart']
+            if isinstance(boxart, list):
+                boxart = boxart[0]
+            self._thumb = boxart['@thumb']
+        return self._thumb
+
+    @property
+    def boxart_front(self):
+        return "%s/front/%s" % (self.boxart_base, self.thumb.split('/')[-1])
+
+    @property
+    def boxart_back(self):
+        return "%s/back/%s" % (self.boxart_base, self.thumb.split('/')[-1])
+
+    @property
+    def boxart_front_thumb(self):
+        return "%s/front/%s" % (self.boxart_thumb_base,
+                                self.thumb.split('/')[-1])
+
+    @property
+    def boxart_back_thumb(self):
+        return "%s/back/%s" % (self.boxart_thumb_base,
+                               self.thumb.split('/')[-1])
 
 
 class Platform(BaseItem):
