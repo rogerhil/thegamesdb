@@ -61,6 +61,7 @@ class TheGamesDb(object):
     """
 
     base_url = 'http://thegamesdb.net/api/'
+    base_images_url = 'http://thegamesdb.net/banners/'
 
     def __init__(self, request_attempts=10, seconds_between_attempts=5):
         """ This constructor sets the resources instances and the user
@@ -77,11 +78,10 @@ class TheGamesDb(object):
         self.request_attempts = abs(request_attempts)
         self.seconds_between_attempts = abs(seconds_between_attempts)
 
-    def get_response(self, path, **params):
+    def _get_response(self, url, **params):
         """ Giving a service path and optional specific arguments, returns
         the response string.
         """
-        url = "%s%s" % (self.base_url, path)
         data = urlencode(params)
         url = "%s?%s" % (url, data)
         headers = {'User-Agent': self.get_random_agent()}
@@ -106,6 +106,17 @@ class TheGamesDb(object):
         attempts = 0
         self.last_response = open_request(request, attempts)
         return self.last_response
+
+    def get_response(self, path, **params):
+        """ Giving a service path and optional specific arguments, returns
+        the response string.
+        """
+        url = "%s%s" % (self.base_url, path)
+        return self._get_response(url)
+
+    def get_image_data(self, path):
+        url = "%s%s" % (self.base_images_url, path)
+        return self._get_response(url)
 
     def get_data(self, path, **params):
         """ Giving a service path and optional specific arguments, returns

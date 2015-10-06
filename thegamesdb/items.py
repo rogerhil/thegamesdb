@@ -47,7 +47,11 @@ class Game(BaseItem):
     @property
     def thumb(self):
         if not getattr(self, '_thumb', None):
-            boxart = self.images['boxart']
+            if self.images is None:
+                return
+            boxart = self.images.get('boxart')
+            if boxart is None:
+                return
             if isinstance(boxart, list):
                 boxart = boxart[0]
             self._thumb = boxart['@thumb']
@@ -55,19 +59,27 @@ class Game(BaseItem):
 
     @property
     def boxart_front(self):
+        if self.thumb is None:
+            return
         return "%s/front/%s" % (self.boxart_base, self.thumb.split('/')[-1])
 
     @property
     def boxart_back(self):
+        if self.thumb is None:
+            return
         return "%s/back/%s" % (self.boxart_base, self.thumb.split('/')[-1])
 
     @property
     def boxart_front_thumb(self):
+        if self.thumb is None:
+            return
         return "%s/front/%s" % (self.boxart_thumb_base,
                                 self.thumb.split('/')[-1])
 
     @property
     def boxart_back_thumb(self):
+        if self.thumb is None:
+            return
         return "%s/back/%s" % (self.boxart_thumb_base,
                                self.thumb.split('/')[-1])
 
