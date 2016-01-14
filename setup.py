@@ -12,12 +12,12 @@ local_file = lambda f: open(os.path.join(os.path.dirname(__file__), f)).read()
 if __name__ == '__main__':
     setup(
         name='thegamesdb',
-        version='0.2',
+        version='0.3',
         description='The Games DB API wrapper for Python',
         long_description=long_description,
         author='Rogerio Hilbert Lima',
         author_email='rogerhil@gmail.com',
         url='https://github.com/rogerhil/thegamesdb',
-        download_url='https://github.com/rogerhil/thegamesdb/tarball/0.2',
+        download_url='https://github.com/rogerhil/thegamesdb/tarball/0.3',
         packages=find_packages()
     )
