@@ -12,5 +12,6 @@ if __name__ == '__main__':
         author='Rogerio Hilbert Lima',
         author_email='rogerhil@gmail.com',
         url='https://github.com/rogerhil/thegamesdb',
+        download_url='https://github.com/rogerhil/thegamesdb/tarball/0.2',
         packages=find_packages()
     )
