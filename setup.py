@@ -6,7 +6,7 @@ local_file = lambda f: open(os.path.join(os.path.dirname(__file__), f)).read()
 if __name__ == '__main__':
     setup(
         name='thegamesdb',
-        version='0.1',
+        version='0.2',
         description='The Games DB API wrapper for Python',
         long_description=local_file('README.md'),
         author='Rogerio Hilbert Lima',
