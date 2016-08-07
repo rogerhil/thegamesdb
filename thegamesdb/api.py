@@ -112,7 +112,7 @@ class TheGamesDb(object):
         the response string.
         """
         url = "%s%s" % (self.base_url, path)
-        return self._get_response(url)
+        return self._get_response(url, **params)
 
     def get_image_data(self, path):
         url = "%s%s" % (self.base_images_url, path)
