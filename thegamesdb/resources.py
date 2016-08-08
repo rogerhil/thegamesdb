@@ -41,7 +41,8 @@ class GameResource(Resource):
         """
         data_list = self.db.get_data(self.list_path, name=name,
                                      platform=platform, genre=genre)
-        games = data_list['Data']['Game']
+        data_list = data_list.get('Data') or {}
+        games = data_list.get('Game') or []
         return [self._build_item(**i) for i in games]
 
 
@@ -65,7 +66,8 @@ class PlatformResource(Resource):
         specification.
         """
         data_list = self.db.get_data(self.list_path)
-        platforms = data_list['Data']['Platforms']['Platform']
+        data_list = data_list.get('Data') or {}
+        platforms = (data_list.get('Platforms') or {}).get('Platform') or []
         return [self._build_item(**i) for i in platforms]
 
     def games(self, platform):
@@ -74,4 +76,5 @@ class PlatformResource(Resource):
         """
         platform = platform.lower()
         data_list = self.db.get_data(self.games_path, platform=platform)
-        return [Game(self.db.game, **i) for i in data_list['Data']['Game']]
+        data_list = data_list.get('Data') or {}
+        return [Game(self.db.game, **i) for i in data_list.get('Game') or {}]

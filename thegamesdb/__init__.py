@@ -17,7 +17,7 @@
 __author__ = "Rogerio Hilbert Lima"
 __copyright__ = "Copyright (C) 2015 Rogerio Hilbert Lima <rogerhil@gmail.com>"
 __license__ = "GPL"
-__version__ = "0.4"
+__version__ = "0.5"
 __maintainer__ = "Rogerio Hilbert Lima"
 __email__ = "rogerhil@gmail.com"
 
