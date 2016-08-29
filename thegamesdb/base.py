@@ -23,6 +23,10 @@ __copyright__ = "Copyright (C) 2015 Rogerio Hilbert Lima <rogerhil@gmail.com>"
 __license__ = "GPL"
 
 
+class GamesDbException(Exception):
+    pass
+
+
 class Resource(object):
     """ Abstract class for a generic game resource. Child classes must provide
     the following attributes:

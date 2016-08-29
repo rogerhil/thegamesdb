@@ -22,7 +22,7 @@ __author__ = "Rogerio Hilbert Lima"
 __copyright__ = "Copyright (C) 2015 Rogerio Hilbert Lima <rogerhil@gmail.com>"
 __license__ = "GPL"
 
-from .base import Resource
+from .base import Resource, GamesDbException
 from .items import Game, Platform
 
 
@@ -32,6 +32,7 @@ class GameResource(Resource):
     name = 'Game'
     get_path = 'GetGame.php'
     list_path = 'GetGamesList.php'
+    updates_path = 'Updates.php'
     item_class = Game
 
     def list(self, name, platform='', genre=''):
@@ -44,6 +45,13 @@ class GameResource(Resource):
         data_list = data_list.get('Data') or {}
         games = data_list.get('Game') or []
         return [self._build_item(**i) for i in games]
+
+    def updates(self, seconds):
+        data_list = self.db.get_data(self.updates_path, time=seconds)
+        if 'Items' not in data_list:
+            raise GamesDbException(data_list.get('Error', str(data_list)))
+        return dict(time=data_list['Items']['Time'],
+                    games=data_list['Items']['Game'])
 
 
 class PlatformResource(Resource):
