@@ -89,7 +89,7 @@ class TheGamesDb(object):
                 raise err
             attempts += 1
             try:
-                with urlopen(request) as response:
+                with urlopen(request, timeout=30) as response:
                     return response.read()
             except HTTPError as err:
                 if err.getcode() != 502:
