@@ -60,7 +60,8 @@ class TheGamesDb(object):
     base_url = 'http://thegamesdb.net/api/'
     base_images_url = 'http://thegamesdb.net/banners/'
 
-    def __init__(self, request_attempts=10, seconds_between_attempts=5):
+    def __init__(self, request_attempts=10, seconds_between_attempts=5,
+                 timeout=90):
         """ This constructor sets the resources instances and the user
         agents to avoid to being banned by the API server. Every last request
         made by the API saves the last response in the self.last_response.
@@ -74,6 +75,7 @@ class TheGamesDb(object):
         self.last_response = None
         self.request_attempts = abs(request_attempts)
         self.seconds_between_attempts = abs(seconds_between_attempts)
+        self.timeout = timeout
 
     def _get_response(self, url, **params):
         """ Giving a service path and optional specific arguments, returns
@@ -89,7 +91,7 @@ class TheGamesDb(object):
                 raise err
             attempts += 1
             try:
-                with urlopen(request, timeout=30) as response:
+                with urlopen(request, timeout=self.timeout) as response:
                     return response.read()
             except HTTPError as err:
                 if err.getcode() != 502:
