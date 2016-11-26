@@ -60,8 +60,8 @@ class TheGamesDb(object):
     base_url = 'http://thegamesdb.net/api/'
     base_images_url = 'http://thegamesdb.net/banners/'
 
-    def __init__(self, request_attempts=10, seconds_between_attempts=5,
-                 timeout=90):
+    def __init__(self, request_attempts=10, seconds_between_attempts=10,
+                 timeout=300):
         """ This constructor sets the resources instances and the user
         agents to avoid to being banned by the API server. Every last request
         made by the API saves the last response in the self.last_response.
@@ -88,14 +88,14 @@ class TheGamesDb(object):
 
         def open_request(request, attempts, err=None):
             if attempts > self.request_attempts:
-                raise err
+                raise
             attempts += 1
             try:
                 with urlopen(request, timeout=self.timeout) as response:
                     return response.read()
             except HTTPError as err:
-                if err.getcode() != 502:
-                    raise err
+                if err.getcode() < 500:
+                    raise
                 print("HTTPError occurred while trying to request the url "
                       "%s. %s. Trying again in %s seconds..." % (url, err,
                                                 self.seconds_between_attempts))
@@ -128,7 +128,7 @@ class TheGamesDb(object):
             print(path)
             print(params)
             print(err)
-            raise err
+            raise
 
     def get_random_agent(self):
         """ Randomly returns one of the items in the the user_agents list
